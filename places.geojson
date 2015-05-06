@@ -1,1 +1,3589 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5507673,41.4549927]},"properties":{"Site":"Adlai E. Stevenson Elementary School","Kind":"Pantry","Address":"18300 Woda Avenue","Zip":"44122","Phone":"","Program Start/End Date":"6/8/15 - 7/3/15","Service Days ":"M-F","Breakfast Time":"9:00 AM - 9:30 AM","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5715408,41.4217339]},"properties":{"Site":"ALLIANCE FOR FAMILY HOPE","Kind":"Pantry","Address":"5050 STANLEY","Zip":"44137","Phone":"","Program Start/End Date":"6/22/15 - 7/25/15","Service Days ":"M-F","Breakfast Time":"8:30 AM - 9:30 AM","Lunch Time":"11:00 AM - 12:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7597427,41.480217]},"properties":{"Site":"Applewood Centers","Kind":"Pantry","Address":"10427 Detroit Ave","Zip":"44102","Phone":"","Program Start/End Date":"6/8/15 - 8/21/15","Service Days ":"M-F","Breakfast Time":"9:00am - 10:30 AM","Lunch Time":"12:30 PM - 2:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5245285,41.4868088]},"properties":{"Site":"Bellefaire JCB","Kind":"Pantry","Address":"22001 Fairmount Blvd","Zip":"44118","Phone":"","Program Start/End Date":"6/8/15 - 8/21/15","Service Days ":"M-F","Breakfast Time":"9:00am - 10:00am","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5653981,41.5033966]},"properties":{"Site":"BGC - Cleveland Heights","Kind":"Pantry","Address":"2065 Lee road","Zip":"44118","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"12:00 PM - 5:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6243515,41.5294418]},"properties":{"Site":"BGC - Michael R. White STEM School","Kind":"Pantry","Address":"1000 E. 92nd Street","Zip":"44124","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"10:00 AM - 11:00 AM","Lunch Time":"1:00 AM - 2:00 AM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5906143,41.4585533]},"properties":{"Site":"BGC - Mt. Pleasant","Kind":"Pantry","Address":"3689 E. 131st st","Zip":"44120","Phone":"","Program Start/End Date":"6/8/15 - 8/8/15","Service Days ":"M-S","Breakfast Time":"None","Lunch Time":"3:00 PM - 4:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6478318,41.4641686]},"properties":{"Site":"BGC - Broadway","Kind":"Pantry","Address":"6114 Broadway","Zip":"44127","Phone":"","Program Start/End Date":"5/26/15 - 8/21/15","Service Days ":"M-S","Breakfast Time":"None","Lunch Time":"2:30 PM - 3:30 PM (3:00-4:00pm on Saturday)"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5776367,41.5401077]},"properties":{"Site":"BGC - East Cleveland/MLK","Kind":"Pantry","Address":"14801 Shaw Ave","Zip":"44112","Phone":"","Program Start/End Date":"6/8/15 - 8/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"1:00 PM - 1:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6099932,41.5357567]},"properties":{"Site":"BGC - FDR","Kind":"Pantry","Address":"800 Linn Dr","Zip":"44108","Phone":"","Program Start/End Date":"6/8/15 - 8/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"2:30 PM - 3:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7070007,41.4706383]},"properties":{"Site":"BGC -Walton School","Kind":"Pantry","Address":"3409 Walton Ave","Zip":"44113","Phone":"","Program Start/End Date":"6/1/15 - 8/7/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"2:00 PM - 3:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7058419,41.4617861]},"properties":{"Site":"BGC -Westside","Kind":"Pantry","Address":"3340 Trowbridge ave","Zip":"44109","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"1:00 PM - 3:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5717621,41.4456406]},"properties":{"Site":"BGC-Charles Eliot ","Kind":"Pantry","Address":"15700 LOTUS DR.","Zip":"44128","Phone":"","Program Start/End Date":"6/2/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00pm - 12:45PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.388771,41.414505]},"properties":{"Site":"Chagrin Falls Park Community Center","Kind":"Pantry","Address":"7060 Woodland","Zip":"44023","Phone":"","Program Start/End Date":"6/22/15 - 8/7/15","Service Days ":"M-F","Breakfast Time":"9:00 AM - 10:00 AM","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5100339,40.7533684]},"properties":{"Site":"Childrens Cupboard","Kind":"Pantry","Address":"176 Hedges Street","Zip":"44903","Phone":"","Program Start/End Date":"6/22/15 - 7/16/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"12noon - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7813683,41.4848149]},"properties":{"Site":"Church of the Ascension","Kind":"Pantry","Address":"13216 Detroit Ave.","Zip":"44107","Phone":"","Program Start/End Date":"6/15/15 - 8/17/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 1:00 AM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.644292,41.4593963]},"properties":{"Site":"Cleveland Central Catholic","Kind":"Pantry","Address":"6550 Baxter Ave","Zip":"44105","Phone":"","Program Start/End Date":"6/15/15 - 8/14/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"1:15 PM - 3:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.8030167,41.4290848]},"properties":{"Site":"CMSD -Robinson G. Jones","Kind":"Pantry","Address":"4550 W. 150th Street","Zip":"44135","Phone":"","Program Start/End Date":"6/1/15 - 7/23/15","Service Days ":"M,W,R","Breakfast Time":"9:00am - 9:30am","Lunch Time":"11:30 AM - 12:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5912224,41.4545602]},"properties":{"Site":"CPL -  E. 131 STREET BRANCH","Kind":"Pantry","Address":"3830 EAST 131 STREET","Zip":"44120","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6138153,41.5045662]},"properties":{"Site":"CPL - MARTIN L. KING, JR. BRANCH","Kind":"Pantry","Address":"1962 STOKES BLVD.","Zip":"44106","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7014404,41.4539098]},"properties":{"Site":"CPL - Brooklyn Branch","Kind":"Pantry","Address":"3706 Pearl Road","Zip":"44109","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7105211,41.4830654]},"properties":{"Site":"CPL - Carnegie West","Kind":"Pantry","Address":"1900 Fulton Road","Zip":"44113","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5759964,41.5559692]},"properties":{"Site":"CPL - COLLINWOOD BRANCH","Kind":"Pantry","Address":"856 EAST 152 STREET","Zip":"44110","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7685165,41.4630508]},"properties":{"Site":"CPL - EASTMAN BRANCH","Kind":"Pantry","Address":"11602 LORAIN AVENUE","Zip":"44111","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6382675,41.4573555]},"properties":{"Site":"CPL - Fleet","Kind":"Pantry","Address":"7224 Broadway Ave","Zip":"44105","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6221237,41.4718208]},"properties":{"Site":"CPL - GARDEN VALLEY BRANCH","Kind":"Pantry","Address":"7201 KINSMAN AVENUE","Zip":"44104","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.602256,41.541069]},"properties":{"Site":"CPL - GLENVILLE BRANCH","Kind":"Pantry","Address":"11900 ST. CLAIR AVENUE","Zip":"44108","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6229858,41.5143814]},"properties":{"Site":"CPL - HOUGH BRANCH","Kind":"Pantry","Address":"1566 CRAWFORD ROAD","Zip":"44106","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6855545,41.4792557]},"properties":{"Site":"CPL - JEFFERSON BRANCH","Kind":"Pantry","Address":"850 JEFFERSON AVENUE","Zip":"44113","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6171648,41.5214807]},"properties":{"Site":"CPL - LANGSTON HUGHES BRANCH","Kind":"Pantry","Address":"10200 SUPERIOR AVENUE","Zip":"44106","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5844574,41.464035]},"properties":{"Site":"CPL - MT. PLEASANT BRANCH","Kind":"Pantry","Address":"14000 KINSMAN ROAD","Zip":"44120","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6060229,41.484314]},"properties":{"Site":"CPL - RICE BRANCH","Kind":"Pantry","Address":"11353 SHAKER BLVD.","Zip":"44120","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7906225,41.4341345]},"properties":{"Site":"CPL - ROCKPORT BRANCH","Kind":"Pantry","Address":"4421 WEST 140TH STREET","Zip":"44135","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7071173,41.4386702]},"properties":{"Site":"CPL - SOUTH BROOKLYN BRANCH","Kind":"Pantry","Address":"4303 PEARL ROAD","Zip":"44109","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6667786,41.4975624]},"properties":{"Site":"CPL - STERLING BRANCH","Kind":"Pantry","Address":"2200 E. 30TH STREET","Zip":"44115","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6214053,41.4643543]},"properties":{"Site":"CPL - UNION BRANCH","Kind":"Pantry","Address":"3465 EAST 93RD STREET","Zip":"44104","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-S","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.739616,41.482036]},"properties":{"Site":"CPL - WALZ BRANCH","Kind":"Pantry","Address":"7910 DETROIT AVENUE","Zip":"44102","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.8073807,41.4514275]},"properties":{"Site":"CPL - WEST PARK BRANCH","Kind":"Pantry","Address":"3805 WEST 157TH STREET","Zip":"44111","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6489798,41.4879765]},"properties":{"Site":"CPL - WOODLAND BRANCH","Kind":"Pantry","Address":"5806 WOODLAND AVENUE","Zip":"44104","Phone":"","Program Start/End Date":"6/9/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7353597,41.4345624]},"properties":{"Site":"CCPL - Brooklyn Branch","Kind":"Pantry","Address":"4480 Ridge Road","Zip":"44144","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:45AM - 12:15PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5696564,41.4181175]},"properties":{"Site":"CCPL - Maple Heights Branch","Kind":"Pantry","Address":"5225 Library Lane","Zip":"44137","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"12:00 noon - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6972198,41.4041176]},"properties":{"Site":"CCPL - Parma Snow Branch","Kind":"Pantry","Address":"2121 Snow Rd","Zip":"44134","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:15 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.534436,41.3940181]},"properties":{"Site":"CCPL - Southeast Branch","Kind":"Pantry","Address":"70 Columbus Road","Zip":"44146","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"11:45 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6048454,41.4154623]},"properties":{"Site":"CCPL - Garfield Heights Branch","Kind":"Pantry","Address":"5409 Turney Road","Zip":"44125","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"12:00 P.M. - 12:30 P.M."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5263271,41.4405765]},"properties":{"Site":"CCPL - Warrensville Branch","Kind":"Pantry","Address":"4415 Northfield Road","Zip":"44128","Phone":"","Program Start/End Date":"6/15/15 - 3/6/15","Service Days ":"M-R","Breakfast Time":"None","Lunch Time":"12:15 p.m. - 12:45 p.m."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5846863,41.5284576]},"properties":{"Site":"East Cleveland Public Library","Kind":"Pantry","Address":"14101 Euclid Ave","Zip":"44101","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"1:00 PM - 2:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5976257,41.4916992]},"properties":{"Site":"Fairhill Partners","Kind":"Pantry","Address":"12200 Fairhill Road","Zip":"44105","Phone":"","Program Start/End Date":"7/7/15 - 7/30/15","Service Days ":"T-R","Breakfast Time":"9:00am - 10:00am","Lunch Time":"12:30pm - 1:30pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6391294,41.4881596]},"properties":{"Site":"Family for Life Foundation","Kind":"Pantry","Address":"7115 Woodland Avenue","Zip":"44104","Phone":"","Program Start/End Date":"6/8/15 - 8/31/15","Service Days ":"M-F","Breakfast Time":"7:00am - 8:30am","Lunch Time":"11:00am - 12:30pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5184402,40.7584457]},"properties":{"Site":"First English Lutheran Christian Day School","Kind":"Pantry","Address":"53 Park Ave West","Zip":"44902","Phone":"","Program Start/End Date":"6/15/15 - 7/30/15","Service Days ":"M-R","Breakfast Time":"8:30 AM - 9:30 AM","Lunch Time":"11:15 AM - 12:15 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5698853,41.5161514]},"properties":{"Site":"East Cleveland Neighborhood Center - Freedom School","Kind":"Pantry","Address":"2490 Lee Blvd Suite 322","Zip":"44118","Phone":"","Program Start/End Date":"6/15/15 - 7/24/15","Service Days ":"M-F","Breakfast Time":"8:00am - 8:45 AM","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6259389,41.4933752]},"properties":{"Site":"Olivet Baptist Church - Freedom School","Kind":"Pantry","Address":"8712 Quincy Avenue","Zip":"44106","Phone":"","Program Start/End Date":"6/15/15 - 7/24/15","Service Days ":"M-F","Breakfast Time":"8:00 A M - 8:30 A M","Lunch Time":"12:00pm - 1:00 P M"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6342457,41.5038103]},"properties":{"Site":"Glenville Legacy Center - Camp ROC","Kind":"Pantry","Address":"7820 Euclid Ave","Zip":"44103","Phone":"","Program Start/End Date":"6/15/15 - 7/23/15","Service Days ":"M-R","Breakfast Time":"9:00am - 10:00am","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7020111,41.4393768]},"properties":{"Site":"Grace Church","Kind":"Pantry","Address":"2503 Broadview Road","Zip":"44109","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5912278,41.4549659]},"properties":{"Site":"Holy Trinity Baptist Church","Kind":"Pantry","Address":"3808  East 131st. Street","Zip":"44120","Phone":"","Program Start/End Date":"5/15/15 - 8/31/15","Service Days ":"M-F","Breakfast Time":"9:00 AM - 10:30 AM","Lunch Time":"12:30 PM - 1:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5510577,41.5205318]},"properties":{"Site":"JUST 4 KIDS","Kind":"Pantry","Address":"3565 MAYFIELD ROAD","Zip":"44118","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"8:00AM - 9:00AM","Lunch Time":"11:00 AM - 12:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6240616,41.4942474]},"properties":{"Site":"Karamu House","Kind":"Pantry","Address":"2355 East 89th Street","Zip":"44105","Phone":"","Program Start/End Date":"6/1/15 - 8/21/15","Service Days ":"M-R","Breakfast Time":"6:30am - 9:30 AM","Lunch Time":"12:00 PM - 2:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.643814,41.525588]},"properties":{"Site":"Kingdom Builders of Christ Church","Kind":"Pantry","Address":"6612 st. clair avenue","Zip":"44108","Phone":"","Program Start/End Date":"6/8/15 - 8/31/15","Service Days ":"M,S","Breakfast Time":"None","Lunch Time":"5:00 PM - 5:45 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6305986,41.5036158]},"properties":{"Site":"Liberty Hill Baptist Church","Kind":"Pantry","Address":"8206 Euclid Avenue","Zip":"44103","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"7:00am - 8:00am","Lunch Time":"11:45 AM - 12:15 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6639862,41.5062256]},"properties":{"Site":"Open Doors Academy","Kind":"Pantry","Address":"3311 Perkins Ave.","Zip":"44114","Phone":"","Program Start/End Date":"6/15/15 - 8/6/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7655419,41.4050668]},"properties":{"Site":"Parma City Schools","Kind":"Pantry","Address":"11212 Snow Road","Zip":"44130","Phone":"","Program Start/End Date":"6/9/15 - 8/21/15","Service Days ":"M-F","Breakfast Time":"9:00am - 10:00am","Lunch Time":"12:00pm - 1:30pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.691864,41.4769211]},"properties":{"Site":"Pilgrim Congregational United Church of Christ","Kind":"Pantry","Address":"2592 West 14th Street","Zip":"44113","Phone":"","Program Start/End Date":"6/15/15 - 7/17/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00pm - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5802231,41.4481506]},"properties":{"Site":"Robert H. Jamison School","Kind":"Pantry","Address":"4092 East 146th Street","Zip":"44128","Phone":"","Program Start/End Date":"6/8/15 - 7/10/15","Service Days ":"M-F","Breakfast Time":"9:00am - 10:00am","Lunch Time":"1:00pm - 2:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6249008,41.5205078]},"properties":{"Site":"SA - Superior","Kind":"Pantry","Address":"9000 Superior Avenue","Zip":"44106","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30a - 12:30P"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5572128,41.5767632]},"properties":{"Site":"SA - Temple","Kind":"Pantry","Address":"17625 Grovewwod","Zip":"44110","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"8:00am - 9:00am","Lunch Time":"12:00 PM - 1:30 AM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7760689,41.4595116]},"properties":{"Site":"SA - West Park","Kind":"Pantry","Address":"12645 Lorain Ave","Zip":"44111","Phone":"","Program Start/End Date":"6/22/15 - 8/7/15","Service Days ":"M-F","Breakfast Time":"9:00am - 10:00am","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7166928,41.4697026]},"properties":{"Site":"SA-Ohio City","Kind":"Pantry","Address":"4402 Clark Ave","Zip":"44109","Phone":"","Program Start/End Date":"6/8/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"8:30am - 9:00am","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6965942,41.4701424]},"properties":{"Site":"Scranton Road Ministries ","Kind":"Pantry","Address":"3095 Scranton Road","Zip":"44113","Phone":"","Program Start/End Date":"6/1/15 - 7/30/15","Service Days ":"M-R","Breakfast Time":"9:30 AM - 10:00 AM","Lunch Time":"12:00 PM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5621339,41.5334976]},"properties":{"Site":"Start Right CDC","Kind":"Pantry","Address":"977 Caledonia Ave","Zip":"44112","Phone":"","Program Start/End Date":"6/22/15 - 8/6/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"1:30 AM - 2:00 AM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5237656,40.7703285]},"properties":{"Site":"City of Mansfield - North Lake","Kind":"Pantry","Address":"445 Bowman St","Zip":"44903","Phone":"","Program Start/End Date":"6/22/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5237656,40.7703285]},"properties":{"Site":"City of Mansfield - Ocie Hill ","Kind":"Pantry","Address":"445 Bowman St","Zip":"44903","Phone":"","Program Start/End Date":"6/22/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"8:00am - 9:00am","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5237656,40.7703285]},"properties":{"Site":"City of Mansfield - Prospect Park","Kind":"Pantry","Address":"445 Bowman St","Zip":"44903","Phone":"","Program Start/End Date":"6/22/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5052234,40.7728386]},"properties":{"Site":"Teach Me Childcare","Kind":"Pantry","Address":"540 Pearl St.","Zip":"44902","Phone":"","Program Start/End Date":"6/8/15 - 8/28/15","Service Days ":"M-F","Breakfast Time":"8:30 AM - 9:30 AM","Lunch Time":"12:30 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6870651,41.4798662]},"properties":{"Site":"The Basheer Jones Foundation","Kind":"Pantry","Address":"2357 Tremont Ave.","Zip":"44113","Phone":"","Program Start/End Date":"6/22/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"8:30 AM - 9:30 AM","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6347656,41.4784966]},"properties":{"Site":"The Church C.O.G.I.C.","Kind":"Pantry","Address":"7541 Kinsman Rd.","Zip":"44104","Phone":"","Program Start/End Date":"6/8/15 - 8/14/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30am - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6329529,41.529363]},"properties":{"Site":"True Faith Apostolic Bibleway Church","Kind":"Pantry","Address":"911 Maud Avenue","Zip":"44103","Phone":"","Program Start/End Date":"6/9/15 - 8/31/15","Service Days ":"S","Breakfast Time":"None","Lunch Time":"12:00 PM - 1:00 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.536034,41.4426117]},"properties":{"Site":"City of Warrensville (Granada Gardens)","Kind":"Pantry","Address":"4301 Warrensville Ctr Rd","Zip":"44128","Phone":"","Program Start/End Date":"6/10/15 - 8/13/15","Service Days ":"W-R","Breakfast Time":"None","Lunch Time":"12:00pm - 1:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6387024,41.5030441]},"properties":{"Site":"Urban Squash Cleveland","Kind":"Pantry","Address":"7100 Euclid Ave","Zip":"44103","Phone":"","Program Start/End Date":"7/6/15 - 7/31/15","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"12:00PM - 1:00PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6027351752,41.451487121919]},"properties":{"Site":"Bethany Christian Church (Disciples of Christ)","Kind":"Pantry","Address":"3940 MLK Dr","Zip":"44105","Phone":"","Program Start/End Date":" 6/22/15 - 7/31/15 ","Service Days ":"M-F","Breakfast Time":"8:30 AM - 9:00 AM","Lunch Time":"12:30 PM - 1:00 AM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6032542266,41.4857424901353]},"properties":{"Site":"BGC - St. Luke's","Kind":"Pantry","Address":"2705 MLK Dr.","Zip":"44104","Phone":"","Program Start/End Date":" 6/1/15 - 8/14/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"2:00pm - 3:00pm"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6488845938,41.4886864867782]},"properties":{"Site":"BGC- King Kennedy","Kind":"Pantry","Address":"2561 E. 59th Street","Zip":"44104","Phone":"","Program Start/End Date":" 6/8/15 - 8/31/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"2:30 PM - 3:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6422481242,41.5192524412635]},"properties":{"Site":"CPL - Addison Branch","Kind":"Pantry","Address":"6901 Superior Avenue","Zip":"44103","Phone":"","Program Start/End Date":" 6/8/15 - 7/31/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7129016288,41.4579881025277]},"properties":{"Site":"CPL - FULTON BRANCH","Kind":"Pantry","Address":"3545 FULTON ROAD","Zip":"44109","Phone":"","Program Start/End Date":" 6/9/15 - 7/31/15 ","Service Days ":"M-S","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.561616804,41.4496773511172]},"properties":{"Site":"CPL - HARVARD LEE BRANCH","Kind":"Pantry","Address":"16918 HARVARD AVENUE","Zip":"44128","Phone":"","Program Start/End Date":" 6/9/15 - 7/31/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7416369205,41.4707416809814]},"properties":{"Site":"CPL - LORAIN BRANCH","Kind":"Pantry","Address":"8216 LORAIN BLVD","Zip":"44102","Phone":"","Program Start/End Date":" 6/9/15 - 7/31/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6917821272,41.5007677326631]},"properties":{"Site":"CPL - MAIN LIBRARY","Kind":"Pantry","Address":"325 SUPERIOR AVENUE","Zip":"44114","Phone":"","Program Start/End Date":" 6/9/15 - 7/31/15 ","Service Days ":"M-F","Breakfast Time":"None","Lunch Time":"11:30 AM - 12:30 PM"}},{"type":"Feature","geometry":{},"properties":{"Site":"FI"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5507673,
+          41.4549927
+        ]
+      },
+      "properties": {
+        "Site": "Adlai E. Stevenson Elementary School",
+        "Kind": "Pantry",
+        "Address": "18300 Woda Avenue",
+        "Zip": 44122,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/3/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 9:30 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5715408,
+          41.4217339
+        ]
+      },
+      "properties": {
+        "Site": "ALLIANCE FOR FAMILY HOPE",
+        "Kind": "Pantry",
+        "Address": "5050 STANLEY",
+        "Zip": 44137,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 7/25/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "11:00 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7597427,
+          41.480217
+        ]
+      },
+      "properties": {
+        "Site": "Applewood Centers",
+        "Kind": "Pantry",
+        "Address": "10427 Detroit Ave",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:30 AM",
+        "Lunch Time": "12:30 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5245285,
+          41.4868088
+        ]
+      },
+      "properties": {
+        "Site": "Bellefaire JCB",
+        "Kind": "Pantry",
+        "Address": "22001 Fairmount Blvd",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5653981,
+          41.5033966
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Cleveland Heights",
+        "Kind": "Pantry",
+        "Address": "2065 Lee road",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6243515,
+          41.5294418
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Michael R. White STEM School",
+        "Kind": "Pantry",
+        "Address": "1000 E. 92nd Street",
+        "Zip": 44124,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "10:00 AM - 11:00 AM",
+        "Lunch Time": "1:00 AM - 2:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5906143,
+          41.4585533
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Mt. Pleasant",
+        "Kind": "Pantry",
+        "Address": "3689 E. 131st st",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/8/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "3:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6478318,
+          41.4641686
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Broadway",
+        "Kind": "Pantry",
+        "Address": "6114 Broadway",
+        "Zip": 44127,
+        "Phone": "",
+        "Program Start/End Date": "5/26/15 - 8/21/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM (3:00-4:00pm on Saturday)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5776367,
+          41.5401077
+        ]
+      },
+      "properties": {
+        "Site": "BGC - East Cleveland/MLK",
+        "Kind": "Pantry",
+        "Address": "14801 Shaw Ave",
+        "Zip": 44112,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 1:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6099932,
+          41.5357567
+        ]
+      },
+      "properties": {
+        "Site": "BGC - FDR",
+        "Kind": "Pantry",
+        "Address": "800 Linn Dr",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7070007,
+          41.4706383
+        ]
+      },
+      "properties": {
+        "Site": "BGC -Walton School",
+        "Kind": "Pantry",
+        "Address": "3409 Walton Ave",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7058419,
+          41.4617861
+        ]
+      },
+      "properties": {
+        "Site": "BGC -Westside",
+        "Kind": "Pantry",
+        "Address": "3340 Trowbridge ave",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5717621,
+          41.4456406
+        ]
+      },
+      "properties": {
+        "Site": "BGC-Charles Eliot ",
+        "Kind": "Pantry",
+        "Address": "15700 LOTUS DR.",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/2/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 12:45PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.388771,
+          41.414505
+        ]
+      },
+      "properties": {
+        "Site": "Chagrin Falls Park Community Center",
+        "Kind": "Pantry",
+        "Address": "7060 Woodland",
+        "Zip": 44023,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 10:00 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5100339,
+          40.7533684
+        ]
+      },
+      "properties": {
+        "Site": "Childrens Cupboard",
+        "Kind": "Pantry",
+        "Address": "176 Hedges Street",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 7/16/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12noon - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7813683,
+          41.4848149
+        ]
+      },
+      "properties": {
+        "Site": "Church of the Ascension",
+        "Kind": "Pantry",
+        "Address": "13216 Detroit Ave.",
+        "Zip": 44107,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/17/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 1:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.644292,
+          41.4593963
+        ]
+      },
+      "properties": {
+        "Site": "Cleveland Central Catholic",
+        "Kind": "Pantry",
+        "Address": "6550 Baxter Ave",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/14/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:15 PM - 3:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8030167,
+          41.4290848
+        ]
+      },
+      "properties": {
+        "Site": "CMSD -Robinson G. Jones",
+        "Kind": "Pantry",
+        "Address": "4550 W. 150th Street",
+        "Zip": 44135,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 7/23/15",
+        "Service Days ": "M,W,R",
+        "Breakfast Time": "9:00am - 9:30am",
+        "Lunch Time": "11:30 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5912224,
+          41.4545602
+        ]
+      },
+      "properties": {
+        "Site": "CPL -  E. 131 STREET BRANCH",
+        "Kind": "Pantry",
+        "Address": "3830 EAST 131 STREET",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6138153,
+          41.5045662
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MARTIN L. KING, JR. BRANCH",
+        "Kind": "Pantry",
+        "Address": "1962 STOKES BLVD.",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7014404,
+          41.4539098
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Brooklyn Branch",
+        "Kind": "Pantry",
+        "Address": "3706 Pearl Road",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7105211,
+          41.4830654
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Carnegie West",
+        "Kind": "Pantry",
+        "Address": "1900 Fulton Road",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5759964,
+          41.5559692
+        ]
+      },
+      "properties": {
+        "Site": "CPL - COLLINWOOD BRANCH",
+        "Kind": "Pantry",
+        "Address": "856 EAST 152 STREET",
+        "Zip": 44110,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7685165,
+          41.4630508
+        ]
+      },
+      "properties": {
+        "Site": "CPL - EASTMAN BRANCH",
+        "Kind": "Pantry",
+        "Address": "11602 LORAIN AVENUE",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6382675,
+          41.4573555
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Fleet",
+        "Kind": "Pantry",
+        "Address": "7224 Broadway Ave",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6221237,
+          41.4718208
+        ]
+      },
+      "properties": {
+        "Site": "CPL - GARDEN VALLEY BRANCH",
+        "Kind": "Pantry",
+        "Address": "7201 KINSMAN AVENUE",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.602256,
+          41.541069
+        ]
+      },
+      "properties": {
+        "Site": "CPL - GLENVILLE BRANCH",
+        "Kind": "Pantry",
+        "Address": "11900 ST. CLAIR AVENUE",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6229858,
+          41.5143814
+        ]
+      },
+      "properties": {
+        "Site": "CPL - HOUGH BRANCH",
+        "Kind": "Pantry",
+        "Address": "1566 CRAWFORD ROAD",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6855545,
+          41.4792557
+        ]
+      },
+      "properties": {
+        "Site": "CPL - JEFFERSON BRANCH",
+        "Kind": "Pantry",
+        "Address": "850 JEFFERSON AVENUE",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6171648,
+          41.5214807
+        ]
+      },
+      "properties": {
+        "Site": "CPL - LANGSTON HUGHES BRANCH",
+        "Kind": "Pantry",
+        "Address": "10200 SUPERIOR AVENUE",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5844574,
+          41.464035
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MT. PLEASANT BRANCH",
+        "Kind": "Pantry",
+        "Address": "14000 KINSMAN ROAD",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6060229,
+          41.484314
+        ]
+      },
+      "properties": {
+        "Site": "CPL - RICE BRANCH",
+        "Kind": "Pantry",
+        "Address": "11353 SHAKER BLVD.",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7906225,
+          41.4341345
+        ]
+      },
+      "properties": {
+        "Site": "CPL - ROCKPORT BRANCH",
+        "Kind": "Pantry",
+        "Address": "4421 WEST 140TH STREET",
+        "Zip": 44135,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7071173,
+          41.4386702
+        ]
+      },
+      "properties": {
+        "Site": "CPL - SOUTH BROOKLYN BRANCH",
+        "Kind": "Pantry",
+        "Address": "4303 PEARL ROAD",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6667786,
+          41.4975624
+        ]
+      },
+      "properties": {
+        "Site": "CPL - STERLING BRANCH",
+        "Kind": "Pantry",
+        "Address": "2200 E. 30TH STREET",
+        "Zip": 44115,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6214053,
+          41.4643543
+        ]
+      },
+      "properties": {
+        "Site": "CPL - UNION BRANCH",
+        "Kind": "Pantry",
+        "Address": "3465 EAST 93RD STREET",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.739616,
+          41.482036
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WALZ BRANCH",
+        "Kind": "Pantry",
+        "Address": "7910 DETROIT AVENUE",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8073807,
+          41.4514275
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WEST PARK BRANCH",
+        "Kind": "Pantry",
+        "Address": "3805 WEST 157TH STREET",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6489798,
+          41.4879765
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WOODLAND BRANCH",
+        "Kind": "Pantry",
+        "Address": "5806 WOODLAND AVENUE",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7353597,
+          41.4345624
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Brooklyn Branch",
+        "Kind": "Pantry",
+        "Address": "4480 Ridge Road",
+        "Zip": 44144,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:45AM - 12:15PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5696564,
+          41.4181175
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Maple Heights Branch",
+        "Kind": "Pantry",
+        "Address": "5225 Library Lane",
+        "Zip": 44137,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 noon - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6972198,
+          41.4041176
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Parma Snow Branch",
+        "Kind": "Pantry",
+        "Address": "2121 Snow Rd",
+        "Zip": 44134,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.534436,
+          41.3940181
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Southeast Branch",
+        "Kind": "Pantry",
+        "Address": "70 Columbus Road",
+        "Zip": 44146,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:45 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6048454,
+          41.4154623
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Garfield Heights Branch",
+        "Kind": "Pantry",
+        "Address": "5409 Turney Road",
+        "Zip": 44125,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 P.M. - 12:30 P.M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5263271,
+          41.4405765
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Warrensville Branch",
+        "Kind": "Pantry",
+        "Address": "4415 Northfield Road",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 3/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:15 p.m. - 12:45 p.m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5846863,
+          41.5284576
+        ]
+      },
+      "properties": {
+        "Site": "East Cleveland Public Library",
+        "Kind": "Pantry",
+        "Address": "14101 Euclid Ave",
+        "Zip": 44101,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5976257,
+          41.4916992
+        ]
+      },
+      "properties": {
+        "Site": "Fairhill Partners",
+        "Kind": "Pantry",
+        "Address": "12200 Fairhill Road",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "7/7/15 - 7/30/15",
+        "Service Days ": "T-R",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:30pm - 1:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6391294,
+          41.4881596
+        ]
+      },
+      "properties": {
+        "Site": "Family for Life Foundation",
+        "Kind": "Pantry",
+        "Address": "7115 Woodland Avenue",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "7:00am - 8:30am",
+        "Lunch Time": "11:00am - 12:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5184402,
+          40.7584457
+        ]
+      },
+      "properties": {
+        "Site": "First English Lutheran Christian Day School",
+        "Kind": "Pantry",
+        "Address": "53 Park Ave West",
+        "Zip": 44902,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/30/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "11:15 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5698853,
+          41.5161514
+        ]
+      },
+      "properties": {
+        "Site": "East Cleveland Neighborhood Center - Freedom School",
+        "Kind": "Pantry",
+        "Address": "2490 Lee Blvd Suite 322",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/24/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 8:45 AM",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6259389,
+          41.4933752
+        ]
+      },
+      "properties": {
+        "Site": "Olivet Baptist Church - Freedom School",
+        "Kind": "Pantry",
+        "Address": "8712 Quincy Avenue",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/24/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00 A M - 8:30 A M",
+        "Lunch Time": "12:00pm - 1:00 P M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6342457,
+          41.5038103
+        ]
+      },
+      "properties": {
+        "Site": "Glenville Legacy Center - Camp ROC",
+        "Kind": "Pantry",
+        "Address": "7820 Euclid Ave",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/23/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7020111,
+          41.4393768
+        ]
+      },
+      "properties": {
+        "Site": "Grace Church",
+        "Kind": "Pantry",
+        "Address": "2503 Broadview Road",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5912278,
+          41.4549659
+        ]
+      },
+      "properties": {
+        "Site": "Holy Trinity Baptist Church",
+        "Kind": "Pantry",
+        "Address": "3808  East 131st. Street",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "5/15/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 10:30 AM",
+        "Lunch Time": "12:30 PM - 1:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5510577,
+          41.5205318
+        ]
+      },
+      "properties": {
+        "Site": "JUST 4 KIDS",
+        "Kind": "Pantry",
+        "Address": "3565 MAYFIELD ROAD",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00AM - 9:00AM",
+        "Lunch Time": "11:00 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6240616,
+          41.4942474
+        ]
+      },
+      "properties": {
+        "Site": "Karamu House",
+        "Kind": "Pantry",
+        "Address": "2355 East 89th Street",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 8/21/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "6:30am - 9:30 AM",
+        "Lunch Time": "12:00 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.643814,
+          41.525588
+        ]
+      },
+      "properties": {
+        "Site": "Kingdom Builders of Christ Church",
+        "Kind": "Pantry",
+        "Address": "6612 st. clair avenue",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M,S",
+        "Breakfast Time": "None",
+        "Lunch Time": "5:00 PM - 5:45 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6305986,
+          41.5036158
+        ]
+      },
+      "properties": {
+        "Site": "Liberty Hill Baptist Church",
+        "Kind": "Pantry",
+        "Address": "8206 Euclid Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "7:00am - 8:00am",
+        "Lunch Time": "11:45 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6639862,
+          41.5062256
+        ]
+      },
+      "properties": {
+        "Site": "Open Doors Academy",
+        "Kind": "Pantry",
+        "Address": "3311 Perkins Ave.",
+        "Zip": 44114,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7655419,
+          41.4050668
+        ]
+      },
+      "properties": {
+        "Site": "Parma City Schools",
+        "Kind": "Pantry",
+        "Address": "11212 Snow Road",
+        "Zip": 44130,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00pm - 1:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.691864,
+          41.4769211
+        ]
+      },
+      "properties": {
+        "Site": "Pilgrim Congregational United Church of Christ",
+        "Kind": "Pantry",
+        "Address": "2592 West 14th Street",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/17/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5802231,
+          41.4481506
+        ]
+      },
+      "properties": {
+        "Site": "Robert H. Jamison School",
+        "Kind": "Pantry",
+        "Address": "4092 East 146th Street",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/10/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "1:00pm - 2:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6249008,
+          41.5205078
+        ]
+      },
+      "properties": {
+        "Site": "SA - Superior",
+        "Kind": "Pantry",
+        "Address": "9000 Superior Avenue",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30a - 12:30P"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5572128,
+          41.5767632
+        ]
+      },
+      "properties": {
+        "Site": "SA - Temple",
+        "Kind": "Pantry",
+        "Address": "17625 Grovewwod",
+        "Zip": 44110,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 9:00am",
+        "Lunch Time": "12:00 PM - 1:30 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7760689,
+          41.4595116
+        ]
+      },
+      "properties": {
+        "Site": "SA - West Park",
+        "Kind": "Pantry",
+        "Address": "12645 Lorain Ave",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7166928,
+          41.4697026
+        ]
+      },
+      "properties": {
+        "Site": "SA-Ohio City",
+        "Kind": "Pantry",
+        "Address": "4402 Clark Ave",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30am - 9:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6965942,
+          41.4701424
+        ]
+      },
+      "properties": {
+        "Site": "Scranton Road Ministries ",
+        "Kind": "Pantry",
+        "Address": "3095 Scranton Road",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 7/30/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "9:30 AM - 10:00 AM",
+        "Lunch Time": "12:00 PM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5621339,
+          41.5334976
+        ]
+      },
+      "properties": {
+        "Site": "Start Right CDC",
+        "Kind": "Pantry",
+        "Address": "977 Caledonia Ave",
+        "Zip": 44112,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:30 AM - 2:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - North Lake",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - Ocie Hill ",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 9:00am",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - Prospect Park",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5052234,
+          40.7728386
+        ]
+      },
+      "properties": {
+        "Site": "Teach Me Childcare",
+        "Kind": "Pantry",
+        "Address": "540 Pearl St.",
+        "Zip": 44902,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/28/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "12:30 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6870651,
+          41.4798662
+        ]
+      },
+      "properties": {
+        "Site": "The Basheer Jones Foundation",
+        "Kind": "Pantry",
+        "Address": "2357 Tremont Ave.",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6347656,
+          41.4784966
+        ]
+      },
+      "properties": {
+        "Site": "The Church C.O.G.I.C.",
+        "Kind": "Pantry",
+        "Address": "7541 Kinsman Rd.",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30am - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6329529,
+          41.529363
+        ]
+      },
+      "properties": {
+        "Site": "True Faith Apostolic Bibleway Church",
+        "Kind": "Pantry",
+        "Address": "911 Maud Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 8/31/15",
+        "Service Days ": "S",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.536034,
+          41.4426117
+        ]
+      },
+      "properties": {
+        "Site": "City of Warrensville (Granada Gardens)",
+        "Kind": "Pantry",
+        "Address": "4301 Warrensville Ctr Rd",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/10/15 - 8/13/15",
+        "Service Days ": "W-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6387024,
+          41.5030441
+        ]
+      },
+      "properties": {
+        "Site": "Urban Squash Cleveland",
+        "Kind": "Pantry",
+        "Address": "7100 Euclid Ave",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "7/6/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00PM - 1:00PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6027351752,
+          41.451487121919
+        ]
+      },
+      "properties": {
+        "Site": "Bethany Christian Church (Disciples of Christ)",
+        "Kind": "Pantry",
+        "Address": "3940 MLK Dr",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": " 6/22/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:00 AM",
+        "Lunch Time": "12:30 PM - 1:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6032542266,
+          41.4857424901353
+        ]
+      },
+      "properties": {
+        "Site": "BGC - St. Luke's",
+        "Kind": "Pantry",
+        "Address": "2705 MLK Dr.",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": " 6/1/15 - 8/14/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:00pm - 3:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6488845938,
+          41.4886864867782
+        ]
+      },
+      "properties": {
+        "Site": "BGC- King Kennedy",
+        "Kind": "Pantry",
+        "Address": "2561 E. 59th Street",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": " 6/8/15 - 8/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6422481242,
+          41.5192524412635
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Addison Branch",
+        "Kind": "Pantry",
+        "Address": "6901 Superior Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": " 6/8/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7129016288,
+          41.4579881025277
+        ]
+      },
+      "properties": {
+        "Site": "CPL - FULTON BRANCH",
+        "Kind": "Pantry",
+        "Address": "3545 FULTON ROAD",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.561616804,
+          41.4496773511172
+        ]
+      },
+      "properties": {
+        "Site": "CPL - HARVARD LEE BRANCH",
+        "Kind": "Pantry",
+        "Address": "16918 HARVARD AVENUE",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7416369205,
+          41.4707416809814
+        ]
+      },
+      "properties": {
+        "Site": "CPL - LORAIN BRANCH",
+        "Kind": "Pantry",
+        "Address": "8216 LORAIN BLVD",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6917821272,
+          41.5007677326631
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MAIN LIBRARY",
+        "Kind": "Pantry",
+        "Address": "325 SUPERIOR AVENUE",
+        "Zip": 44114,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Site": "FI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5507673,
+          41.4549927
+        ]
+      },
+      "properties": {
+        "Site": "Adlai E. Stevenson Elementary School",
+        "Kind": "Pantry",
+        "Address": "18300 Woda Avenue",
+        "Zip": 44122,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/3/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 9:30 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5715408,
+          41.4217339
+        ]
+      },
+      "properties": {
+        "Site": "ALLIANCE FOR FAMILY HOPE",
+        "Kind": "Pantry",
+        "Address": "5050 STANLEY",
+        "Zip": 44137,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 7/25/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "11:00 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7597427,
+          41.480217
+        ]
+      },
+      "properties": {
+        "Site": "Applewood Centers",
+        "Kind": "Pantry",
+        "Address": "10427 Detroit Ave",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:30 AM",
+        "Lunch Time": "12:30 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5245285,
+          41.4868088
+        ]
+      },
+      "properties": {
+        "Site": "Bellefaire JCB",
+        "Kind": "Pantry",
+        "Address": "22001 Fairmount Blvd",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5653981,
+          41.5033966
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Cleveland Heights",
+        "Kind": "Pantry",
+        "Address": "2065 Lee road",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6243515,
+          41.5294418
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Michael R. White STEM School",
+        "Kind": "Pantry",
+        "Address": "1000 E. 92nd Street",
+        "Zip": 44124,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "10:00 AM - 11:00 AM",
+        "Lunch Time": "1:00 AM - 2:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5906143,
+          41.4585533
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Mt. Pleasant",
+        "Kind": "Pantry",
+        "Address": "3689 E. 131st st",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/8/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "3:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6478318,
+          41.4641686
+        ]
+      },
+      "properties": {
+        "Site": "BGC - Broadway",
+        "Kind": "Pantry",
+        "Address": "6114 Broadway",
+        "Zip": 44127,
+        "Phone": "",
+        "Program Start/End Date": "5/26/15 - 8/21/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM (3:00-4:00pm on Saturday)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5776367,
+          41.5401077
+        ]
+      },
+      "properties": {
+        "Site": "BGC - East Cleveland/MLK",
+        "Kind": "Pantry",
+        "Address": "14801 Shaw Ave",
+        "Zip": 44112,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 1:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6099932,
+          41.5357567
+        ]
+      },
+      "properties": {
+        "Site": "BGC - FDR",
+        "Kind": "Pantry",
+        "Address": "800 Linn Dr",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7070007,
+          41.4706383
+        ]
+      },
+      "properties": {
+        "Site": "BGC -Walton School",
+        "Kind": "Pantry",
+        "Address": "3409 Walton Ave",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7058419,
+          41.4617861
+        ]
+      },
+      "properties": {
+        "Site": "BGC -Westside",
+        "Kind": "Pantry",
+        "Address": "3340 Trowbridge ave",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5717621,
+          41.4456406
+        ]
+      },
+      "properties": {
+        "Site": "BGC-Charles Eliot ",
+        "Kind": "Pantry",
+        "Address": "15700 LOTUS DR.",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/2/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 12:45PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.388771,
+          41.414505
+        ]
+      },
+      "properties": {
+        "Site": "Chagrin Falls Park Community Center",
+        "Kind": "Pantry",
+        "Address": "7060 Woodland",
+        "Zip": 44023,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 10:00 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5100339,
+          40.7533684
+        ]
+      },
+      "properties": {
+        "Site": "Childrens Cupboard",
+        "Kind": "Pantry",
+        "Address": "176 Hedges Street",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 7/16/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12noon - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7813683,
+          41.4848149
+        ]
+      },
+      "properties": {
+        "Site": "Church of the Ascension",
+        "Kind": "Pantry",
+        "Address": "13216 Detroit Ave.",
+        "Zip": 44107,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/17/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 1:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.644292,
+          41.4593963
+        ]
+      },
+      "properties": {
+        "Site": "Cleveland Central Catholic",
+        "Kind": "Pantry",
+        "Address": "6550 Baxter Ave",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/14/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:15 PM - 3:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8030167,
+          41.4290848
+        ]
+      },
+      "properties": {
+        "Site": "CMSD -Robinson G. Jones",
+        "Kind": "Pantry",
+        "Address": "4550 W. 150th Street",
+        "Zip": 44135,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 7/23/15",
+        "Service Days ": "M,W,R",
+        "Breakfast Time": "9:00am - 9:30am",
+        "Lunch Time": "11:30 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5912224,
+          41.4545602
+        ]
+      },
+      "properties": {
+        "Site": "CPL -  E. 131 STREET BRANCH",
+        "Kind": "Pantry",
+        "Address": "3830 EAST 131 STREET",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6138153,
+          41.5045662
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MARTIN L. KING, JR. BRANCH",
+        "Kind": "Pantry",
+        "Address": "1962 STOKES BLVD.",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7014404,
+          41.4539098
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Brooklyn Branch",
+        "Kind": "Pantry",
+        "Address": "3706 Pearl Road",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7105211,
+          41.4830654
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Carnegie West",
+        "Kind": "Pantry",
+        "Address": "1900 Fulton Road",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5759964,
+          41.5559692
+        ]
+      },
+      "properties": {
+        "Site": "CPL - COLLINWOOD BRANCH",
+        "Kind": "Pantry",
+        "Address": "856 EAST 152 STREET",
+        "Zip": 44110,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7685165,
+          41.4630508
+        ]
+      },
+      "properties": {
+        "Site": "CPL - EASTMAN BRANCH",
+        "Kind": "Pantry",
+        "Address": "11602 LORAIN AVENUE",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6382675,
+          41.4573555
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Fleet",
+        "Kind": "Pantry",
+        "Address": "7224 Broadway Ave",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6221237,
+          41.4718208
+        ]
+      },
+      "properties": {
+        "Site": "CPL - GARDEN VALLEY BRANCH",
+        "Kind": "Pantry",
+        "Address": "7201 KINSMAN AVENUE",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.602256,
+          41.541069
+        ]
+      },
+      "properties": {
+        "Site": "CPL - GLENVILLE BRANCH",
+        "Kind": "Pantry",
+        "Address": "11900 ST. CLAIR AVENUE",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6229858,
+          41.5143814
+        ]
+      },
+      "properties": {
+        "Site": "CPL - HOUGH BRANCH",
+        "Kind": "Pantry",
+        "Address": "1566 CRAWFORD ROAD",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6855545,
+          41.4792557
+        ]
+      },
+      "properties": {
+        "Site": "CPL - JEFFERSON BRANCH",
+        "Kind": "Pantry",
+        "Address": "850 JEFFERSON AVENUE",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6171648,
+          41.5214807
+        ]
+      },
+      "properties": {
+        "Site": "CPL - LANGSTON HUGHES BRANCH",
+        "Kind": "Pantry",
+        "Address": "10200 SUPERIOR AVENUE",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5844574,
+          41.464035
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MT. PLEASANT BRANCH",
+        "Kind": "Pantry",
+        "Address": "14000 KINSMAN ROAD",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6060229,
+          41.484314
+        ]
+      },
+      "properties": {
+        "Site": "CPL - RICE BRANCH",
+        "Kind": "Pantry",
+        "Address": "11353 SHAKER BLVD.",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7906225,
+          41.4341345
+        ]
+      },
+      "properties": {
+        "Site": "CPL - ROCKPORT BRANCH",
+        "Kind": "Pantry",
+        "Address": "4421 WEST 140TH STREET",
+        "Zip": 44135,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7071173,
+          41.4386702
+        ]
+      },
+      "properties": {
+        "Site": "CPL - SOUTH BROOKLYN BRANCH",
+        "Kind": "Pantry",
+        "Address": "4303 PEARL ROAD",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6667786,
+          41.4975624
+        ]
+      },
+      "properties": {
+        "Site": "CPL - STERLING BRANCH",
+        "Kind": "Pantry",
+        "Address": "2200 E. 30TH STREET",
+        "Zip": 44115,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6214053,
+          41.4643543
+        ]
+      },
+      "properties": {
+        "Site": "CPL - UNION BRANCH",
+        "Kind": "Pantry",
+        "Address": "3465 EAST 93RD STREET",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.739616,
+          41.482036
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WALZ BRANCH",
+        "Kind": "Pantry",
+        "Address": "7910 DETROIT AVENUE",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8073807,
+          41.4514275
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WEST PARK BRANCH",
+        "Kind": "Pantry",
+        "Address": "3805 WEST 157TH STREET",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6489798,
+          41.4879765
+        ]
+      },
+      "properties": {
+        "Site": "CPL - WOODLAND BRANCH",
+        "Kind": "Pantry",
+        "Address": "5806 WOODLAND AVENUE",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7353597,
+          41.4345624
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Brooklyn Branch",
+        "Kind": "Pantry",
+        "Address": "4480 Ridge Road",
+        "Zip": 44144,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:45AM - 12:15PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5696564,
+          41.4181175
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Maple Heights Branch",
+        "Kind": "Pantry",
+        "Address": "5225 Library Lane",
+        "Zip": 44137,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 noon - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6972198,
+          41.4041176
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Parma Snow Branch",
+        "Kind": "Pantry",
+        "Address": "2121 Snow Rd",
+        "Zip": 44134,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.534436,
+          41.3940181
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Southeast Branch",
+        "Kind": "Pantry",
+        "Address": "70 Columbus Road",
+        "Zip": 44146,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:45 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6048454,
+          41.4154623
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Garfield Heights Branch",
+        "Kind": "Pantry",
+        "Address": "5409 Turney Road",
+        "Zip": 44125,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 P.M. - 12:30 P.M."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5263271,
+          41.4405765
+        ]
+      },
+      "properties": {
+        "Site": "CCPL - Warrensville Branch",
+        "Kind": "Pantry",
+        "Address": "4415 Northfield Road",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 3/6/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:15 p.m. - 12:45 p.m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5846863,
+          41.5284576
+        ]
+      },
+      "properties": {
+        "Site": "East Cleveland Public Library",
+        "Kind": "Pantry",
+        "Address": "14101 Euclid Ave",
+        "Zip": 44101,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:00 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5976257,
+          41.4916992
+        ]
+      },
+      "properties": {
+        "Site": "Fairhill Partners",
+        "Kind": "Pantry",
+        "Address": "12200 Fairhill Road",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "7/7/15 - 7/30/15",
+        "Service Days ": "T-R",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:30pm - 1:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6391294,
+          41.4881596
+        ]
+      },
+      "properties": {
+        "Site": "Family for Life Foundation",
+        "Kind": "Pantry",
+        "Address": "7115 Woodland Avenue",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "7:00am - 8:30am",
+        "Lunch Time": "11:00am - 12:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5184402,
+          40.7584457
+        ]
+      },
+      "properties": {
+        "Site": "First English Lutheran Christian Day School",
+        "Kind": "Pantry",
+        "Address": "53 Park Ave West",
+        "Zip": 44902,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/30/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "11:15 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5698853,
+          41.5161514
+        ]
+      },
+      "properties": {
+        "Site": "East Cleveland Neighborhood Center - Freedom School",
+        "Kind": "Pantry",
+        "Address": "2490 Lee Blvd Suite 322",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/24/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 8:45 AM",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6259389,
+          41.4933752
+        ]
+      },
+      "properties": {
+        "Site": "Olivet Baptist Church - Freedom School",
+        "Kind": "Pantry",
+        "Address": "8712 Quincy Avenue",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/24/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00 A M - 8:30 A M",
+        "Lunch Time": "12:00pm - 1:00 P M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6342457,
+          41.5038103
+        ]
+      },
+      "properties": {
+        "Site": "Glenville Legacy Center - Camp ROC",
+        "Kind": "Pantry",
+        "Address": "7820 Euclid Ave",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/23/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7020111,
+          41.4393768
+        ]
+      },
+      "properties": {
+        "Site": "Grace Church",
+        "Kind": "Pantry",
+        "Address": "2503 Broadview Road",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5912278,
+          41.4549659
+        ]
+      },
+      "properties": {
+        "Site": "Holy Trinity Baptist Church",
+        "Kind": "Pantry",
+        "Address": "3808  East 131st. Street",
+        "Zip": 44120,
+        "Phone": "",
+        "Program Start/End Date": "5/15/15 - 8/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00 AM - 10:30 AM",
+        "Lunch Time": "12:30 PM - 1:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5510577,
+          41.5205318
+        ]
+      },
+      "properties": {
+        "Site": "JUST 4 KIDS",
+        "Kind": "Pantry",
+        "Address": "3565 MAYFIELD ROAD",
+        "Zip": 44118,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00AM - 9:00AM",
+        "Lunch Time": "11:00 AM - 12:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6240616,
+          41.4942474
+        ]
+      },
+      "properties": {
+        "Site": "Karamu House",
+        "Kind": "Pantry",
+        "Address": "2355 East 89th Street",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 8/21/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "6:30am - 9:30 AM",
+        "Lunch Time": "12:00 PM - 2:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.643814,
+          41.525588
+        ]
+      },
+      "properties": {
+        "Site": "Kingdom Builders of Christ Church",
+        "Kind": "Pantry",
+        "Address": "6612 st. clair avenue",
+        "Zip": 44108,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/31/15",
+        "Service Days ": "M,S",
+        "Breakfast Time": "None",
+        "Lunch Time": "5:00 PM - 5:45 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6305986,
+          41.5036158
+        ]
+      },
+      "properties": {
+        "Site": "Liberty Hill Baptist Church",
+        "Kind": "Pantry",
+        "Address": "8206 Euclid Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "7:00am - 8:00am",
+        "Lunch Time": "11:45 AM - 12:15 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6639862,
+          41.5062256
+        ]
+      },
+      "properties": {
+        "Site": "Open Doors Academy",
+        "Kind": "Pantry",
+        "Address": "3311 Perkins Ave.",
+        "Zip": 44114,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7655419,
+          41.4050668
+        ]
+      },
+      "properties": {
+        "Site": "Parma City Schools",
+        "Kind": "Pantry",
+        "Address": "11212 Snow Road",
+        "Zip": 44130,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 8/21/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00pm - 1:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.691864,
+          41.4769211
+        ]
+      },
+      "properties": {
+        "Site": "Pilgrim Congregational United Church of Christ",
+        "Kind": "Pantry",
+        "Address": "2592 West 14th Street",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/15/15 - 7/17/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5802231,
+          41.4481506
+        ]
+      },
+      "properties": {
+        "Site": "Robert H. Jamison School",
+        "Kind": "Pantry",
+        "Address": "4092 East 146th Street",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/10/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "1:00pm - 2:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6249008,
+          41.5205078
+        ]
+      },
+      "properties": {
+        "Site": "SA - Superior",
+        "Kind": "Pantry",
+        "Address": "9000 Superior Avenue",
+        "Zip": 44106,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30a - 12:30P"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5572128,
+          41.5767632
+        ]
+      },
+      "properties": {
+        "Site": "SA - Temple",
+        "Kind": "Pantry",
+        "Address": "17625 Grovewwod",
+        "Zip": 44110,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 9:00am",
+        "Lunch Time": "12:00 PM - 1:30 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7760689,
+          41.4595116
+        ]
+      },
+      "properties": {
+        "Site": "SA - West Park",
+        "Kind": "Pantry",
+        "Address": "12645 Lorain Ave",
+        "Zip": 44111,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/7/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "9:00am - 10:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7166928,
+          41.4697026
+        ]
+      },
+      "properties": {
+        "Site": "SA-Ohio City",
+        "Kind": "Pantry",
+        "Address": "4402 Clark Ave",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30am - 9:00am",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6965942,
+          41.4701424
+        ]
+      },
+      "properties": {
+        "Site": "Scranton Road Ministries ",
+        "Kind": "Pantry",
+        "Address": "3095 Scranton Road",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/1/15 - 7/30/15",
+        "Service Days ": "M-R",
+        "Breakfast Time": "9:30 AM - 10:00 AM",
+        "Lunch Time": "12:00 PM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5621339,
+          41.5334976
+        ]
+      },
+      "properties": {
+        "Site": "Start Right CDC",
+        "Kind": "Pantry",
+        "Address": "977 Caledonia Ave",
+        "Zip": 44112,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/6/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "1:30 AM - 2:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - North Lake",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - Ocie Hill ",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:00am - 9:00am",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5237656,
+          40.7703285
+        ]
+      },
+      "properties": {
+        "Site": "City of Mansfield - Prospect Park",
+        "Kind": "Pantry",
+        "Address": "445 Bowman St",
+        "Zip": 44903,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5052234,
+          40.7728386
+        ]
+      },
+      "properties": {
+        "Site": "Teach Me Childcare",
+        "Kind": "Pantry",
+        "Address": "540 Pearl St.",
+        "Zip": 44902,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/28/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "12:30 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6870651,
+          41.4798662
+        ]
+      },
+      "properties": {
+        "Site": "The Basheer Jones Foundation",
+        "Kind": "Pantry",
+        "Address": "2357 Tremont Ave.",
+        "Zip": 44113,
+        "Phone": "",
+        "Program Start/End Date": "6/22/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:30 AM",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6347656,
+          41.4784966
+        ]
+      },
+      "properties": {
+        "Site": "The Church C.O.G.I.C.",
+        "Kind": "Pantry",
+        "Address": "7541 Kinsman Rd.",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": "6/8/15 - 8/14/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30am - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6329529,
+          41.529363
+        ]
+      },
+      "properties": {
+        "Site": "True Faith Apostolic Bibleway Church",
+        "Kind": "Pantry",
+        "Address": "911 Maud Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "6/9/15 - 8/31/15",
+        "Service Days ": "S",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00 PM - 1:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.536034,
+          41.4426117
+        ]
+      },
+      "properties": {
+        "Site": "City of Warrensville (Granada Gardens)",
+        "Kind": "Pantry",
+        "Address": "4301 Warrensville Ctr Rd",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": "6/10/15 - 8/13/15",
+        "Service Days ": "W-R",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00pm - 1:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6387024,
+          41.5030441
+        ]
+      },
+      "properties": {
+        "Site": "Urban Squash Cleveland",
+        "Kind": "Pantry",
+        "Address": "7100 Euclid Ave",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": "7/6/15 - 7/31/15",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "12:00PM - 1:00PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6027351752,
+          41.451487121919
+        ]
+      },
+      "properties": {
+        "Site": "Bethany Christian Church (Disciples of Christ)",
+        "Kind": "Pantry",
+        "Address": "3940 MLK Dr",
+        "Zip": 44105,
+        "Phone": "",
+        "Program Start/End Date": " 6/22/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "8:30 AM - 9:00 AM",
+        "Lunch Time": "12:30 PM - 1:00 AM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6032542266,
+          41.4857424901353
+        ]
+      },
+      "properties": {
+        "Site": "BGC - St. Luke's",
+        "Kind": "Pantry",
+        "Address": "2705 MLK Dr.",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": " 6/1/15 - 8/14/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:00pm - 3:00pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6488845938,
+          41.4886864867782
+        ]
+      },
+      "properties": {
+        "Site": "BGC- King Kennedy",
+        "Kind": "Pantry",
+        "Address": "2561 E. 59th Street",
+        "Zip": 44104,
+        "Phone": "",
+        "Program Start/End Date": " 6/8/15 - 8/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "2:30 PM - 3:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6422481242,
+          41.5192524412635
+        ]
+      },
+      "properties": {
+        "Site": "CPL - Addison Branch",
+        "Kind": "Pantry",
+        "Address": "6901 Superior Avenue",
+        "Zip": 44103,
+        "Phone": "",
+        "Program Start/End Date": " 6/8/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7129016288,
+          41.4579881025277
+        ]
+      },
+      "properties": {
+        "Site": "CPL - FULTON BRANCH",
+        "Kind": "Pantry",
+        "Address": "3545 FULTON ROAD",
+        "Zip": 44109,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-S",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.561616804,
+          41.4496773511172
+        ]
+      },
+      "properties": {
+        "Site": "CPL - HARVARD LEE BRANCH",
+        "Kind": "Pantry",
+        "Address": "16918 HARVARD AVENUE",
+        "Zip": 44128,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7416369205,
+          41.4707416809814
+        ]
+      },
+      "properties": {
+        "Site": "CPL - LORAIN BRANCH",
+        "Kind": "Pantry",
+        "Address": "8216 LORAIN BLVD",
+        "Zip": 44102,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6917821272,
+          41.5007677326631
+        ]
+      },
+      "properties": {
+        "Site": "CPL - MAIN LIBRARY",
+        "Kind": "Pantry",
+        "Address": "325 SUPERIOR AVENUE",
+        "Zip": 44114,
+        "Phone": "",
+        "Program Start/End Date": " 6/9/15 - 7/31/15 ",
+        "Service Days ": "M-F",
+        "Breakfast Time": "None",
+        "Lunch Time": "11:30 AM - 12:30 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Site": "FI"
+      }
+    }
+  ]
+}
