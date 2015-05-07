@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Adlai E. Stevenson Elementary School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "18300 Woda Avenue",
                 "Zip": "44122",
                 "Phone": "(216) 482-2950",
@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "ALLIANCE FOR FAMILY HOPE",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "5050 STANLEY",
                 "Zip": "44137",
                 "Phone": "(216) 581-2084",
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Applewood Centers",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "10427 Detroit Ave",
                 "Zip": "44102",
                 "Phone": "(440)554-1187",
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Bellefaire JCB",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "22001 Fairmount Blvd",
                 "Zip": "44118",
                 "Phone": "(216)320-8369",
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - Cleveland Heights",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2065 Lee road",
                 "Zip": "44118",
                 "Phone": "(216)321-2582",
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - Michael R. White STEM School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "1000 E. 92nd Street",
                 "Zip": "44124",
                 "Phone": "(216) 496-1769",
@@ -131,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - Mt. Pleasant",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3689 E. 131st st",
                 "Zip": "44120",
                 "Phone": "(216)752-2450",
@@ -152,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - Broadway",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "6114 Broadway",
                 "Zip": "44127",
                 "Phone": "(216)883-4663",
@@ -173,7 +173,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - East Cleveland/MLK",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "14801 Shaw Ave",
                 "Zip": "44112",
                 "Phone": "(216)681-2812",
@@ -194,7 +194,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - FDR",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "800 Linn Dr",
                 "Zip": "44108",
                 "Phone": "(216)470-3530",
@@ -215,7 +215,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC -Walton School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3409 Walton Ave",
                 "Zip": "44113",
                 "Phone": "(216) 774-9676",
@@ -236,7 +236,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC -Westside",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3340 Trowbridge ave",
                 "Zip": "44109",
                 "Phone": "(216)459-2697",
@@ -257,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC-Charles Eliot ",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "15700 LOTUS DR.",
                 "Zip": "44128",
                 "Phone": "216-299-6285",
@@ -278,7 +278,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Chagrin Falls Park Community Center",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7060 Woodland",
                 "Zip": "44023",
                 "Phone": "(440)247-6030",
@@ -299,7 +299,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Childrens Cupboard",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "176 Hedges Street",
                 "Zip": "44903",
                 "Phone": "(419) 512-0485",
@@ -320,7 +320,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Church of the Ascension",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "13216 Detroit Ave.",
                 "Zip": "44107",
                 "Phone": "(216)521-8727",
@@ -341,7 +341,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Cleveland Central Catholic",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "6550 Baxter Ave",
                 "Zip": "44105",
                 "Phone": "(216)441-4700",
@@ -362,7 +362,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CMSD -Robinson G. Jones",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4550 W. 150th Street",
                 "Zip": "44135",
                 "Phone": "(216)920-7143",
@@ -383,7 +383,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL -  E. 131 STREET BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3830 EAST 131 STREET",
                 "Zip": "44120",
                 "Phone": "(216)623-6941",
@@ -404,7 +404,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - MARTIN L. KING, JR. BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "1962 STOKES BLVD.",
                 "Zip": "44106",
                 "Phone": "(216) 623-7018",
@@ -425,7 +425,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - Brooklyn Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3706 Pearl Road",
                 "Zip": "44109",
                 "Phone": "(216)623-6920",
@@ -446,7 +446,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - Carnegie West",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "1900 Fulton Road",
                 "Zip": "44113",
                 "Phone": "(216)623-6927",
@@ -467,7 +467,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - COLLINWOOD BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "856 EAST 152 STREET",
                 "Zip": "44110",
                 "Phone": "(216)623-6934",
@@ -488,7 +488,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - EASTMAN BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "11602 LORAIN AVENUE",
                 "Zip": "44111",
                 "Phone": "(216)623-6955",
@@ -509,7 +509,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - Fleet",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7224 Broadway Ave",
                 "Zip": "44105",
                 "Phone": "(216) 623-6362",
@@ -530,7 +530,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - GARDEN VALLEY BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7201 KINSMAN AVENUE",
                 "Zip": "44104",
                 "Phone": "(216) 623-6976",
@@ -551,7 +551,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - GLENVILLE BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "11900 ST. CLAIR AVENUE",
                 "Zip": "44108",
                 "Phone": "(216) 623-6983",
@@ -572,7 +572,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - HOUGH BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "1566 CRAWFORD ROAD",
                 "Zip": "44106",
                 "Phone": "(216) 623-6997",
@@ -593,7 +593,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - JEFFERSON BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "850 JEFFERSON AVENUE",
                 "Zip": "44113",
                 "Phone": "(216) 623-7004",
@@ -614,7 +614,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - LANGSTON HUGHES BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "10200 SUPERIOR AVENUE",
                 "Zip": "44106",
                 "Phone": "(216) 623-6975",
@@ -635,7 +635,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - MT. PLEASANT BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "14000 KINSMAN ROAD",
                 "Zip": "44120",
                 "Phone": "(216) 623-7032",
@@ -656,7 +656,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - RICE BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "11353 SHAKER BLVD.",
                 "Zip": "44120",
                 "Phone": "(216) 623-7046",
@@ -677,7 +677,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - ROCKPORT BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4421 WEST 140TH STREET",
                 "Zip": "44135",
                 "Phone": "(216) 623-7053",
@@ -698,7 +698,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - SOUTH BROOKLYN BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4303 PEARL ROAD",
                 "Zip": "44109",
                 "Phone": "(216) 623-7067",
@@ -719,7 +719,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - STERLING BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2200 E. 30TH STREET",
                 "Zip": "44115",
                 "Phone": "(216) 623-7074",
@@ -740,7 +740,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - UNION BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3465 EAST 93RD STREET",
                 "Zip": "44104",
                 "Phone": "(216) 623-7088",
@@ -761,7 +761,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - WALZ BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7910 DETROIT AVENUE",
                 "Zip": "44102",
                 "Phone": "(216) 623-7095",
@@ -782,7 +782,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - WEST PARK BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3805 WEST 157TH STREET",
                 "Zip": "44111",
                 "Phone": "(216) 623-7102",
@@ -803,7 +803,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - WOODLAND BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "5806 WOODLAND AVENUE",
                 "Zip": "44104",
                 "Phone": "(216) 623-7109",
@@ -824,7 +824,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Brooklyn Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4480 Ridge Road",
                 "Zip": "44144",
                 "Phone": "(216)398-4600",
@@ -845,7 +845,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Maple Heights Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "5225 Library Lane",
                 "Zip": "44137",
                 "Phone": "(216)475-5000",
@@ -866,7 +866,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Parma Snow Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2121 Snow Rd",
                 "Zip": "44134",
                 "Phone": "(216) 661-4240",
@@ -887,7 +887,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Southeast Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "70 Columbus Road",
                 "Zip": "44146",
                 "Phone": "(440) 439-4997",
@@ -908,7 +908,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Garfield Heights Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "5409 Turney Road",
                 "Zip": "44125",
                 "Phone": "(216) 475-8178",
@@ -929,7 +929,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CCPL - Warrensville Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4415 Northfield Road",
                 "Zip": "44128",
                 "Phone": "(216)464-5280",
@@ -950,7 +950,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "East Cleveland Public Library",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "14101 Euclid Ave",
                 "Zip": "44101",
                 "Phone": "(216)541-4128",
@@ -971,7 +971,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Fairhill Partners",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "12200 Fairhill Road",
                 "Zip": "44105",
                 "Phone": "(216)421-1350",
@@ -992,7 +992,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Family for Life Foundation",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7115 Woodland Avenue",
                 "Zip": "44104",
                 "Phone": "(216) 881-7005",
@@ -1013,7 +1013,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "First English Lutheran Christian Day School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "53 Park Ave West",
                 "Zip": "44902",
                 "Phone": "(419) 522-7500",
@@ -1034,7 +1034,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "East Cleveland Neighborhood Center - Freedom School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2490 Lee Blvd Suite 322",
                 "Zip": "44118",
                 "Phone": "(330) 324-8776",
@@ -1055,7 +1055,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Olivet Baptist Church - Freedom School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "8712 Quincy Avenue",
                 "Zip": "44106",
                 "Phone": "(216) 376-4642",
@@ -1076,7 +1076,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Glenville Legacy Center - Camp ROC",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7820 Euclid Ave",
                 "Zip": "44103",
                 "Phone": "(216) 225-6849",
@@ -1097,7 +1097,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Grace Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2503 Broadview Road",
                 "Zip": "44109",
                 "Phone": "(216)661-8210",
@@ -1118,7 +1118,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Holy Trinity Baptist Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3808  East 131st. Street",
                 "Zip": "44120",
                 "Phone": "(216)561-4121",
@@ -1139,7 +1139,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "JUST 4 KIDS",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3565 MAYFIELD ROAD",
                 "Zip": "44118",
                 "Phone": "(216)402-5025",
@@ -1160,7 +1160,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Karamu House",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2355 East 89th Street",
                 "Zip": "44105",
                 "Phone": "(216)795-7070",
@@ -1181,7 +1181,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Kingdom Builders of Christ Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "6612 st. clair avenue",
                 "Zip": "44108",
                 "Phone": "(216)269-2477",
@@ -1202,7 +1202,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Liberty Hill Baptist Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "8206 Euclid Avenue",
                 "Zip": "44103",
                 "Phone": "(216)245-3592",
@@ -1223,7 +1223,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Open Doors Academy",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3311 Perkins Ave.",
                 "Zip": "44114",
                 "Phone": "(216)229-1900",
@@ -1244,7 +1244,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Parma City Schools",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "11212 Snow Road",
                 "Zip": "44130",
                 "Phone": "(440) 842-7022",
@@ -1265,7 +1265,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Pilgrim Congregational United Church of Christ",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2592 West 14th Street",
                 "Zip": "44113",
                 "Phone": "(216) 861-7388",
@@ -1286,7 +1286,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Robert H. Jamison School",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4092 East 146th Street",
                 "Zip": "44128",
                 "Phone": "(216) 400-7047",
@@ -1307,7 +1307,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "SA - Superior",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "9000 Superior Avenue",
                 "Zip": "44106",
                 "Phone": "(216)229-6065",
@@ -1328,7 +1328,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "SA - Temple",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "17625 Grovewwod",
                 "Zip": "44110",
                 "Phone": "(216) 357-9134",
@@ -1349,7 +1349,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "SA - West Park",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "12645 Lorain Ave",
                 "Zip": "44111",
                 "Phone": "(216)789-6558",
@@ -1370,7 +1370,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "SA-Ohio City",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4402 Clark Ave",
                 "Zip": "44109",
                 "Phone": "(216)631-1515",
@@ -1391,7 +1391,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Scranton Road Ministries ",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3095 Scranton Road",
                 "Zip": "44113",
                 "Phone": "(216)861-5323",
@@ -1412,7 +1412,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Start Right CDC",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "977 Caledonia Ave",
                 "Zip": "44112",
                 "Phone": "(216) 832-6508",
@@ -1433,7 +1433,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "City of Mansfield - North Lake",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "445 Bowman St",
                 "Zip": "44903",
                 "Phone": "(419) 524-2626",
@@ -1454,7 +1454,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "City of Mansfield - Ocie Hill ",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "445 Bowman St",
                 "Zip": "44903",
                 "Phone": "(419) 524-2626",
@@ -1475,7 +1475,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "City of Mansfield - Prospect Park",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "445 Bowman St",
                 "Zip": "44903",
                 "Phone": "(419) 524-2626",
@@ -1496,7 +1496,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Teach Me Childcare",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "540 Pearl St.",
                 "Zip": "44902",
                 "Phone": "(419) 610-6915",
@@ -1517,7 +1517,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "The Basheer Jones Foundation",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2357 Tremont Ave.",
                 "Zip": "44113",
                 "Phone": "216-338-2885",
@@ -1538,7 +1538,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "The Church C.O.G.I.C.",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7541 Kinsman Rd.",
                 "Zip": "44104",
                 "Phone": "(216) 536-3284",
@@ -1559,7 +1559,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "True Faith Apostolic Bibleway Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "911 Maud Avenue",
                 "Zip": "44103",
                 "Phone": "(216)543-5585",
@@ -1580,7 +1580,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "City of Warrensville (Granada Gardens)",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "4301 Warrensville Ctr Rd",
                 "Zip": "44128",
                 "Phone": "(216) 662-5286",
@@ -1601,7 +1601,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Urban Squash Cleveland",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "7100 Euclid Ave",
                 "Zip": "44103",
                 "Phone": "(216) 269-6034",
@@ -1622,7 +1622,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Bethany Christian Church (Disciples of Christ)",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3940 MLK Dr",
                 "Zip": "44105",
                 "Phone": "(216)548-3879",
@@ -1643,7 +1643,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC - St. Luke's",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2705 MLK Dr.",
                 "Zip": "44104",
                 "Phone": "(216) 400-8212",
@@ -1664,7 +1664,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "BGC- King Kennedy",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "2561 E. 59th Street",
                 "Zip": "44104",
                 "Phone": "(216)881-4636",
@@ -1685,7 +1685,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - Addison Branch",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "6901 Superior Avenue",
                 "Zip": "44103",
                 "Phone": "(216)623-6902",
@@ -1706,7 +1706,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - FULTON BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "3545 FULTON ROAD",
                 "Zip": "44109",
                 "Phone": "(216) 623-6969",
@@ -1727,7 +1727,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - HARVARD LEE BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "16918 HARVARD AVENUE",
                 "Zip": "44128",
                 "Phone": "(216) 623-6990",
@@ -1748,7 +1748,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - LORAIN BRANCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "8216 LORAIN BLVD",
                 "Zip": "44102",
                 "Phone": "(216) 623-7011",
@@ -1769,7 +1769,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "CPL - MAIN LIBRARY",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "325 SUPERIOR AVENUE",
                 "Zip": "44114",
                 "Phone": "(216) 623-2834",
@@ -1790,7 +1790,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "FIFTH CHRISTIAN CHURCH",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "14109 BENWOOD AVENUE",
                 "Zip": "44128",
                 "Phone": "(216)751-3996",
@@ -1811,7 +1811,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Peace in Hood",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "13512 Kinsman Rd",
                 "Zip": "44120",
                 "Phone": "(216)618-8806",
@@ -1832,7 +1832,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Taskforce of Greater Cleveland (Carey West Apts.)",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "8901 Detroit Ave.",
                 "Zip": "44102",
                 "Phone": "(216) 502-8791",
@@ -1853,7 +1853,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Three Crosses Methodist Church",
-                "Kind": "Hot Meal",
+                "kind": "Hot Meal",
                 "Address": "12 Clevewland St.",
                 "Zip": "44822",
                 "Phone": "(419)883-2269",
