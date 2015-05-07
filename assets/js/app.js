@@ -165,7 +165,7 @@ var hotmeals = L.geoJson(null, {
   }, 
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.Phone + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "&nbsp;&nbsp;" + feature.properties.Zip + "</td></tr>" + "<tr><th>Site Open</th><td>" + feature.properties.daterange + "</td></tr>" + "<tr><th>Days</th><td>" + feature.properties.Days + "</td></tr>" +"<tr><th>Breakfast Hours</th><td>" + feature.properties.BreakfastTime + "</td></tr>" + "<tr><th>Lunch Hours</th><td>" + feature.properties.LunchTime + "</td></tr>" + "<table>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.name + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.Phone + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "&nbsp;&nbsp;" + feature.properties.Zip + "</td></tr>" + "<tr><th>Site Open</th><td>" + feature.properties.daterange + "</td></tr>" + "<tr><th>Days</th><td>" + feature.properties.Days + "</td></tr>" +"<tr><th>Breakfast Hours</th><td>" + feature.properties.BreakfastTime + "</td></tr>" + "<tr><th>Lunch Hours</th><td>" + feature.properties.LunchTime + "</td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.name);
