@@ -582,9 +582,9 @@ if (!L.Browser.touch) {
 // smartystreets configuration
 
 
-// jQuery.LiveAddress("2656237162008115287");
+// jQuery.LiveAddress("3548360835023561920");
 // var htmlKey = "3548360835619230092";  // github    // Put your HTML key here
-var htmlKey = "2656237162008115287";  // local
+var htmlKey = "3548360835023561920";  // local
 
 // var testRunnerVersion = "1.1.6";  // The version of this test runner page
 
