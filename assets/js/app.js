@@ -1,4 +1,4 @@
-var map, featureList, hotmealSearch = [], pantrySearch = [];
+var map, featureList, hotmealSearch = [], pantrySearch = [], summerfeedingSearch = [];
 
 $(window).resize(function() {
   sizeLayerControl();
@@ -88,6 +88,14 @@ function syncSidebar() {
     if (map.hasLayer(hotmealLayer)) {
       if (map.getBounds().contains(layer.getLatLng())) {
         $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/hotmeal.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      }
+    }
+  });
+  /* Loop through summerfeeding layer and add only features which are in the map bounds */
+  summerfeeding.eachLayer(function (layer) {
+    if (map.hasLayer(summerfeedingLayer)) {
+      if (map.getBounds().contains(layer.getLatLng())) {
+        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/summerfeeding.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       }
     }
   });
@@ -245,6 +253,52 @@ map = L.map("map", {
   attributionControl: false
 });
 
+/* Empty layer placeholder to add to layer control for listening when to add/remove summerfeedings to markerClusters layer */
+var summerfeedingLayer = L.geoJson(null);
+var summerfeeding = L.geoJson(null, {
+  pointToLayer: function (feature, latlng) {
+    return L.marker(latlng, {
+      icon: L.icon({
+        iconUrl: "assets/img/summerfeeding.png",
+        iconSize: [32, 32],
+        iconAnchor: [12, 28],
+        popupAnchor: [0, -25]
+      }),
+      title: feature.properties.name,
+      riseOnHover: true
+    });
+  },
+  filter: function(feature, layer) {
+    return feature.properties.kind == "Summer Feeding";
+  }, 
+  onEachFeature: function (feature, layer) {
+    if (feature.properties) {
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.Phone + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "&nbsp;&nbsp;" + feature.properties.Zip + "</td></tr>" + "<tr><th>Site Open</th><td>" + feature.properties.daterange + "</td></tr>" + "<tr><th>Days</th><td>" + feature.properties.Days + "</td></tr>" +"<tr><th>Breakfast Hours</th><td>" + feature.properties.BreakfastTime + "</td></tr>" + "<tr><th>Lunch Hours</th><td>" + feature.properties.LunchTime + "</td></tr>" + "<table>";
+      layer.on({
+        click: function (e) {
+          $("#feature-title").html(feature.properties.name);
+          $("#feature-info").html(content);
+          $("#featureModal").modal("show");
+          highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+        }
+      });
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/summerfeeding.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      summerfeedingSearch.push({
+        name: layer.feature.properties.name,
+        address: layer.feature.properties.address,
+        source: "Summer Feeding",
+        id: L.stamp(layer),
+        lat: layer.feature.geometry.coordinates[1],
+        lng: layer.feature.geometry.coordinates[0]
+      });
+    }
+  }
+});
+$.getJSON("places.geojson", function (data) {
+  summerfeedings.addData(data);
+  map.addLayer(summerfeedingLayer);
+});
+
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
   if (e.layer === hotmealLayer) {
@@ -253,6 +307,10 @@ map.on("overlayadd", function(e) {
   }
   if (e.layer === pantryLayer) {
     markerClusters.addLayer(pantries);
+    syncSidebar();
+  }
+  if (e.layer === summerfeedingLayer) {
+    markerClusters.addLayer(summerfeeding);
     syncSidebar();
   }
 });
@@ -264,6 +322,10 @@ map.on("overlayremove", function(e) {
   }
   if (e.layer === pantryLayer) {
     markerClusters.removeLayer(pantries);
+    syncSidebar();
+  }
+  if (e.layer === summerfeedingLayer) {
+    markerClusters.removeLayer(summerfeeding);
     syncSidebar();
   }
 });
@@ -352,6 +414,7 @@ var groupedOverlays = {
   "Points of Interest": {
     "<img src='assets/img/hotmeal.png' width='32' height='32'>&nbsp;Hot Meals": hotmealLayer,
     "<img src='assets/img/pantry.png' width='32' height='32'>&nbsp;Pantries": pantryLayer
+    "<img src='assets/img/summerfeeding.png' width='32' height='32'>&nbsp;Summer Feeding": summerfeedingLayer
   }
 };
 
@@ -399,6 +462,16 @@ $(document).one("ajaxStop", function () {
     },
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     local: pantrySearch,
+    limit: 10
+  });
+
+    var summerfeedingBH = new Bloodhound({
+    name: "Summer Feeding",
+    datumTokenizer: function (d) {
+      return Bloodhound.tokenizers.whitespace(d.name);
+    },
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    local: summerfeedingSearch,
     limit: 10
   });
 
@@ -470,6 +543,15 @@ $(document).one("ajaxStop", function () {
         map._layers[datum.id].fire("click");
       }
     }
+    if (datum.source === "Summer Feeding") {
+      if (!map.hasLayer(summerfeedingLayer)) {
+        map.addLayer(summerfeedingLayer);
+      }
+      map.setView([datum.lat, datum.lng], 17);
+      if (map._layers[datum.id]) {
+        map._layers[datum.id].fire("click");
+      }
+    }
     if (datum.source === "GeoNames") {
       map.setView([datum.lat, datum.lng], 14);
     }
@@ -500,9 +582,9 @@ if (!L.Browser.touch) {
 // smartystreets configuration
 
 
-// jQuery.LiveAddress("3548360835023561920");
+// jQuery.LiveAddress("2656237162008115287");
 // var htmlKey = "3548360835619230092";  // github    // Put your HTML key here
-var htmlKey = "3548360835023561920";  // local
+var htmlKey = "2656237162008115287";  // local
 
 // var testRunnerVersion = "1.1.6";  // The version of this test runner page
 
