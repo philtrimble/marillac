@@ -348,10 +348,11 @@ var baseLayers = {
   "Imagery with Streets": mapquestHYB
 };
 
+/* HEADS UP. I made some changes here to hastily add the first chunk of data. Using hotmealLayer for Summer Feeding sites. Fix this later! */
 var groupedOverlays = {
-  "Points of Interest": {
-    "<img src='assets/img/hotmeal.png' width='32' height='32'>&nbsp;Hot Meals": hotmealLayer,
-    "<img src='assets/img/pantry.png' width='32' height='32'>&nbsp;Pantries": pantryLayer
+  "Site Type": {
+    "<img src='assets/img/hotmeal.png' width='32' height='32'>&nbsp;Summer Feeding": hotmealLayer,
+   /* "<img src='assets/img/pantry.png' width='32' height='32'>&nbsp;Pantries": pantryLayer */
   }
 };
 
