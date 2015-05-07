@@ -245,14 +245,6 @@ $.getJSON("places.geojson", function (data) {
   map.addLayer(pantryLayer);
 });
 
-map = L.map("map", {
-  zoom: 11,
-  center: [41.501860,-81.635799],
-  layers: [mapquestOSM, markerClusters, highlight],
-  zoomControl: false,
-  attributionControl: false
-});
-
 /* Empty layer placeholder to add to layer control for listening when to add/remove summerfeedings to markerClusters layer */
 var summerfeedingLayer = L.geoJson(null);
 var summerfeeding = L.geoJson(null, {
@@ -295,10 +287,17 @@ var summerfeeding = L.geoJson(null, {
   }
 });
 $.getJSON("places.geojson", function (data) {
-  summerfeedings.addData(data);
+  summerfeeding.addData(data);
   map.addLayer(summerfeedingLayer);
 });
 
+map = L.map("map", {
+  zoom: 11,
+  center: [41.501860,-81.635799],
+  layers: [mapquestOSM, markerClusters, highlight],
+  zoomControl: false,
+  attributionControl: false
+});
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
   if (e.layer === hotmealLayer) {
@@ -509,6 +508,7 @@ $(document).one("ajaxStop", function () {
   }); */
   hotmealsBH.initialize();
   pantriesBH.initialize();
+  summerfeedingBH.initialize();
  // geonamesBH.initialize();
 
   /* instantiate the typeahead UI */
