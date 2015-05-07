@@ -237,55 +237,6 @@ $.getJSON("places.geojson", function (data) {
   map.addLayer(pantryLayer);
 });
 
-<<<<<<< HEAD
-/* Empty layer placeholder to add to layer control for listening when to add/remove summerfeedings to markerClusters layer */
-var summerfeedingLayer = L.geoJson(null);
-var summerfeeding = L.geoJson(null, {
-  pointToLayer: function (feature, latlng) {
-    return L.marker(latlng, {
-      icon: L.icon({
-        iconUrl: "assets/img/summerfeeding.png",
-        iconSize: [32, 32],
-        iconAnchor: [12, 28],
-        popupAnchor: [0, -25]
-      }),
-      title: feature.properties.name,
-      riseOnHover: true
-    });
-  },
-  filter: function(feature, layer) {
-    return feature.properties.kind == "Summer Feeding";
-  }, 
-  onEachFeature: function (feature, layer) {
-    if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.Phone + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "&nbsp;&nbsp;" + feature.properties.Zip + "</td></tr>" + "<tr><th>Site Open</th><td>" + feature.properties.daterange + "</td></tr>" + "<tr><th>Days</th><td>" + feature.properties.Days + "</td></tr>" +"<tr><th>Breakfast Hours</th><td>" + feature.properties.BreakfastTime + "</td></tr>" + "<tr><th>Lunch Hours</th><td>" + feature.properties.LunchTime + "</td></tr>" + "<table>";
-      layer.on({
-        click: function (e) {
-          $("#feature-title").html(feature.properties.name);
-          $("#feature-info").html(content);
-          $("#featureModal").modal("show");
-          highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
-        }
-      });
-      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/summerfeeding.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
-      summerfeedingSearch.push({
-        name: layer.feature.properties.name,
-        address: layer.feature.properties.address,
-        source: "Summer Feeding",
-        id: L.stamp(layer),
-        lat: layer.feature.geometry.coordinates[1],
-        lng: layer.feature.geometry.coordinates[0]
-      });
-    }
-  }
-});
-$.getJSON("places.geojson", function (data) {
-  summerfeeding.addData(data);
-  map.addLayer(summerfeedingLayer);
-});
-
-=======
->>>>>>> parent of 422c487... Initial add of summer feeding later
 map = L.map("map", {
   zoom: 11,
   center: [41.501860,-81.635799],
@@ -293,10 +244,7 @@ map = L.map("map", {
   zoomControl: false,
   attributionControl: false
 });
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 422c487... Initial add of summer feeding later
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
   if (e.layer === hotmealLayer) {
@@ -488,7 +436,6 @@ $(document).one("ajaxStop", function () {
   }); */
   hotmealsBH.initialize();
   pantriesBH.initialize();
-  summerfeedingBH.initialize();
  // geonamesBH.initialize();
 
   /* instantiate the typeahead UI */
