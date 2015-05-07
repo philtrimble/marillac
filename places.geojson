@@ -1,1874 +1,4850 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Adlai E. Stevenson Elementary School",
-                "Kind": "Hot Meal",
-                "Address": "18300 Woda Avenue",
-                "Zip": "44122",
-                "Phone": "(216) 482-2950",
-                "daterange": "6/8/15 - 7/3/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00 AM - 9:30 AM",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5507673,
-                    41.4549927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "ALLIANCE FOR FAMILY HOPE",
-                "Kind": "Hot Meal",
-                "Address": "5050 STANLEY",
-                "Zip": "44137",
-                "Phone": "(216) 581-2084",
-                "daterange": "6/22/15 - 7/25/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:30 AM - 9:30 AM",
-                "LunchTime": "11:00 AM - 12:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5715408,
-                    41.4217339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Applewood Centers",
-                "Kind": "Hot Meal",
-                "Address": "10427 Detroit Ave",
-                "Zip": "44102",
-                "Phone": "(440)554-1187",
-                "daterange": "6/8/15 - 8/21/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 10:30 AM",
-                "LunchTime": "12:30 PM - 2:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7597427,
-                    41.480217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Bellefaire JCB",
-                "Kind": "Hot Meal",
-                "Address": "22001 Fairmount Blvd",
-                "Zip": "44118",
-                "Phone": "(216)320-8369",
-                "daterange": "6/8/15 - 8/21/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5245285,
-                    41.4868088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - Cleveland Heights",
-                "Kind": "Hot Meal",
-                "Address": "2065 Lee road",
-                "Zip": "44118",
-                "Phone": "(216)321-2582",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 PM - 5:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5653981,
-                    41.5033966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - Michael R. White STEM School",
-                "Kind": "Hot Meal",
-                "Address": "1000 E. 92nd Street",
-                "Zip": "44124",
-                "Phone": "(216) 496-1769",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "10:00 AM - 11:00 AM",
-                "LunchTime": "1:00 AM - 2:00 AM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6243515,
-                    41.5294418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - Mt. Pleasant",
-                "Kind": "Hot Meal",
-                "Address": "3689 E. 131st st",
-                "Zip": "44120",
-                "Phone": "(216)752-2450",
-                "daterange": "6/8/15 - 8/8/15",
-                "Days": "M-S",
-                "BreakfastTime": "None",
-                "LunchTime": "3:00 PM - 4:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5906143,
-                    41.4585533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - Broadway",
-                "Kind": "Hot Meal",
-                "Address": "6114 Broadway",
-                "Zip": "44127",
-                "Phone": "(216)883-4663",
-                "daterange": "5/26/15 - 8/21/15",
-                "Days": "M-S",
-                "BreakfastTime": "None",
-                "LunchTime": "2:30 PM - 3:30 PM (3:00-4:00pm on Saturday)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6478318,
-                    41.4641686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - East Cleveland/MLK",
-                "Kind": "Hot Meal",
-                "Address": "14801 Shaw Ave",
-                "Zip": "44112",
-                "Phone": "(216)681-2812",
-                "daterange": "6/8/15 - 8/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "1:00 PM - 1:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5776367,
-                    41.5401077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - FDR",
-                "Kind": "Hot Meal",
-                "Address": "800 Linn Dr",
-                "Zip": "44108",
-                "Phone": "(216)470-3530",
-                "daterange": "6/8/15 - 8/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "2:30 PM - 3:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6099932,
-                    41.5357567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC -Walton School",
-                "Kind": "Hot Meal",
-                "Address": "3409 Walton Ave",
-                "Zip": "44113",
-                "Phone": "(216) 774-9676",
-                "daterange": "6/1/15 - 8/7/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "2:00 PM - 3:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7070007,
-                    41.4706383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC -Westside",
-                "Kind": "Hot Meal",
-                "Address": "3340 Trowbridge ave",
-                "Zip": "44109",
-                "Phone": "(216)459-2697",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "1:00 PM - 3:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7058419,
-                    41.4617861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC-Charles Eliot ",
-                "Kind": "Hot Meal",
-                "Address": "15700 LOTUS DR.",
-                "Zip": "44128",
-                "Phone": "216-299-6285",
-                "daterange": "6/2/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00pm - 12:45PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5717621,
-                    41.4456406
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Chagrin Falls Park Community Center",
-                "Kind": "Hot Meal",
-                "Address": "7060 Woodland",
-                "Zip": "44023",
-                "Phone": "(440)247-6030",
-                "daterange": "6/22/15 - 8/7/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00 AM - 10:00 AM",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.388771,
-                    41.414505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Childrens Cupboard",
-                "Kind": "Hot Meal",
-                "Address": "176 Hedges Street",
-                "Zip": "44903",
-                "Phone": "(419) 512-0485",
-                "daterange": "6/22/15 - 7/16/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12noon - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5100339,
-                    40.7533684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Church of the Ascension",
-                "Kind": "Hot Meal",
-                "Address": "13216 Detroit Ave.",
-                "Zip": "44107",
-                "Phone": "(216)521-8727",
-                "daterange": "6/15/15 - 8/17/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 1:00 AM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7813683,
-                    41.4848149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Cleveland Central Catholic",
-                "Kind": "Hot Meal",
-                "Address": "6550 Baxter Ave",
-                "Zip": "44105",
-                "Phone": "(216)441-4700",
-                "daterange": "6/15/15 - 8/14/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "1:15 PM - 3:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.644292,
-                    41.4593963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CMSD -Robinson G. Jones",
-                "Kind": "Hot Meal",
-                "Address": "4550 W. 150th Street",
-                "Zip": "44135",
-                "Phone": "(216)920-7143",
-                "daterange": "6/1/15 - 7/23/15",
-                "Days": "M,W,R",
-                "BreakfastTime": "9:00am - 9:30am",
-                "LunchTime": "11:30 AM - 12:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.8030167,
-                    41.4290848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL -  E. 131 STREET BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "3830 EAST 131 STREET",
-                "Zip": "44120",
-                "Phone": "(216)623-6941",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5912224,
-                    41.4545602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - MARTIN L. KING, JR. BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "1962 STOKES BLVD.",
-                "Zip": "44106",
-                "Phone": "(216) 623-7018",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6138153,
-                    41.5045662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - Brooklyn Branch",
-                "Kind": "Hot Meal",
-                "Address": "3706 Pearl Road",
-                "Zip": "44109",
-                "Phone": "(216)623-6920",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7014404,
-                    41.4539098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - Carnegie West",
-                "Kind": "Hot Meal",
-                "Address": "1900 Fulton Road",
-                "Zip": "44113",
-                "Phone": "(216)623-6927",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7105211,
-                    41.4830654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - COLLINWOOD BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "856 EAST 152 STREET",
-                "Zip": "44110",
-                "Phone": "(216)623-6934",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5759964,
-                    41.5559692
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - EASTMAN BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "11602 LORAIN AVENUE",
-                "Zip": "44111",
-                "Phone": "(216)623-6955",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7685165,
-                    41.4630508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - Fleet",
-                "Kind": "Hot Meal",
-                "Address": "7224 Broadway Ave",
-                "Zip": "44105",
-                "Phone": "(216) 623-6362",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6382675,
-                    41.4573555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - GARDEN VALLEY BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "7201 KINSMAN AVENUE",
-                "Zip": "44104",
-                "Phone": "(216) 623-6976",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6221237,
-                    41.4718208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - GLENVILLE BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "11900 ST. CLAIR AVENUE",
-                "Zip": "44108",
-                "Phone": "(216) 623-6983",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.602256,
-                    41.541069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - HOUGH BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "1566 CRAWFORD ROAD",
-                "Zip": "44106",
-                "Phone": "(216) 623-6997",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6229858,
-                    41.5143814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - JEFFERSON BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "850 JEFFERSON AVENUE",
-                "Zip": "44113",
-                "Phone": "(216) 623-7004",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6855545,
-                    41.4792557
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - LANGSTON HUGHES BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "10200 SUPERIOR AVENUE",
-                "Zip": "44106",
-                "Phone": "(216) 623-6975",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6171648,
-                    41.5214807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - MT. PLEASANT BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "14000 KINSMAN ROAD",
-                "Zip": "44120",
-                "Phone": "(216) 623-7032",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5844574,
-                    41.464035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - RICE BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "11353 SHAKER BLVD.",
-                "Zip": "44120",
-                "Phone": "(216) 623-7046",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6060229,
-                    41.484314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - ROCKPORT BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "4421 WEST 140TH STREET",
-                "Zip": "44135",
-                "Phone": "(216) 623-7053",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7906225,
-                    41.4341345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - SOUTH BROOKLYN BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "4303 PEARL ROAD",
-                "Zip": "44109",
-                "Phone": "(216) 623-7067",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7071173,
-                    41.4386702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - STERLING BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "2200 E. 30TH STREET",
-                "Zip": "44115",
-                "Phone": "(216) 623-7074",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6667786,
-                    41.4975624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - UNION BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "3465 EAST 93RD STREET",
-                "Zip": "44104",
-                "Phone": "(216) 623-7088",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-S",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6214053,
-                    41.4643543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - WALZ BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "7910 DETROIT AVENUE",
-                "Zip": "44102",
-                "Phone": "(216) 623-7095",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.739616,
-                    41.482036
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - WEST PARK BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "3805 WEST 157TH STREET",
-                "Zip": "44111",
-                "Phone": "(216) 623-7102",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.8073807,
-                    41.4514275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - WOODLAND BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "5806 WOODLAND AVENUE",
-                "Zip": "44104",
-                "Phone": "(216) 623-7109",
-                "daterange": "6/9/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6489798,
-                    41.4879765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Brooklyn Branch",
-                "Kind": "Hot Meal",
-                "Address": "4480 Ridge Road",
-                "Zip": "44144",
-                "Phone": "(216)398-4600",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:45AM - 12:15PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7353597,
-                    41.4345624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Maple Heights Branch",
-                "Kind": "Hot Meal",
-                "Address": "5225 Library Lane",
-                "Zip": "44137",
-                "Phone": "(216)475-5000",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 noon - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5696564,
-                    41.4181175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Parma Snow Branch",
-                "Kind": "Hot Meal",
-                "Address": "2121 Snow Rd",
-                "Zip": "44134",
-                "Phone": "(216) 661-4240",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:15 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6972198,
-                    41.4041176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Southeast Branch",
-                "Kind": "Hot Meal",
-                "Address": "70 Columbus Road",
-                "Zip": "44146",
-                "Phone": "(440) 439-4997",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "11:45 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.534436,
-                    41.3940181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Garfield Heights Branch",
-                "Kind": "Hot Meal",
-                "Address": "5409 Turney Road",
-                "Zip": "44125",
-                "Phone": "(216) 475-8178",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 P.M. - 12:30 P.M."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6048454,
-                    41.4154623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CCPL - Warrensville Branch",
-                "Kind": "Hot Meal",
-                "Address": "4415 Northfield Road",
-                "Zip": "44128",
-                "Phone": "(216)464-5280",
-                "daterange": "6/15/15 - 3/6/15",
-                "Days": "M-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12:15 p.m. - 12:45 p.m."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5263271,
-                    41.4405765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "East Cleveland Public Library",
-                "Kind": "Hot Meal",
-                "Address": "14101 Euclid Ave",
-                "Zip": "44101",
-                "Phone": "(216)541-4128",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "1:00 PM - 2:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5846863,
-                    41.5284576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Fairhill Partners",
-                "Kind": "Hot Meal",
-                "Address": "12200 Fairhill Road",
-                "Zip": "44105",
-                "Phone": "(216)421-1350",
-                "daterange": "7/7/15 - 7/30/15",
-                "Days": "T-R",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "12:30pm - 1:30pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5976257,
-                    41.4916992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Family for Life Foundation",
-                "Kind": "Hot Meal",
-                "Address": "7115 Woodland Avenue",
-                "Zip": "44104",
-                "Phone": "(216) 881-7005",
-                "daterange": "6/8/15 - 8/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "7:00am - 8:30am",
-                "LunchTime": "11:00am - 12:30pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6391294,
-                    41.4881596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "First English Lutheran Christian Day School",
-                "Kind": "Hot Meal",
-                "Address": "53 Park Ave West",
-                "Zip": "44902",
-                "Phone": "(419) 522-7500",
-                "daterange": "6/15/15 - 7/30/15",
-                "Days": "M-R",
-                "BreakfastTime": "8:30 AM - 9:30 AM",
-                "LunchTime": "11:15 AM - 12:15 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5184402,
-                    40.7584457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "East Cleveland Neighborhood Center - Freedom School",
-                "Kind": "Hot Meal",
-                "Address": "2490 Lee Blvd Suite 322",
-                "Zip": "44118",
-                "Phone": "(330) 324-8776",
-                "daterange": "6/15/15 - 7/24/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:00am - 8:45 AM",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5698853,
-                    41.5161514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Olivet Baptist Church - Freedom School",
-                "Kind": "Hot Meal",
-                "Address": "8712 Quincy Avenue",
-                "Zip": "44106",
-                "Phone": "(216) 376-4642",
-                "daterange": "6/15/15 - 7/24/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:00 A M - 8:30 A M",
-                "LunchTime": "12:00pm - 1:00 P M"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6259389,
-                    41.4933752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Glenville Legacy Center - Camp ROC",
-                "Kind": "Hot Meal",
-                "Address": "7820 Euclid Ave",
-                "Zip": "44103",
-                "Phone": "(216) 225-6849",
-                "daterange": "6/15/15 - 7/23/15",
-                "Days": "M-R",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6342457,
-                    41.5038103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Grace Church",
-                "Kind": "Hot Meal",
-                "Address": "2503 Broadview Road",
-                "Zip": "44109",
-                "Phone": "(216)661-8210",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7020111,
-                    41.4393768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Holy Trinity Baptist Church",
-                "Kind": "Hot Meal",
-                "Address": "3808  East 131st. Street",
-                "Zip": "44120",
-                "Phone": "(216)561-4121",
-                "daterange": "5/15/15 - 8/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00 AM - 10:30 AM",
-                "LunchTime": "12:30 PM - 1:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5912278,
-                    41.4549659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "JUST 4 KIDS",
-                "Kind": "Hot Meal",
-                "Address": "3565 MAYFIELD ROAD",
-                "Zip": "44118",
-                "Phone": "(216)402-5025",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:00AM - 9:00AM",
-                "LunchTime": "11:00 AM - 12:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5510577,
-                    41.5205318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Karamu House",
-                "Kind": "Hot Meal",
-                "Address": "2355 East 89th Street",
-                "Zip": "44105",
-                "Phone": "(216)795-7070",
-                "daterange": "6/1/15 - 8/21/15",
-                "Days": "M-R",
-                "BreakfastTime": "6:30am - 9:30 AM",
-                "LunchTime": "12:00 PM - 2:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6240616,
-                    41.4942474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Kingdom Builders of Christ Church",
-                "Kind": "Hot Meal",
-                "Address": "6612 st. clair avenue",
-                "Zip": "44108",
-                "Phone": "(216)269-2477",
-                "daterange": "6/8/15 - 8/31/15",
-                "Days": "M,S",
-                "BreakfastTime": "None",
-                "LunchTime": "5:00 PM - 5:45 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.643814,
-                    41.525588
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Liberty Hill Baptist Church",
-                "Kind": "Hot Meal",
-                "Address": "8206 Euclid Avenue",
-                "Zip": "44103",
-                "Phone": "(216)245-3592",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "7:00am - 8:00am",
-                "LunchTime": "11:45 AM - 12:15 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6305986,
-                    41.5036158
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Open Doors Academy",
-                "Kind": "Hot Meal",
-                "Address": "3311 Perkins Ave.",
-                "Zip": "44114",
-                "Phone": "(216)229-1900",
-                "daterange": "6/15/15 - 8/6/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6639862,
-                    41.5062256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Parma City Schools",
-                "Kind": "Hot Meal",
-                "Address": "11212 Snow Road",
-                "Zip": "44130",
-                "Phone": "(440) 842-7022",
-                "daterange": "6/9/15 - 8/21/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "12:00pm - 1:30pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7655419,
-                    41.4050668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Pilgrim Congregational United Church of Christ",
-                "Kind": "Hot Meal",
-                "Address": "2592 West 14th Street",
-                "Zip": "44113",
-                "Phone": "(216) 861-7388",
-                "daterange": "6/15/15 - 7/17/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00pm - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.691864,
-                    41.4769211
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Robert H. Jamison School",
-                "Kind": "Hot Meal",
-                "Address": "4092 East 146th Street",
-                "Zip": "44128",
-                "Phone": "(216) 400-7047",
-                "daterange": "6/8/15 - 7/10/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "1:00pm - 2:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5802231,
-                    41.4481506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "SA - Superior",
-                "Kind": "Hot Meal",
-                "Address": "9000 Superior Avenue",
-                "Zip": "44106",
-                "Phone": "(216)229-6065",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30a - 12:30P"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6249008,
-                    41.5205078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "SA - Temple",
-                "Kind": "Hot Meal",
-                "Address": "17625 Grovewwod",
-                "Zip": "44110",
-                "Phone": "(216) 357-9134",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:00am - 9:00am",
-                "LunchTime": "12:00 PM - 1:30 AM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5572128,
-                    41.5767632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "SA - West Park",
-                "Kind": "Hot Meal",
-                "Address": "12645 Lorain Ave",
-                "Zip": "44111",
-                "Phone": "(216)789-6558",
-                "daterange": "6/22/15 - 8/7/15",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 10:00am",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7760689,
-                    41.4595116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "SA-Ohio City",
-                "Kind": "Hot Meal",
-                "Address": "4402 Clark Ave",
-                "Zip": "44109",
-                "Phone": "(216)631-1515",
-                "daterange": "6/8/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:30am - 9:00am",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7166928,
-                    41.4697026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Scranton Road Ministries ",
-                "Kind": "Hot Meal",
-                "Address": "3095 Scranton Road",
-                "Zip": "44113",
-                "Phone": "(216)861-5323",
-                "daterange": "6/1/15 - 7/30/15",
-                "Days": "M-R",
-                "BreakfastTime": "9:30 AM - 10:00 AM",
-                "LunchTime": "12:00 PM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6965942,
-                    41.4701424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Start Right CDC",
-                "Kind": "Hot Meal",
-                "Address": "977 Caledonia Ave",
-                "Zip": "44112",
-                "Phone": "(216) 832-6508",
-                "daterange": "6/22/15 - 8/6/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "1:30 AM - 2:00 AM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5621339,
-                    41.5334976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "City of Mansfield - North Lake",
-                "Kind": "Hot Meal",
-                "Address": "445 Bowman St",
-                "Zip": "44903",
-                "Phone": "(419) 524-2626",
-                "daterange": "6/22/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5237656,
-                    40.7703285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "City of Mansfield - Ocie Hill ",
-                "Kind": "Hot Meal",
-                "Address": "445 Bowman St",
-                "Zip": "44903",
-                "Phone": "(419) 524-2626",
-                "daterange": "6/22/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:00am - 9:00am",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5237656,
-                    40.7703285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "City of Mansfield - Prospect Park",
-                "Kind": "Hot Meal",
-                "Address": "445 Bowman St",
-                "Zip": "44903",
-                "Phone": "(419) 524-2626",
-                "daterange": "6/22/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5237656,
-                    40.7703285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Teach Me Childcare",
-                "Kind": "Hot Meal",
-                "Address": "540 Pearl St.",
-                "Zip": "44902",
-                "Phone": "(419) 610-6915",
-                "daterange": "6/8/15 - 8/28/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:30 AM - 9:30 AM",
-                "LunchTime": "12:30 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5052234,
-                    40.7728386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "The Basheer Jones Foundation",
-                "Kind": "Hot Meal",
-                "Address": "2357 Tremont Ave.",
-                "Zip": "44113",
-                "Phone": "216-338-2885",
-                "daterange": "6/22/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "8:30 AM - 9:30 AM",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6870651,
-                    41.4798662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "The Church C.O.G.I.C.",
-                "Kind": "Hot Meal",
-                "Address": "7541 Kinsman Rd.",
-                "Zip": "44104",
-                "Phone": "(216) 536-3284",
-                "daterange": "6/8/15 - 8/14/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30am - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6347656,
-                    41.4784966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "True Faith Apostolic Bibleway Church",
-                "Kind": "Hot Meal",
-                "Address": "911 Maud Avenue",
-                "Zip": "44103",
-                "Phone": "(216)543-5585",
-                "daterange": "6/9/15 - 8/31/15",
-                "Days": "S",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6329529,
-                    41.529363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "City of Warrensville (Granada Gardens)",
-                "Kind": "Hot Meal",
-                "Address": "4301 Warrensville Ctr Rd",
-                "Zip": "44128",
-                "Phone": "(216) 662-5286",
-                "daterange": "6/10/15 - 8/13/15",
-                "Days": "W-R",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00pm - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.536034,
-                    41.4426117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Urban Squash Cleveland",
-                "Kind": "Hot Meal",
-                "Address": "7100 Euclid Ave",
-                "Zip": "44103",
-                "Phone": "(216) 269-6034",
-                "daterange": "7/6/15 - 7/31/15",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00PM - 1:00PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.6387024,
-                    41.5030441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Bethany Christian Church (Disciples of Christ)",
-                "Kind": "Hot Meal",
-                "Address": "3940 MLK Dr",
-                "Zip": "44105",
-                "Phone": "(216)548-3879",
-                "daterange": " 6/22/15 - 7/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "8:30 AM - 9:00 AM",
-                "LunchTime": "12:30 PM - 1:00 AM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.60273518,
-                    41.45148712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC - St. Luke's",
-                "Kind": "Hot Meal",
-                "Address": "2705 MLK Dr.",
-                "Zip": "44104",
-                "Phone": "(216) 400-8212",
-                "daterange": " 6/1/15 - 8/14/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "2:00pm - 3:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.60325423,
-                    41.48574249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "BGC- King Kennedy",
-                "Kind": "Hot Meal",
-                "Address": "2561 E. 59th Street",
-                "Zip": "44104",
-                "Phone": "(216)881-4636",
-                "daterange": " 6/8/15 - 8/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "2:30 PM - 3:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.64888459,
-                    41.48868649
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - Addison Branch",
-                "Kind": "Hot Meal",
-                "Address": "6901 Superior Avenue",
-                "Zip": "44103",
-                "Phone": "(216)623-6902",
-                "daterange": " 6/8/15 - 7/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.64224812,
-                    41.51925244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - FULTON BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "3545 FULTON ROAD",
-                "Zip": "44109",
-                "Phone": "(216) 623-6969",
-                "daterange": " 6/9/15 - 7/31/15 ",
-                "Days": "M-S",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.71290163,
-                    41.4579881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - HARVARD LEE BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "16918 HARVARD AVENUE",
-                "Zip": "44128",
-                "Phone": "(216) 623-6990",
-                "daterange": " 6/9/15 - 7/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.5616168,
-                    41.44967735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - LORAIN BRANCH",
-                "Kind": "Hot Meal",
-                "Address": "8216 LORAIN BLVD",
-                "Zip": "44102",
-                "Phone": "(216) 623-7011",
-                "daterange": " 6/9/15 - 7/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.74163692,
-                    41.47074168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "CPL - MAIN LIBRARY",
-                "Kind": "Hot Meal",
-                "Address": "325 SUPERIOR AVENUE",
-                "Zip": "44114",
-                "Phone": "(216) 623-2834",
-                "daterange": " 6/9/15 - 7/31/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "11:30 AM - 12:30 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.69178213,
-                    41.50076773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "FIFTH CHRISTIAN CHURCH",
-                "Kind": "Hot Meal",
-                "Address": "14109 BENWOOD AVENUE",
-                "Zip": "44128",
-                "Phone": "(216)751-3996",
-                "daterange": " 6/22/15 - 8/14/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "9:00am - 9:45am",
-                "LunchTime": "12noon - 1:00pm"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.58390163,
-                    41.45092053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Peace in Hood",
-                "Kind": "Hot Meal",
-                "Address": "13512 Kinsman Rd",
-                "Zip": "44120",
-                "Phone": "(216)618-8806",
-                "daterange": " 6/15/15 - 8/6/15 ",
-                "Days": "M-R",
-                "BreakfastTime": "8:00 AM - 9:00 AM",
-                "LunchTime": "11:30 AM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.58832341,
-                    41.46524453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Taskforce of Greater Cleveland (Carey West Apts.)",
-                "Kind": "Hot Meal",
-                "Address": "8901 Detroit Ave.",
-                "Zip": "44102",
-                "Phone": "(216) 502-8791",
-                "daterange": " 6/15/15 - 8/21/15 ",
-                "Days": "M-F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 noon - 1:00 P.M."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7452729,
-                    41.48027907
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Three Crosses Methodist Church",
-                "Kind": "Hot Meal",
-                "Address": "12 Clevewland St.",
-                "Zip": "44822",
-                "Phone": "(419)883-2269",
-                "daterange": " 6/8/15 - 7/31/15 ",
-                "Days": "M,W,F",
-                "BreakfastTime": "None",
-                "LunchTime": "12:00 PM - 1:00 PM"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.42462098,
-                    40.58692585
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Ladislas Church (at St. Ignatius of Antioch)",
+        "kind": "Hot Meal",
+        "when": "1st & 3rd Wednesdays: 5:30 - 6:30",
+        "address": "10205 Lorain Avenue",
+        "zip": 44111,
+        "call": "216-251-0300",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75649,
+          41.46558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Ladislas Church (at St. Ignatius of Antioch)",
+        "kind": "Pantry",
+        "when": "2nd Tuesday: 3:30 - 5:30",
+        "address": "10205 Lorain Avenue",
+        "zip": 44111,
+        "call": "216-251-0300",
+        "forwhom": "44102 and 44111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75649,
+          41.46558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morning Star Baptist Church",
+        "kind": "Hot Meal",
+        "when": "2nd, 3rd & 4th Wednesdays: 3:00 - 4:30 (closed in July)",
+        "address": "10250 Shaker Boulevard",
+        "zip": 44104,
+        "call": "216-721-7300",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61446,
+          41.48335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project SEVA - Morning Star Baptist Church",
+        "kind": "Hot Meal",
+        "when": "First Wednesday: 2:00 - 4:00 (closed in July)",
+        "address": "10250 Shaker Boulevard",
+        "zip": 44104,
+        "call": "216-721-7300",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61446,
+          41.48335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith Based Initiative",
+        "kind": "Hot Meal",
+        "when": "3rd Monday: 4:00 - 5:30",
+        "address": "10313 Garfield Avenue",
+        "zip": 44108,
+        "call": "216-851-3330",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61654,
+          41.53447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams Avenue Church of Christ",
+        "kind": "Pantry",
+        "when": "4th Saturday: 10:00 - 12:00",
+        "address": "10407 Adams Avenue",
+        "zip": 44108,
+        "call": "216-541-2210",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.616,
+          41.53025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Memorial A.M.E. Church",
+        "kind": "Hot Meal",
+        "when": "3rd Thursday, 3rd Friday & 3rd Sunday: 5:00 - 6:00 (Closed in January)",
+        "address": "10512 Bryant Avenue",
+        "zip": 44108,
+        "call": "216-761-4447",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6147,
+          41.53344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Memorial A.M.E. Church",
+        "kind": "Pantry",
+        "when": "1st Saturday: 1:00 - 3:00; 3rd Wednesday: 2:00 - 4:00",
+        "address": "10512 Bryant Avenue",
+        "zip": 44108,
+        "call": "216-761-3971",
+        "forwhom": "44108 & 44110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6147,
+          41.53344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Zion Congregational Church UCC",
+        "kind": "Hot Meal",
+        "when": "Last Saturday: 12:00 - 1:00 PM",
+        "address": "10723 Magnolia Drive",
+        "zip": 44106,
+        "call": "216-791-5760",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6126,
+          41.51466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avon Avenue Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Last Thursday: 6:00 - 8:00",
+        "address": "10902 Avon Avenue",
+        "zip": 44105,
+        "call": "216-341-0505",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60852,
+          41.4508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avon Avenue Baptist Church",
+        "kind": "Pantry",
+        "when": "Tuesdays  Thursdays & Fridays: 10:00 – 12:00",
+        "address": "10902 Avon Avenue",
+        "zip": 44105,
+        "call": "216-883-6120",
+        "forwhom": 44105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60852,
+          41.4508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benevolent Love Ministries",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 8:30 - 12:00",
+        "address": "10917 Miles Avenue",
+        "zip": 44105,
+        "call": "216-883-8071",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60872,
+          41.44523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Aloysius Church",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 5:00 - 6:00",
+        "address": "10932 St. Clair Avenue",
+        "zip": 44108,
+        "call": "216-451-3262",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60926,
+          41.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Aloysius Church",
+        "kind": "Pantry",
+        "when": "4th Saturday: 8:30 - 11:30",
+        "address": "10932 St. Clair Avenue",
+        "zip": 44108,
+        "call": "216-451-3262",
+        "forwhom": "44104, 44106, 44108 and 44110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60926,
+          41.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mark's Baptist Church",
+        "kind": "Pantry",
+        "when": "Tuesdays  Thursdays & Fridays: 2:30 – 4:30",
+        "address": "11123 Buckeye Road",
+        "zip": 44104,
+        "call": "216-421-0053",
+        "forwhom": "Within this area: East 93rd Street, East 149th Street, Mt. Overlook Avenue and Kinsman Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60754,
+          41.48184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cory Hunger Center",
+        "kind": "Pantry",
+        "when": "Mondays  Tuesdays & Thursdays: 8:00 – 12:00",
+        "address": "1117 East 105th Street",
+        "zip": 44108,
+        "call": "216-451-0577",
+        "forwhom": "Glenville and St. Clair -Superior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61543,
+          41.52707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cory Kitchen",
+        "kind": "Hot Meal",
+        "when": "Last 7 Days of the Month (excluding Saturdays & Sundays): Winter: 4:30 - 5:30 and Summer: 5:30 - 6:30",
+        "address": "1117 East 105th Street",
+        "zip": 44108,
+        "call": "216-451-0460",
+        "forwhom": "Glenville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61543,
+          41.52707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Philip Lutheran Church",
+        "kind": "Hot Meal",
+        "when": "4th Thursday: 6:00 - 7:00",
+        "address": "11315 Regalia Avenue",
+        "zip": 44104,
+        "call": "216-991-0655",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60434,
+          41.46768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambassadors for Christ",
+        "kind": "Pantry",
+        "when": "4th Saturday: 12:00 - 2:00",
+        "address": "11501 Mt. Carmel Road",
+        "zip": 44104,
+        "call": "No Site Number Available",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60308,
+          41.48882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Abyssinia Baptist Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 9:30 - 11:30",
+        "address": "1161 East 105th Street",
+        "zip": 44108,
+        "call": "216-795-1842",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61542,
+          41.52534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of St. Rita (at the Thea Bowman Center)",
+        "kind": "Hot Meal",
+        "when": "3rd Saturday: 12:00 - 1:00",
+        "address": "11901 Oakfield Avenue",
+        "zip": 44105,
+        "call": "216-491-0699",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59978,
+          41.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thea Bowman Center",
+        "kind": "Hot Meal",
+        "when": "Saturdays: 12:00 - 1:00",
+        "address": "11901 Oakfield Avenue",
+        "zip": 44105,
+        "call": "216-491-0699",
+        "forwhom": "44105 and 44120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59978,
+          41.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thea Bowman Center",
+        "kind": "Pantry",
+        "when": "Saturdays: 1:00 - 2:00 & Last Tuesday: 6:00 - 7:00",
+        "address": "11901 Oakfield Avenue",
+        "zip": 44105,
+        "call": "216-491-0699",
+        "forwhom": "44105 and 44120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59978,
+          41.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of the Living God",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 10:00 - 12:00",
+        "address": "12020 Buckeye Road",
+        "zip": 44104,
+        "call": "No Site Number Available",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59849,
+          41.48022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethany Baptist Church",
+        "kind": "Pantry",
+        "when": "4th Saturday (3rd Saturday in November & December) : 7:30 - 10:00 AM",
+        "address": "1211 East 105th Street",
+        "zip": 44108,
+        "call": "216-791-2673",
+        "forwhom": "44103, 44106, 44108 & 44110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6154,
+          41.52412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Cleveland Foodbasket",
+        "kind": "Pantry",
+        "when": "Wednesdays & Thursdays: 10:00 - 2:00",
+        "address": "12210 Miles Avenue",
+        "zip": 44105,
+        "call": "216-271-9271",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59685,
+          41.4449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooley Avenue Church of God",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 10:30 - 12:00",
+        "address": "12401 Cooley Avenue",
+        "zip": 44111,
+        "call": "216-671-4619",
+        "forwhom": "Cleveland Residents"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77469,
+          41.45392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cove United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "2nd Saturday: 5:30 - 7:00",
+        "address": "12501 Lake Avenue",
+        "zip": 44107,
+        "call": "216-521-7424",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77652,
+          41.49061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helping Hands of Philemon Community Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Sundays: 5:00 - 7:00; Mondays - Fridays: 10:00 - 12:00",
+        "address": "12618 Shaw Avenue",
+        "zip": 44108,
+        "call": "216-268-5127",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59577,
+          41.54073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philemon Community Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 5:00 - 6:00",
+        "address": "12618 Shaw Avenue",
+        "zip": 44108,
+        "call": "216-268-5127",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59577,
+          41.54073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Martin de Porres Family Center",
+        "kind": "Pantry",
+        "when": "3rd Tuesday, 3rd Wednesday & 3rd Thursday: 9:00 - 12:00",
+        "address": "1264 East 123rd Street",
+        "zip": 44108,
+        "call": "216-268-3909",
+        "forwhom": 44108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60104,
+          41.52358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - West Park",
+        "kind": "Pantry",
+        "when": "Mondays - Thursdays: 9:00 - 11:30",
+        "address": "12645 Lorain Avenue",
+        "zip": 44111,
+        "call": "216-252-3593",
+        "forwhom": "44102, 44107, 44111, 44116, 44126, 44129, 44130, 44134, 44135, 44136, 44140, 44142 and 44145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77601,
+          41.4595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Nebo Missionary Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Fridays: 5:00 - 6:45",
+        "address": "12701 Superior Avenue",
+        "zip": 44112,
+        "call": "216-761-3133",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59536,
+          41.52325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walk of Faith Community Center",
+        "kind": "Hot Meal",
+        "when": "Mondays - Fridays: 9:00 - 10:00",
+        "address": "12833 Lorain Avenue",
+        "zip": 44111,
+        "call": "216-941-3270",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7782,
+          41.45879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walk of Faith Community Center",
+        "kind": "Pantry",
+        "when": "Wednesdays: 5:30 - 7:30",
+        "address": "12833 Lorain Avenue",
+        "zip": 44111,
+        "call": "216-941-3270",
+        "forwhom": "44111 & 44135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7782,
+          41.45879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Nebo Missionary Baptist Church",
+        "kind": "Pantry",
+        "when": "4th Friday: 8:00 - 11:00",
+        "address": "12919 Superior Avenue",
+        "zip": 44112,
+        "call": "216-761-3133",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59386,
+          41.52316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Luke / Grace Lutheran Community Meal",
+        "kind": "Hot Meal",
+        "when": "3rd Monday: 5:00 - 7:00",
+        "address": "13030 Madison Avenue",
+        "zip": 44107,
+        "call": "216-221-4959",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78002,
+          41.47726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary Lutheran Church",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 2:30 - 5:30; Saturdays: 8:30 - 11:30",
+        "address": "13101 Euclid Avenue",
+        "zip": 44112,
+        "call": "216-451-1151",
+        "forwhom": 44112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59172,
+          41.52107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of the Ascension",
+        "kind": "Hot Meal",
+        "when": "2nd Thursday: 5:00 - 6:00",
+        "address": "13216 Detroit Avenue",
+        "zip": 44107,
+        "call": "216-521-8727",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.781,
+          41.48482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Word of Righteousness Family Life Center",
+        "kind": "Pantry",
+        "when": "1st Saturday: 12:00 - 2:00",
+        "address": "13455 Dressler Avenue",
+        "zip": 44125,
+        "call": "216-365-3336",
+        "forwhom": "44105, 44125, 44137, 44146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58892,
+          41.43023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Edward High School Community Meal",
+        "kind": "Hot Meal",
+        "when": "4th Wednesday: 6:00",
+        "address": "13500 Detroit Avenue",
+        "zip": 44107,
+        "call": "216-221-3776 x592",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78334,
+          41.48667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gethsemane Apostolic Faith Church",
+        "kind": "Pantry",
+        "when": "2nd Saturday: 1:00 - 3:00",
+        "address": "13515 Harvard Avenue",
+        "zip": 44105,
+        "call": "216-295-2501",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58813,
+          41.44914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Congregational Church",
+        "kind": "Hot Meal",
+        "when": "1st Wednesday: 5:30 - 7:00",
+        "address": "1375 West Clifton Boulevard",
+        "zip": 44107,
+        "call": "216-221-9555",
+        "forwhom": "Cleveland & Lakewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82226,
+          41.48483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H.E.L.P. Ministry - Greater Faith Missionary Baptist Church",
+        "kind": "Hot Meal",
+        "when": "2nd & 4th Saturdays: 12:00 - 3:00",
+        "address": "13816 St. Clair Avenue",
+        "zip": 44110,
+        "call": "216-541-5505",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58558,
+          41.54861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Father Mike Wittman Ozanam Center (at St. Philomena Parish)",
+        "kind": "Pantry",
+        "when": "Saturdays: 10:00 - 1:00",
+        "address": "13824 Euclid Avenue",
+        "zip": 44112,
+        "call": "216-541-3540",
+        "forwhom": "44106, 44108, 44110, 44112, 44118, 44121 & 44143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58584,
+          41.52609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessed Trinity Catholic Church",
+        "kind": "Hot Meal",
+        "when": "2nd Sunday: 12:30 - 1:30 (closed if the 2nd Sunday is a holiday)",
+        "address": "14040 Puritas Avenue",
+        "zip": 44135,
+        "call": "216-671-5890",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79096,
+          41.43361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zion Pentecostal Church of Christ",
+        "kind": "Pantry",
+        "when": "2nd & 4th Thursdays: 11:30 - 1:30",
+        "address": "14102 Harvard Avenue",
+        "zip": 44128,
+        "call": "No Site Number Available",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58346,
+          41.4487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Community Services Center",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: 10:00 - 2:00 & Wednesdays: 5:30 - 7:30 PM",
+        "address": "14230 Madison Avenue",
+        "zip": 44107,
+        "call": "216-226-6466",
+        "forwhom": "Lakewood, Rocky River & Westlake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79249,
+          41.47742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Covenant Lutheran Church",
+        "kind": "Pantry",
+        "when": "Mondays  Wednesdays & Fridays: 11:00 – 2:00",
+        "address": "1424 Hayden Avenue",
+        "zip": 44112,
+        "call": "216-541-1665",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58698,
+          41.53903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beth El AME Zion Church",
+        "kind": "Hot Meal",
+        "when": "1st  2nd & 3rd Wednesdays: 4:00 – 6:00",
+        "address": "1428 East 110th Street",
+        "zip": 44106,
+        "call": "216-421-1953",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60965,
+          41.51889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood Presbyterian Church",
+        "kind": "Hot Meal",
+        "when": "Last Sunday: 11:30 - 2:00",
+        "address": "14502 Detroit Road",
+        "zip": 44107,
+        "call": "216-226-0514",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79586,
+          41.48575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starlight Baptist Church",
+        "kind": "Pantry",
+        "when": "4th Wednesday: 4:00 - 6:00",
+        "address": "14516 Euclid Avenue",
+        "zip": 44112,
+        "call": "216-541-6825",
+        "forwhom": 44112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58015,
+          41.53149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Family Home Center",
+        "kind": "Hot Meal",
+        "when": "Thursdays: 11:00 - 1:00",
+        "address": "14681 Euclid Avenue",
+        "zip": 44112,
+        "call": "216-375-9400",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57954,
+          41.53281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D'Jakes Community Resources",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 10:00 - 12:00",
+        "address": "14715 Euclid Avenue",
+        "zip": 44112,
+        "call": "216-486-8464",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57941,
+          41.53292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Bethel A.M.E. Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 2:00 - 4:00",
+        "address": "14735 Thames Avenue",
+        "zip": 44110,
+        "call": "216-541-2628",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5784,
+          41.56604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beulah Baptist Church of Collinwood",
+        "kind": "Pantry",
+        "when": "2nd Thursday: 4:00 - 6:00",
+        "address": "14912 Saranac Road",
+        "zip": 44110,
+        "call": "216-451-5477",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5779,
+          41.55979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imani Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 10:00 - 1:00",
+        "address": "1505 East 260th Street",
+        "zip": 44132,
+        "call": "216-732-8204",
+        "forwhom": 44132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50268,
+          41.588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bread Basket",
+        "kind": "Pantry",
+        "when": "Tuesdays: 5:30 - 7:30 & Thursdays: 1:30 - 3:30",
+        "address": "15135 Triskett Road",
+        "zip": 44111,
+        "call": "216-251-0782",
+        "forwhom": "Within this area: Lakewood border, West 117th Street, Lorain Avenue and Fairview Park border. They also serve Fairview Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80067,
+          41.45696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collinwood Area Church Council",
+        "kind": "Pantry",
+        "when": "Mondays  Wednesdays & Fridays: 11:45 – 2:30",
+        "address": "15220 Lakeshore Boulevard",
+        "zip": 44110,
+        "call": "216-531-1156",
+        "forwhom": "44110 & 44119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57517,
+          41.57414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Hot Meal Program",
+        "kind": "Hot Meal",
+        "when": "2nd & Last Mondays: 6:00 - 7:00",
+        "address": "15519 Holmes Avenue",
+        "zip": 44110,
+        "call": "216-761-7740",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57323,
+          41.56067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakewood United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "4th Tuesday: 6:00 - 7:00",
+        "address": "15700 Detroit Avenue",
+        "zip": 44107,
+        "call": "216-226-8644",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80769,
+          41.48577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunham Avenue Christian Church",
+        "kind": "Hot Meal",
+        "when": "Saturdays: 4:30 - 5:30",
+        "address": "1629 East 66th Street",
+        "zip": 44103,
+        "call": "216-432-1234",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64435,
+          41.50909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunham Avenue Christian Church",
+        "kind": "Pantry",
+        "when": "Last Saturday: 10:00 - 12:00",
+        "address": "1629 East 66th Street",
+        "zip": 44103,
+        "call": "216-432-1234",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64435,
+          41.50909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "3rd Tuesday: meal starts at 5:30",
+        "address": "16305 Hilliard Road",
+        "zip": 44107,
+        "call": "216-221-4324",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81131,
+          41.47591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victory Nazarene Share Ministry",
+        "kind": "Hot Meal",
+        "when": "Thursdays: Meal Starts at 5:30",
+        "address": "1632 East 55th Street",
+        "zip": 44103,
+        "call": "216-881-3115",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65252,
+          41.51452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victory Nazarene Share Ministry",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:00 - 2:00",
+        "address": "1632 East 55th Street",
+        "zip": 44103,
+        "call": "216-881-3115",
+        "forwhom": 44103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65252,
+          41.51452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Lakewood Community Outreach",
+        "kind": "Pantry",
+        "when": "1st Saturday: 9:30 - 12:30 & 2nd Sunday: 2:30 - 5:30",
+        "address": "16400 Detroit Avenue",
+        "zip": 44107,
+        "call": "216-226-8087",
+        "forwhom": "Cleveland and Lakewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81151,
+          41.48534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Lutheran Church Community Outreach",
+        "kind": "Hot Meal",
+        "when": "1st Monday: 6:00 - 7:30; 1st Saturday: Noon; 3rd Saturday: 12:00 - 1:00 & 2nd Sunday: 4:00 - 5:30",
+        "address": "16400 Detroit Avenue",
+        "zip": 44107,
+        "call": "216-226-8087",
+        "forwhom": "Westside of Cleveland and Lakewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81151,
+          41.48534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corinthian Baptist Church",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 10:00 - 1:00",
+        "address": "1643 East 55th Street",
+        "zip": 44103,
+        "call": "216-391-3688",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65125,
+          41.51443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith Lutheran Church",
+        "kind": "Hot Meal",
+        "when": "2nd Monday: 5:30 - 7:00",
+        "address": "16511 Hilliard Road",
+        "zip": 44107,
+        "call": "216-226-6500",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81198,
+          41.47558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Presbyterian Church",
+        "kind": "Hot Meal",
+        "when": "Last Thursday: 5:30 - 7:00",
+        "address": "1659 Rosewood Avenue",
+        "zip": 44107,
+        "call": "216-228-6060",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80797,
+          41.47881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southeast Seventh Day Adventist Church",
+        "kind": "Pantry",
+        "when": "3rd Sunday: 2:00 - 4:00",
+        "address": "16602 Tarkington Avenue",
+        "zip": 44128,
+        "call": "216-662-3080",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56363,
+          41.43121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Seville / Miles Hunger Center",
+        "kind": "Pantry",
+        "when": "Mondays & Wednesdays: 11:00 - 1:00",
+        "address": "16718 Miles Avenue",
+        "zip": 44128,
+        "call": "216-752-9384",
+        "forwhom": "44128, Garfield Heights & Warrensville Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56286,
+          41.4391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brook Park Community Church of the Brethren",
+        "kind": "Pantry",
+        "when": "Mondays: 11:00 - 2:00 & Thursdays: 4:00 - 7:00",
+        "address": "16845 Holland Road",
+        "zip": 44142,
+        "call": "216-433-1515",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81632,
+          41.3949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Heights Pantry",
+        "kind": "Pantry",
+        "when": "Tuesdays: 12:00 - 3:00; Wednesdays: 9:00 - 12:00 & Thursdays: 4:30 - 7:30",
+        "address": "17100 Broadway Avenue",
+        "zip": 44137,
+        "call": "216-365-2842",
+        "forwhom": "Maple Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56012,
+          41.40781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishop William Cosgrove Center",
+        "kind": "Hot Meal",
+        "when": "Mondays - Fridays: Breakfast: 8:00 - 9:00 & Lunch: 12:00 - 3:00",
+        "address": "1736 Superior Avenue",
+        "zip": 44114,
+        "call": "216-781-8262",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68124,
+          41.5059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishop William Cosgrove Center",
+        "kind": "Pantry",
+        "when": "3rd Wednesday & 3rd Friday: 9:00 - 10:30",
+        "address": "1736 Superior Avenue",
+        "zip": 44114,
+        "call": "216-781-8262",
+        "forwhom": "44114 & 44115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68124,
+          41.5059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Care on the Square",
+        "kind": "Hot Meal",
+        "when": "1st  3rd 4th & 5th Saturdays: 12:00",
+        "address": "1744 Payne Avenue",
+        "zip": 44114,
+        "call": "440-546-1120",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68013,
+          41.50465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collinwood Area Church Council #3 – Grovewood",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 5:30 - 6:30 & Saturdays: 12:00 -1:00",
+        "address": "17625 Grovewood Avenue",
+        "zip": 44119,
+        "call": "216-692-1388",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55746,
+          41.57591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Temple Corps",
+        "kind": "Pantry",
+        "when": "Mondays - Thursdays: 9:00 - 11:30",
+        "address": "17625 Grovewood Avenue",
+        "zip": 44119,
+        "call": "216-692-1388",
+        "forwhom": "44110, 44112, 44117,44118, 44119, 44121, 44123, 44124, 44132, 44143 and Collinwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55746,
+          41.57591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvard Community Service Center",
+        "kind": "Pantry",
+        "when": "Tuesdays: 9:00 - 12:00; Wednesdays: 9:00 -12:00 & Thursdays: 1:00 - 3:00",
+        "address": "18240 Harvard Avenue",
+        "zip": 44128,
+        "call": "216-991-8585",
+        "forwhom": "44105, 44120, 44122 & 44128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55106,
+          41.44974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collinwood Area Church Council #2 - Nottingham",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 12:00 - 3:00",
+        "address": "18316 St. Clair Avenue",
+        "zip": 44110,
+        "call": "216-481-4827",
+        "forwhom": "Collinwood - Nottingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55119,
+          41.57152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple Baptist Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:30 - 1:30",
+        "address": "1862 Noble Road",
+        "zip": 44112,
+        "call": "216-249-7000",
+        "forwhom": "44108, 44110, 44112, 44118, 44121 and 44143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56646,
+          41.54156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Ebenezer Missionary Baptist Church",
+        "kind": "Hot Meal",
+        "when": "2nd  3rd & 4th Mondays: 5:00 – 7:00",
+        "address": "1881 East 71st Street",
+        "zip": 44103,
+        "call": "216-391-2100",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63945,
+          41.50688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Ebenezer Missionary Baptist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 10:00 - 12:00",
+        "address": "1881 East 71st Street",
+        "zip": 44103,
+        "call": "216-391-2100",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63945,
+          41.50688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Heights United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "4th Thursday: 6:00 - 8:00",
+        "address": "18900 Libby Road",
+        "zip": 44137,
+        "call": "216-663-6868",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54762,
+          41.41686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THE WORD Church",
+        "kind": "Pantry",
+        "when": "Saturdays: 10:00 - 12:00 & 1:00 - 3:00",
+        "address": "18903 South Miles Road",
+        "zip": 44128,
+        "call": "216-332-9673",
+        "forwhom": "Bedford, Bedford Heights, Garfield Heights, Maple Heights & Warrensville Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54697,
+          41.43111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euclid Foursquare Church",
+        "kind": "Pantry",
+        "when": "4th Saturday: 12:00 - 2:00",
+        "address": "18950 Euclid Avenue",
+        "zip": 44117,
+        "call": "216-531-3040",
+        "forwhom": 44117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54727,
+          41.55842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semach Sedek R.I.A.S.",
+        "kind": "Pantry",
+        "when": "Thursdays: 6:00 - 7:00",
+        "address": "2004 South Green Road",
+        "zip": 44121,
+        "call": "216-382-7202",
+        "forwhom": "Beachwood, Cleveland Heights, South Euclid & University Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51991,
+          41.50361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaker Heights Community Hunger Center",
+        "kind": "Pantry",
+        "when": "Last 2 Mondays & Wednesdays: 10:00 - 2:00",
+        "address": "20120 Lomond Boulevard",
+        "zip": 44122,
+        "call": "216-561-8358",
+        "forwhom": "Primarily Shaker and East to Moreland Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5382,
+          41.46263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary Presbyterian Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 10:30 - 12:00",
+        "address": "2020 East 79th Street",
+        "zip": 44103,
+        "call": "216-391-8448",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6336,
+          41.50332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Evangelical Lutheran Church",
+        "kind": "Hot Meal",
+        "when": "Last 2 Saturdays: 4:30 - 5:30",
+        "address": "2031 West 30th Street",
+        "zip": 44113,
+        "call": "216-281-1700",
+        "forwhom": "Westside and Southside of Cleveland, Downtown, Slavic Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70646,
+          41.48179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Evangelical Lutheran Church",
+        "kind": "Pantry",
+        "when": "Last 2 Saturdays: 9:00 - 12:30",
+        "address": "2031 West 30th Street",
+        "zip": 44113,
+        "call": "216-281-1700",
+        "forwhom": "Westside and Southside of Cleveland, Downtown, Slavic Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70646,
+          41.48179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Body of Christ Assembly",
+        "kind": "Pantry",
+        "when": "4th Wednesday: 5:00 - 7:00",
+        "address": "20900 Miles Parkway",
+        "zip": 44128,
+        "call": "216-475-6327",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53535,
+          41.42873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lane Central Hunger Center",
+        "kind": "Pantry",
+        "when": "Mondays, Wednesdays & Fridays: 10:30 - 12:30",
+        "address": "2131 East 46th Street",
+        "zip": 44103,
+        "call": "216-391-1108",
+        "forwhom": "Within this area: Central Avenue, Cedar Avenue, Carnegie Avenue & Euclid Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65416,
+          41.49973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Vincent de Paul - Southwest Ozanam Center",
+        "kind": "Pantry",
+        "when": "Tuesdays, Thursdays & Saturdays: 10:00 – 1:00",
+        "address": "2145 Broadview Road",
+        "zip": 44109,
+        "call": "unknown",
+        "forwhom": "44109, 44129, 44130, 44134, 44142, and 44144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69925510883331,
+          41.43765536720904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Savior Lutheran Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:00 - 1:30",
+        "address": "2154 SOM Center Road",
+        "zip": 44124,
+        "call": "440-442-4455",
+        "forwhom": "Serve the Mayfield City\nSchool District, which is Gates Mills, Highland Heights, Mayfield Heights and Mayfield Village. They do not serve Lyndhurst, even though it is part of the same ZIP Code."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.43858,
+          41.50431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Andrew's Episcopal Church",
+        "kind": "Hot Meal",
+        "when": "2nd & 3rd Fridays: 5:00 - 7:00",
+        "address": "2171 East 49th Street",
+        "zip": 44103,
+        "call": "216-391-2632",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65306,
+          41.49887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fifth Church of God",
+        "kind": "Hot Meal",
+        "when": "1st & 3rd Saturdays: 3:00 - 5:00",
+        "address": "2182 East 38th Street",
+        "zip": 44115,
+        "call": "216-432-2245",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6599,
+          41.49859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Cathedral",
+        "kind": "Hot Meal",
+        "when": "Sundays: 12:00 - 1:00",
+        "address": "2230 Euclid Avenue",
+        "zip": 44115,
+        "call": "216-774-0425",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67487,
+          41.50157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John Cantius Hunger Center",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 9:00 - 12:00",
+        "address": "2265 West 10th Street",
+        "zip": 44113,
+        "call": "216-781-9095",
+        "forwhom": "44113 and Within this area: Clark Avenue, Abbey Road, I-90 and West 5th Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6872,
+          41.48096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Shore United Methodist Church - Soup's On!",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 5:00 - 6:00",
+        "address": "23002 Lakeshore Boulevard",
+        "zip": 44123,
+        "call": "216-261-1688",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52116,
+          41.61264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia Nueva Vida - Free Methodist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 9:00 - 12:00",
+        "address": "2327 Holmden Avenue",
+        "zip": 44109,
+        "call": "216-741-0511",
+        "forwhom": "Cuyahoga County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69904,
+          41.46706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project Hope",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: 8:30 - 3:30 (By Appointment)",
+        "address": "233 Tuxedo Avenue",
+        "zip": 44131,
+        "call": "216-739-3702",
+        "forwhom": "Brooklyn Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67863,
+          41.42049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith Community Center",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 11:30 - 1:00; Thursdays: 11:30 - 12:30 & Saturdays: 2:30 - 3:00",
+        "address": "2355 East 55th Street",
+        "zip": 44104,
+        "call": "216-881-8816",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65123,
+          41.49511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friendly Inn Settlement",
+        "kind": "Pantry",
+        "when": "Wednesdays: 12:00 - 2:00 & Thursdays: 10:00 - 12:00",
+        "address": "2386 Unwin Road",
+        "zip": 44104,
+        "call": "216-431-7656",
+        "forwhom": "Residents of Carver Park, King Kennedy & Outhwaite Homes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65503,
+          41.49624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THE WORD Church (at Friendly Inn)",
+        "kind": "Hot Meal",
+        "when": "4th Thursday: 6:00 - 8:00",
+        "address": "2386 Unwin Road",
+        "zip": 44104,
+        "call": "216-332-9673",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65503,
+          41.49624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay Presbyterian Church (at St. Malachi's)",
+        "kind": "Hot Meal",
+        "when": "Saturdays: 7:30 - 10:00 a.m.",
+        "address": "2459 Washington Avenue",
+        "zip": 44113,
+        "call": "216-526-9597",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70754,
+          41.49249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulevard Presbyterian Church",
+        "kind": "Hot Meal",
+        "when": "3rd Sunday: 1:00 - 3:00",
+        "address": "24600 Lakeshore Boulevard",
+        "zip": 44123,
+        "call": "216-731-8147",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51143,
+          41.61682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imani Temple Ministries",
+        "kind": "Pantry",
+        "when": "4th Thursday: 3:00 - 6:00",
+        "address": "2463 North Taylor Road",
+        "zip": 44118,
+        "call": "216-231-9902",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55527,
+          41.5239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Workmen's Circle Educational Center",
+        "kind": "Pantry",
+        "when": "Tuesdays - Fridays: 10:00 - 1:00 (By Appointment); 3rd Thursday: 10:00 - 2:00 for walk ins",
+        "address": "2490 Lee Boulevard",
+        "zip": 44118,
+        "call": "216-381-4515",
+        "forwhom": "44106, 44110, 44112, 44118, 44121, 44122, 44124 & 44143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56988,
+          41.51614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay Food Ministry",
+        "kind": "Pantry",
+        "when": "Last Friday: 10:00 - 12:00",
+        "address": "25415 Lake Road",
+        "zip": 44140,
+        "call": "440-871-3822",
+        "forwhom": "Bay Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90019,
+          41.48439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilgrim Congregational Church",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 10:00 - 12:00",
+        "address": "2592 West 14th Street",
+        "zip": 44113,
+        "call": "216-861-7388",
+        "forwhom": "44109 & 44113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69186,
+          41.47691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethlehem Temple of Praise Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 12:00 - 2:00",
+        "address": "2607 Archwood Avenue",
+        "zip": 44109,
+        "call": "216-335-9115",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70198,
+          41.45259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refuge Family Worship Center",
+        "kind": "Pantry",
+        "when": "1st Saturday: For Emergencies & 3rd Saturday: 10:00 - 1:00",
+        "address": "26219 Tungsten Road",
+        "zip": 44132,
+        "call": "216-338-6414",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49975,
+          41.59284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "God's House of Prayer",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 8:30 - 11:00",
+        "address": "2632 Woodhill Road",
+        "zip": 44104,
+        "call": "216-229-5606",
+        "forwhom": 44104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61558,
+          41.48719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Mount Tabor Missionary Baptist Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:00 - 1:00",
+        "address": "2646 East 93rd Street",
+        "zip": 44104,
+        "call": "216-231-1150",
+        "forwhom": 44104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62195,
+          41.48685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zion United Church of Christ",
+        "kind": "Hot Meal",
+        "when": "Saturdays: 4:30 - 5:30",
+        "address": "2716 West 14th Street",
+        "zip": 44113,
+        "call": "216-861-2371",
+        "forwhom": 44113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69137,
+          41.47577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zion United Church of Christ",
+        "kind": "Pantry",
+        "when": "4th Saturday: 1:00 - 3:00",
+        "address": "2716 West 14th Street",
+        "zip": 44113,
+        "call": "216-861-2371",
+        "forwhom": 44113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69137,
+          41.47577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zion Gospel Church",
+        "kind": "Pantry",
+        "when": "4th Saturday (3rd Saturday in November & December; Closed in January): 11:00 - 1:00",
+        "address": "2747 East 90th Street",
+        "zip": 44104,
+        "call": "216-421-5355",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62419,
+          41.48436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East End Senior Center",
+        "kind": "Pantry",
+        "when": "2nd Friday: 10:00 - 1:00 (Seniors Only)",
+        "address": "2749 Woodhill Road",
+        "zip": 44104,
+        "call": "216-791-9378",
+        "forwhom": "44103, 44104, 44105 & 44120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61743,
+          41.48338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Life Gospel Center",
+        "kind": "Pantry",
+        "when": "2nd & 3rd Thursdays: 11:30 - 1:00",
+        "address": "2856 Martin Luther King Jr.Drive",
+        "zip": 44104,
+        "call": "216-791-6800",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61029,
+          41.48124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euclid Hunger Task Force",
+        "kind": "Pantry",
+        "when": "Wednesdays & Saturdays: 10:00 - 1:00",
+        "address": "291 East 222nd Street",
+        "zip": 44123,
+        "call": "216-731-3329",
+        "forwhom": "Euclid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52656,
+          41.60847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redeemer Crisis Center",
+        "kind": "Pantry",
+        "when": "Mondays, Wednesdays & Fridays: 10:00 - 1:00; 2nd Sunday: 4:00 - 6:00",
+        "address": "2970 West 30th Street",
+        "zip": 44113,
+        "call": "216-631-6434",
+        "forwhom": "Within this area: I-90, Trowbridge Avenue, Storer Avenue, West 65th Street, Railroad Tracks/Cuyahoga River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70172,
+          41.47188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abundance Food Pantry",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 1:00 - 3:00",
+        "address": "3031 Monticello Boulevard",
+        "zip": 44118,
+        "call": "216-321-2660",
+        "forwhom": "44106, 44108, 44110, 44112, 44118, 44120 and 44121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56915,
+          41.51991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael the Archangel - St. Procop Pantry Program",
+        "kind": "Pantry",
+        "when": "Mondays, Tuesdays, Thursdays & Fridays: 1:00 - 3:00",
+        "address": "3114 Scranton Road",
+        "zip": 44109,
+        "call": "216-621-3847",
+        "forwhom": "44103 and 44109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69747,
+          41.46947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael the Archangel",
+        "kind": "Hot Meal",
+        "when": "Last Sunday (or Sunday before if last is a holiday): 1:30 - 2:30",
+        "address": "3115 Scranton Road",
+        "zip": 44109,
+        "call": "216-621-3847",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69711,
+          41.46889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Side Catholic Center",
+        "kind": "Hot Meal",
+        "when": "Mondays - Fridays; 12:00 - 12:45; Saturdays: 9:00 - 10:00 & 4:30 - 5:30",
+        "address": "3135 Lorain Avenue",
+        "zip": 44113,
+        "call": "216-631-4741",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70862138271332,
+          41.481889693789334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West 58th Street Church of God",
+        "kind": "Pantry",
+        "when": "1st Saturday: 9:00 - 12:00",
+        "address": "3150 West 58th Street",
+        "zip": 44102,
+        "call": "216-281-2958",
+        "forwhom": 44102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72598,
+          41.46838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solon Rotary Club",
+        "kind": "Pantry",
+        "when": "4th Tuesday: 4:00 - 6:00",
+        "address": "32001 Cannon Road",
+        "zip": 44139,
+        "call": "440-349-6363",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4519,
+          41.40933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinn Chapel",
+        "kind": "Pantry",
+        "when": "2nd  4th & 5th Wednesdays: 11:00 – 1:00",
+        "address": "3241 East 130th Street",
+        "zip": 44120,
+        "call": "216-752-4803",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59149,
+          41.46979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golgotha Baptist Church",
+        "kind": "Hot Meal",
+        "when": "1st  2nd 3rd & 4th Fridays: 5:00 - 6:00",
+        "address": "3250 East 93rd Street",
+        "zip": 44104,
+        "call": "216-441-4224",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62158,
+          41.4703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golgotha Baptist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Tuesdays: 10:00 - 12:00",
+        "address": "3250 East 93rd Street",
+        "zip": 44104,
+        "call": "216-441-4224",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62158,
+          41.4703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia Sinai",
+        "kind": "Pantry",
+        "when": "Last Wednesday: 4:00 - 6:00",
+        "address": "3256 Scranton Road",
+        "zip": 44109,
+        "call": "216-398-6308",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6987,
+          41.4661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Hearts Life Mission Center",
+        "kind": "Pantry",
+        "when": "Mondays, Wednesdays & Fridays: 9:00 - 12:00 & 1:00 - 3:00",
+        "address": "3339 Broadview Road",
+        "zip": 44109,
+        "call": "216-459-9839",
+        "forwhom": "44102, 44109, 44111, 44113, 44114, 44115, 44127, 44134 and 44144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70365929603577,
+          41.44057094503651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ Episcopal Church",
+        "kind": "Hot Meal",
+        "when": "3rd Saturday: 12:00 - 1:00",
+        "address": "3445 Warrensville CenteR Road",
+        "zip": 44122,
+        "call": "216-991-3432",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53618,
+          41.4658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Sardis Primitive Baptist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Tuesdays: 9:30 - 11:30 (Closed in August)",
+        "address": "3474 East 147th Street",
+        "zip": 44122,
+        "call": "216-921-1912",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57911,
+          41.46579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Freedom Ministries",
+        "kind": "Hot Meal",
+        "when": "2nd & 4th Saturdays: 3:00 - 6:00",
+        "address": "3476 East 152nd Street",
+        "zip": 44120,
+        "call": "216-295-1530",
+        "forwhom": "Mount Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5753,
+          41.46461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Haven Baptist Church",
+        "kind": "Pantry",
+        "when": "Tuesdays: 11:30 - 1:00 & Saturdays: 10:00 - 11:30",
+        "address": "3484 Martin Luther King Jr Drive",
+        "zip": 44104,
+        "call": "216-441-2770",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60744,
+          41.4649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercy Seat Mission",
+        "kind": "Hot Meal",
+        "when": "Mondays, Wednesdays & Last Friday: Meal Served at Noon",
+        "address": "3510 Broadview Road",
+        "zip": 44109,
+        "call": "216-749-7778",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70721,
+          41.44282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church on the Rise",
+        "kind": "Pantry",
+        "when": "1st & 3rd Sundays: 11:00 - 1:00",
+        "address": "3550 Crocker Road",
+        "zip": 44145,
+        "call": "440-808-0200",
+        "forwhom": "Westlake and Surrounding Communities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95249,
+          41.42809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community of Faith",
+        "kind": "Hot Meal",
+        "when": "Sundays: 7:00 - 8:00 AM",
+        "address": "356 Eddy Road",
+        "zip": 44108,
+        "call": "216-956-5206",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60171,
+          41.54773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Patrick's Church",
+        "kind": "Hot Meal",
+        "when": "Tuesdays  Wednesdays & Thursdays: 4:30 – 6:30",
+        "address": "3610 Bridge Avenue",
+        "zip": 44113,
+        "call": "216-281-5854",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71149,
+          41.48318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WSEM Food Center at Near West Food & Family Service Center (at St. Patrick's Church)",
+        "kind": "Pantry",
+        "when": "Mondays  Wednesdays & Fridays: 10:00 – 2:00",
+        "address": "3610 Bridge Avenue",
+        "zip": 44113,
+        "call": "216-281-5854",
+        "forwhom": "44102 & 44113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71149,
+          41.48318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heights Emergency Food Center",
+        "kind": "Pantry",
+        "when": "Mondays: 4:00 - 6:00; Tuesdays & Fridays: 9:00 -11:30; Thursdays: 9:00 - 2:30 plus last 2 Thursdays: 5:30 - 7:30",
+        "address": "3663 Mayfield Road",
+        "zip": 44121,
+        "call": "216-381-0707",
+        "forwhom": "Cleveland Heights, Lyndhurst, South Euclid & University Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54911,
+          41.52114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saints Robert & William Parish",
+        "kind": "Hot Meal",
+        "when": "Last Tuesday: 5:30 - 6:30",
+        "address": "367 East 260th Street",
+        "zip": 44132,
+        "call": "216-731-1515",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50238,
+          41.61761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triedstone Community Care Center",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 10:00 - 1:00",
+        "address": "3782 Community CollegeAvenue",
+        "zip": 44115,
+        "call": "216-432-9749",
+        "forwhom": "Within this area: East 22nd Street, Central Avenue, East 40th Street & Woodland Avenue "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66119,
+          41.49324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WSEM Food Center at Brookside Hunger Center",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: 10:00 - 2:00",
+        "address": "3802 Pearl Road",
+        "zip": 44109,
+        "call": "216-749-4295",
+        "forwhom": "44102, 44109, 44129, 44130, 44144 & Within this area: South to Tiedeman Road, North to Storer Avenue, West 72nd Street & East 2nd Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70175,
+          41.45121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethany Christian Church",
+        "kind": "Hot Meal",
+        "when": "Last Wednesday: 5:30 - 6:30",
+        "address": "3940 Martin Luther King Jr Boulevard",
+        "zip": 44105,
+        "call": "216-341-1132",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60657,
+          41.45808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge of Hope Center",
+        "kind": "Pantry",
+        "when": "1st / 3rd Fridays: 5:00 - 8:00 & 1st / 3rd Saturdays: 9:00 - 12:00",
+        "address": "3949 Lee Road",
+        "zip": 44128,
+        "call": "216-276-0571",
+        "forwhom": "Within this area: East 151st Street, East 189th Street, Harvard Avenue & Stockbridge Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56477,
+          41.45172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "May Dugan Multi Service Center",
+        "kind": "Pantry",
+        "when": "4th Wednesday: 9:00 - 1:00 (Open the 3rd Wednesday in November & December)",
+        "address": "4115 Bridge Avenue",
+        "zip": 44113,
+        "call": "216-631-5800",
+        "forwhom": "Near Westside of Cleveland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71463,
+          41.48099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul AME Church",
+        "kind": "Pantry",
+        "when": "Fridays: 9:30 - 12:00",
+        "address": "4118 Brookside Boulevard",
+        "zip": 44135,
+        "call": "216-941-6767",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78514,
+          41.44149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Confirmed Word Faith Center",
+        "kind": "Pantry",
+        "when": "1st & 3rd Saturdays: 10:00 - 12:00",
+        "address": "4130 East 131st Street",
+        "zip": 44105,
+        "call": "216-704-8602",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59121,
+          41.44683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Miles Park",
+        "kind": "Hot Meal",
+        "when": "Last 5 Business Days of the Month: 12:00 - 1:00",
+        "address": "4139 East 93rd Street",
+        "zip": 44105,
+        "call": "216-341-1640",
+        "forwhom": "44105, 44120, 44122, 44125, 44127, 44128, 44137 and 44139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62095,
+          41.44599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Miles Park",
+        "kind": "Pantry",
+        "when": "Mondays - Thursdays: 9:00 - 11:30",
+        "address": "4139 East 93rd Street",
+        "zip": 44105,
+        "call": "216-861-8185",
+        "forwhom": "44105, 44120, 44122,44125, 44127, 44128, 44137 and Bedford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62095,
+          41.44599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southeast Clergy Council Center",
+        "kind": "Pantry",
+        "when": "Tuesdays, Thursdays & Last Saturday: 9:30 - 11:45",
+        "address": "415 Northfield Road",
+        "zip": 44146,
+        "call": "440-232-5115",
+        "forwhom": "Bedford, Bedford Heights, Garfield Heights, Solon, Walton Hills and Warrensville Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52731,
+          41.40901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl Road United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "1st 2 Thursdays: 6:00 - 7:00 & Last 2 Sundays: 5:00 - 6:00",
+        "address": "4200 Pearl Road",
+        "zip": 44109,
+        "call": "216-661-5642",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70548,
+          41.44087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Zion Fellowship Church",
+        "kind": "Pantry",
+        "when": "Wednesdays: 7:30 - 8:30 PM & Saturdays: 12:00 1:30",
+        "address": "4265 Northfield Road",
+        "zip": 44128,
+        "call": "216-292-3131",
+        "forwhom": "44122, 44128, 44137 (only Libby Road, Northfield Road and Warrensville Center Road) and 44146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53109,
+          41.44513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Spirit Catholic Church",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 4:30 - 6:00",
+        "address": "4341 East 131st Street",
+        "zip": 44105,
+        "call": "216-581-0981",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58936,
+          41.44134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary of Egypt Orthodox Mission",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 1:00 - 2:00",
+        "address": "4345 State Road",
+        "zip": 44109,
+        "call": "440-473-3885",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7069,
+          41.43594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bountiful Basement (at Blessed TrinityCatholic Church)",
+        "kind": "Pantry",
+        "when": "Tuesdays: 9:30 - 12:00",
+        "address": "4370 West 140th Street",
+        "zip": 44135,
+        "call": "216-671-3870",
+        "forwhom": "44111, 44135 & East of West 117th Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79132,
+          41.43646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Ohio City",
+        "kind": "Pantry",
+        "when": "Mondays - Thursdays: 9:00 - 11:30",
+        "address": "4400 Clark Avenue",
+        "zip": 44109,
+        "call": "216-631-1515",
+        "forwhom": "44102, 44109, 44113 and 44144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71659,
+          41.46975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Ohio City",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 12:00 - 1:00",
+        "address": "4402 Clark Avenue",
+        "zip": 44109,
+        "call": "216-631-1515",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71659,
+          41.46975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Herman's FOCUS Cleveland",
+        "kind": "Hot Meal",
+        "when": "Daily: Breakfast: 6:00 - 6:30; Lunch: 11:30 - 12:30 D& Dinner: 5:30 - 6:30",
+        "address": "4410 Franklin Boulevard",
+        "zip": 44113,
+        "call": "216-631-9860",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71708,
+          41.48566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A.C.E. Ministry / Affinity Baptist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 11:00 - 2:30",
+        "address": "4411 East 175th Street",
+        "zip": 44128,
+        "call": "216-283-4365",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55664,
+          41.43782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Paul's Community Outreach",
+        "kind": "Pantry",
+        "when": "Tuesdays - Fridays: 10:00 - 11:00",
+        "address": "4427 Franklin Boulevard",
+        "zip": 44113,
+        "call": "216-651-6250",
+        "forwhom": "44102 and 44113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71664,
+          41.48533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Patrick's Catholic Church",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: By Delivery Appointment",
+        "address": "4427 Rocky River Drive",
+        "zip": 44135,
+        "call": "216-251-1200",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82125,
+          41.43513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Presbyterian Church",
+        "kind": "Hot Meal",
+        "when": "Last 2 Thursdays: 5:00 - 6:30; Sundays: 12:30 - 2:00",
+        "address": "4515 Superior Avenue",
+        "zip": 44103,
+        "call": "216-431-3726",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6587,
+          41.51535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Settlement",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 6:00 - 7:00",
+        "address": "4800 Broadway Avenue",
+        "zip": 44127,
+        "call": "216-641-8948",
+        "forwhom": "44105,  44125 and 44127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65852,
+          41.47385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Settlement",
+        "kind": "Pantry",
+        "when": "Tuesdays - Fridays: 11:30 - 2:00 & Tuesdays: 6:00 - 7:00",
+        "address": "4800 Broadway Avenue",
+        "zip": 44128,
+        "call": "216-641-8948",
+        "forwhom": "44105,  44125 and 44127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65852,
+          41.47385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Leo the Great",
+        "kind": "Pantry",
+        "when": "3rd Tuesday: 8:30 - 11:00",
+        "address": "4940 Broadview Road",
+        "zip": 44113,
+        "call": "216-661-1008",
+        "forwhom": "Church Parish Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69710397720337,
+          41.42189289345083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warrensville Road Community Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 5:00 - 6:00",
+        "address": "5045 Warrensville CenterRoad",
+        "zip": 44137,
+        "call": "216-663-5683",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5373,
+          41.42306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parma Hunger Center",
+        "kind": "Pantry",
+        "when": "Tuesdays: 2:00 - 4:00 & Fridays: 10:00 - 12:00",
+        "address": "5280 Broadview Road",
+        "zip": 44134,
+        "call": "216-351-6376",
+        "forwhom": "Brooklyn Heights, Parma, Parma Heights and Seven Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69477,
+          41.41672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refuge Ministries Development",
+        "kind": "Pantry",
+        "when": "2nd Wednesday: 11:00 - 1:00",
+        "address": "5322 Fleet Avenue",
+        "zip": 44105,
+        "call": "216-812-8560",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.653,
+          41.45579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garfield Heights Senior Center",
+        "kind": "Pantry",
+        "when": "3rd Wednesday: 1:00 - 2:00 & 3rd Thursday: 6:00 - 7:00",
+        "address": "5407 Turney Road",
+        "zip": 44125,
+        "call": "216-475-3244",
+        "forwhom": "Garfield Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60471,
+          41.41532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiloh Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Last Saturday: 12:00 - 1:30",
+        "address": "5500 Scovil Avenue",
+        "zip": 44104,
+        "call": "216-881-7337",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65118,
+          41.49142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's House of Hospitality",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 4:00 - 5:30",
+        "address": "5500 West 54th Street",
+        "zip": 44129,
+        "call": "No Site Number Available",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72315,
+          41.4115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Beulah Baptist Church",
+        "kind": "Hot Meal",
+        "when": "2nd/4th Mondays & 2nd/4th Tuesdays: 3:00 - 4:00",
+        "address": "5706 Woodland Avenue",
+        "zip": 44104,
+        "call": "216-426-8543",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65004,
+          41.48768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community A.M.E. Church",
+        "kind": "Hot Meal",
+        "when": "Last 2 Wednesdays: 4:00 - 6:00",
+        "address": "5805 Lexington Avenue",
+        "zip": 44103,
+        "call": "216-269-3870",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64941,
+          41.51127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Vincent de Paul - Woodland",
+        "kind": "Pantry",
+        "when": "Fridays: 8:30 - 11:30",
+        "address": "6001 Woodland Avenue",
+        "zip": 44104,
+        "call": "216-391-7231",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64856,
+          41.48811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Vitus Church",
+        "kind": "Pantry",
+        "when": "Second to Last Wednesday of the Month: 11:30 - 1:30",
+        "address": "6019 Lausche Avenue",
+        "zip": 44103,
+        "call": "216-361-1444",
+        "forwhom": "Within this area: East 55th Street, East 72nd Street, Lakeside Avenue and Superior Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64934,
+          41.52228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilgrim Church of Christ",
+        "kind": "Hot Meal",
+        "when": "3rd Tuesday & 3rd Wednesday: 4:00 - 5:00 (closed in January and July)",
+        "address": "616 East 105th Street",
+        "zip": 44108,
+        "call": "216-761-2279",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61595,
+          41.54039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parma Heights Food Pantry",
+        "kind": "Pantry",
+        "when": "Mondays: 9:00 - 12:00; Wednesdays: 1:00 - 4:00 & Thursdays: 5:00 - 7:00",
+        "address": "6285 Pearl Road",
+        "zip": 44130,
+        "call": "440-842-6491",
+        "forwhom": "Parma Heights residents and those who worship in Parma Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76212,
+          41.39006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project SEVA - Hopewell",
+        "kind": "Hot Meal",
+        "when": "Last Saturday: 12:00 - 1:00",
+        "address": "6403 Linwood Avenue",
+        "zip": 44103,
+        "call": "216-881-3008",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64632,
+          41.51208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lazarus Community Development Corporation",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:00 - 1:00",
+        "address": "6424 St. Clair Avenue",
+        "zip": 44103,
+        "call": "216-695-8593",
+        "forwhom": 44103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64595,
+          41.5249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatima Family Center",
+        "kind": "Pantry",
+        "when": "Last Tuesday & Wednesday: 1:00 - 3:00",
+        "address": "6600 Lexington Avenue",
+        "zip": 44103,
+        "call": "216-391-0505",
+        "forwhom": "44103,  44104 & 44106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64447,
+          41.51093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Albert the Great Parish",
+        "kind": "Hot Meal",
+        "when": "Last Sunday: 4:00 - 5:00",
+        "address": "6667 Wallings Road",
+        "zip": 44133,
+        "call": "440-237-6760",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73315,
+          41.32195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vineyard Church of Parma Heights",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 12:00 - 2:00",
+        "address": "6735 York Road",
+        "zip": 44130,
+        "call": "440-884-8463",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75912,
+          41.38004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatima Family Center",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 5:30 - 6:30",
+        "address": "6800 Lexington Avenue",
+        "zip": 44103,
+        "call": "216-391-0505",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6426,
+          41.51065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Way of Escape Ministries",
+        "kind": "Hot Meal",
+        "when": "Last Wednesday: 4:30 - 7:00",
+        "address": "6818 Denison Avenue",
+        "zip": 44102,
+        "call": "216-631-9636",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73479,
+          41.4617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middleburg Heights Food Pantry",
+        "kind": "Pantry",
+        "when": "Tuesdays: 10:00 - 12:00 & Thursdays: 5:00 - 7:00",
+        "address": "6877 Middlebrook Boulevard",
+        "zip": 44130,
+        "call": "216-362-0044",
+        "forwhom": "Middleburg Heights residents or members of Middleburg Heights Churches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80763,
+          41.37988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parma Christian Church",
+        "kind": "Pantry",
+        "when": "3rd Wednesday: 9:00 - 1:00",
+        "address": "7000 Ridge Road",
+        "zip": 44129,
+        "call": "440-842-1614",
+        "forwhom": "Parma, North Royalton & Seven Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73483,
+          41.37493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "We C.A.R.E. Community Outreach Ministries",
+        "kind": "Pantry",
+        "when": "3rd Tuesday: 10:30 - 1:00",
+        "address": "7025 Cedar Avenue",
+        "zip": 44103,
+        "call": "216-431-4130",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64003,
+          41.50079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden Valley Neighborhood House",
+        "kind": "Pantry",
+        "when": "Memorial Day - Labor Day: Mondays: 6:00 - 7:30; Tuesdays & Thursdays: 11:30 - 1:00; After Labor Day: Tuesdays, Thursdays & Saturdays: 11:30 -1:00",
+        "address": "7100 Kinsman Road",
+        "zip": 44104,
+        "call": "216-641-5558",
+        "forwhom": "44104,  44105 & 44120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63908,
+          41.47956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Timothy Missionary Baptist Church",
+        "kind": "Hot Meal",
+        "when": "4th Wednesday: 12:00 - 1:30",
+        "address": "7101 Carnegie Avenue",
+        "zip": 44103,
+        "call": "216-391-0064",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6391,
+          41.50204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Timothy Missionary Baptist Church",
+        "kind": "Pantry",
+        "when": "Last Thursday & Last Friday: 9:30 - 1:30",
+        "address": "7101 Carnegie Avenue",
+        "zip": 44103,
+        "call": "216-391-0064",
+        "forwhom": "44102 & 44109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6391,
+          41.50204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christian Family Outreach",
+        "kind": "Hot Meal",
+        "when": "2nd Monday, 2nd Wednesday & 2nd Friday: 4:30-6:30; and 2nd Tuesday & 2nd Thursday: 3:00-5:00",
+        "address": "711 East 105th Street",
+        "zip": 44108,
+        "call": "216-451-7816",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61544,
+          41.53783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Food Pantry",
+        "kind": "Pantry",
+        "when": "By Appointment",
+        "address": "7367 York Road",
+        "zip": 44130,
+        "call": "440-842-5533",
+        "forwhom": "Parma Heights & Southwest part of Parma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75964,
+          41.3659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Better Living Center",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 11:00 - 1:00",
+        "address": "745 East 105th Street",
+        "zip": 44108,
+        "call": "216-541-6203",
+        "forwhom": "Northeast Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61514,
+          41.5368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Sinai Baptist Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Fridays: 11:00 - 12:30 (3rd Friday in November & December)",
+        "address": "7510 Woodland Avenue",
+        "zip": 44104,
+        "call": "216-431-1361",
+        "forwhom": "Cuyahoga County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63629,
+          41.48805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Church C.O.G.I.C.",
+        "kind": "Pantry",
+        "when": "2nd and 4th Saturdays: 10:00 - 12:00",
+        "address": "7541 Kinsman Road",
+        "zip": 44104,
+        "call": "216-341-0385",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63583,
+          41.47855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of God and True Holiness Temple",
+        "kind": "Pantry",
+        "when": "4th Tuesdays & Thursdays: 4:30 - 6:00",
+        "address": "7710 Euclid Avenue",
+        "zip": 44103,
+        "call": "216-391-2167",
+        "forwhom": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63482,
+          41.50314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmanuel Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 11:00 - 12:45",
+        "address": "7901 Quincy Avenue",
+        "zip": 44104,
+        "call": "216-432-2212",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63281,
+          41.49366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Philip Neri Family Center",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 11:30 - 12:30",
+        "address": "799 East 82nd Street",
+        "zip": 44103,
+        "call": "216-391-4415",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63155,
+          41.53293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Philip Neri Family Center",
+        "kind": "Pantry",
+        "when": "Last Friday: 9:00 - 12:00 & Emergencies",
+        "address": "799 East 82nd Street",
+        "zip": 44103,
+        "call": "216-391-4415",
+        "forwhom": "44103,  44106 and 44108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63155,
+          41.53293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Philip Neri Sunday Meals Program (Divine Word)",
+        "kind": "Hot Meal",
+        "when": "Sundays: 11:30 - 12:30",
+        "address": "799 East 82nd Street",
+        "zip": 44103,
+        "call": "440-256-1412",
+        "forwhom": 44103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63155,
+          41.53293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manna House Recovery & Resource Center",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 2:00 - 4:00",
+        "address": "8021 Cedar Avenue",
+        "zip": 44103,
+        "call": "216-432-2598",
+        "forwhom": "44103,  44104 & 44106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63203,
+          41.5003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Church of God",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 4:00 - 6:00",
+        "address": "8108 Pulaski Avenue",
+        "zip": 44103,
+        "call": "216-391-3410",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63177,
+          41.52441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EBC Fery Development Senior Program",
+        "kind": "Hot Meal",
+        "when": "Mondays, Tuesdays, Thursdays & Fridays: 12:30-1:30",
+        "address": "813 East 152nd Street",
+        "zip": 44110,
+        "call": "216-761-5229",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57503,
+          41.55714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EBC Fery Development Senior Program",
+        "kind": "Pantry",
+        "when": "Last Thursday: 1:00 - 3:00",
+        "address": "813 East 152nd Street",
+        "zip": 44110,
+        "call": "216-761-5229",
+        "forwhom": "Collinwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57503,
+          41.55714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmanuel Christian Church",
+        "kind": "Pantry",
+        "when": "Last Saturday: 10:00 - 11:30",
+        "address": "8201 Superior Avenue",
+        "zip": 44103,
+        "call": "216-795-0910",
+        "forwhom": "44103,  44106 & 44108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6305,
+          41.52039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Door Missionary Baptist Church",
+        "kind": "Pantry",
+        "when": "Last Friday: 9:00 - 11:00",
+        "address": "8215 Woodland Avenue",
+        "zip": 44104,
+        "call": "216-721-0177",
+        "forwhom": "Fairfax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63009,
+          41.48849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater New Calvary Baptist Church",
+        "kind": "Hot Meal",
+        "when": "Last Full Week: Monday - Friday: 4:00 - 6:00",
+        "address": "822 East 150th Street",
+        "zip": 44110,
+        "call": "216-761-0486",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57714,
+          41.55619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The House That Wisdom Built",
+        "kind": "Pantry",
+        "when": "2nd Tuesday: 7:30 - 11:30",
+        "address": "822 East 150th Street",
+        "zip": 44110,
+        "call": "216-321-0022",
+        "forwhom": 44110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57714,
+          41.55619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pope John Paul II Ozanam Center (at Holy Name Church)",
+        "kind": "Pantry",
+        "when": "Saturdays: 9:30 - 12:30",
+        "address": "8328 Broadway Avenue",
+        "zip": 44105,
+        "call": "216-441-6373",
+        "forwhom": "44105, 44125, 44127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62895,
+          41.44971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. James Food Closet",
+        "kind": "Pantry",
+        "when": "3rd Friday: 12:00 - 2:30",
+        "address": "8401 Cedar Avenue",
+        "zip": 44103,
+        "call": "216-231-3562",
+        "forwhom": "Fairfax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62879,
+          41.49999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpson United Methodist Church",
+        "kind": "Pantry",
+        "when": "Last Wednesday: 9:00 - 12:00",
+        "address": "8519 Clark Avenue",
+        "zip": 44102,
+        "call": "216-281-9776",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74317,
+          41.4694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bread of Life / Antioch Development Corporation",
+        "kind": "Pantry",
+        "when": "Mondays, Wednesdays & Fridays: 12:00 - 3:00; 4th Week: 10:00 - 12:00 & 1:00 - 3:00",
+        "address": "8520 Carnegie Avenue",
+        "zip": 44106,
+        "call": "216-229-2200",
+        "forwhom": "Within this area: North of Woodland, East of East 71st Street, South of Wade Park Avenue between East 105th Street and East 125th Street, and South of Chester Avenue. They also serve Little Italy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62733,
+          41.50079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Innocent Orthodox Church",
+        "kind": "Hot Meal",
+        "when": "1st & 3rd Sundays: 5:00 - 6:00",
+        "address": "8526 Usher Road",
+        "zip": 44138,
+        "call": "440-235-4558",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.91204,
+          41.36583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Matthew United Methodist Church",
+        "kind": "Hot Meal",
+        "when": "2nd, 3rd,  4th and 5th Saturdays: 12:00 – 1:00",
+        "address": "8601 Wade Park Avenue",
+        "zip": 44106,
+        "call": "216-231-7622",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62747,
+          41.51588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antioch Development Corporation",
+        "kind": "Hot Meal",
+        "when": "Mondays: 4:00; Tuesdays & Thursdays: 11:00",
+        "address": "8869 Cedar Avenue",
+        "zip": 44106,
+        "call": "216-421-1516",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62492,
+          41.50004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Superior",
+        "kind": "Hot Meal",
+        "when": "Last 5 Business Days of the Month: 12:00 - 1:00",
+        "address": "9000 Superior Avenue",
+        "zip": 44106,
+        "call": "216-229-6065",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62508,
+          41.52067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Superior",
+        "kind": "Pantry",
+        "when": "Mondays - Thursdays: 9:00 - 11:30",
+        "address": "9000 Superior Avenue",
+        "zip": 44106,
+        "call": "216-229-6065",
+        "forwhom": "44103, 44104, 44106, 44108, 44114 & 44115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62508,
+          41.52067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia de Dios Pentecostal",
+        "kind": "Pantry",
+        "when": "2nd & 4th Wednesdays: 5:00 - 7:00",
+        "address": "913 College Avenue",
+        "zip": 44113,
+        "call": "216-241-3418",
+        "forwhom": "Tremont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49436,
+          41.50588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rock Community Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 8:00 - 11:00; Wednesdays: 5:30 -6:30 (except before the 3rd Saturday) & Sundays: 11:15 - 12:30",
+        "address": "9403 Garfield Boulevard",
+        "zip": 44125,
+        "call": "216-429-2636",
+        "forwhom": "44105, 44125, 44128,44131 and 44137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6197,
+          41.42931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Catherine Church",
+        "kind": "Pantry",
+        "when": "Tuesdays & Thursdays: 9:30 - 11:00",
+        "address": "9412 Heath Avenue",
+        "zip": 44104,
+        "call": "No Site Number Available",
+        "forwhom": "Within this area: Harvard Avenue, Martin Luther King, East 71st Street and East 79th Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61972,
+          41.46519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary Apostolic Assembly",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 9:30 - 11:30",
+        "address": "9510 Buckeye Road",
+        "zip": 44104,
+        "call": "216-231-8889",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61947,
+          41.48318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Hills Lend-A-Hand",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 8:00 - 10:00",
+        "address": "9543 Broadview Road",
+        "zip": 44147,
+        "call": "440-526-0514",
+        "forwhom": "Broadview Heights, Independence and Seven Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68459,
+          41.30712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freedom Foundation",
+        "kind": "Pantry",
+        "when": "4th Saturday: 11:00 - 1:00",
+        "address": "9700 Kinsman Road",
+        "zip": 44104,
+        "call": "216-341-3221",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61768,
+          41.47075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start Right Community Development Corp.",
+        "kind": "Pantry",
+        "when": "4th Saturday: 11:00 - 1:00",
+        "address": "977 Caledonia Avenue",
+        "zip": 44112,
+        "call": "216-458-1808",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56125,
+          41.53493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Messiah International Ministries",
+        "kind": "Pantry",
+        "when": "2nd & 4th Saturdays: 9:00 - 1:00",
+        "address": "98 Center Road",
+        "zip": 44116,
+        "call": "440-735-3473",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53694,
+          41.39628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denison Avenue United Church of Christ",
+        "kind": "Pantry",
+        "when": "4th Tuesday: 10:00 - 11:30",
+        "address": "9900 Denison Avenue",
+        "zip": 44102,
+        "call": "216-631-0904",
+        "forwhom": "44102 & 44111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75277,
+          41.4664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Mount Zion Baptist Church",
+        "kind": "Pantry",
+        "when": "Saturday after the 3rd Sunday (Except Thanksgiving & Christmas): 10:30 - 11:30",
+        "address": "9990 Euclid Avenue",
+        "zip": 44106,
+        "call": "216-231-0408",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61839,
+          41.50346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rescuing the Perishing  Inc.",
+        "kind": "Hot Meal",
+        "when": "Tuesdays: 7:00 - 8:00",
+        "address": "1700 Payne Avenue",
+        "zip": 44114,
+        "call": "440-777-3333",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68013,
+          41.50465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of Jesus Christ Mount Moriah",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 11:00 - 1:00 ",
+        "address": "9807 Cudell Avenue",
+        "zip": "44102",
+        "call": "216-315-4245",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75171,
+          41.47377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Proyecto Luz",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: By Appointment",
+        "address": "8901 Willard Avenue",
+        "zip": "44102",
+        "call": "216-651-8236",
+        "forwhom": "Westside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74568,
+          41.47088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westside Seventh Day Adventist Church",
+        "kind": "Hot Meal",
+        "when": "3rd Sunday: 1:00",
+        "address": "8809 Madison Avenue",
+        "zip": "44102",
+        "call": "216-235-0664",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74503,
+          41.47686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary Reformed Church",
+        "kind": "Hot Meal",
+        "when": "Thursdays: 12:00 - 2:00 and 3rd Friday: 5:30 - 7:00",
+        "address": "1918 West 65th Street",
+        "zip": "44102",
+        "call": "216-961-4271",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73033,
+          41.47934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvary Reformed Church",
+        "kind": "Pantry",
+        "when": "2nd & 4th Fridays: 12:00 - 4:00 ",
+        "address": "1918 West 65th Street",
+        "zip": "44102",
+        "call": "216-961-4271",
+        "forwhom": "Within this area: West 44th Street to Lake Avenue and Denison Avenue to West Boulevard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73033,
+          41.47934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebenezer Seventh Day Adventist Church",
+        "kind": "Pantry",
+        "when": "4th Thursday: 6:00 - 8:00 (the week before if the 4th is a holiday)",
+        "address": "7322 Elton Avenue",
+        "zip": "44102",
+        "call": "216-939-8661",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73502,
+          41.47512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Episcopal West Side Shared Ministry",
+        "kind": "Hot Meal",
+        "when": "Wednesdays: 6:00 - 7:00 & Sundays: 12:30",
+        "address": "1349 West 78th Street",
+        "zip": "44102",
+        "call": "216-631-2841",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73823,
+          41.48358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia Cristiana Pentecostal",
+        "kind": "Hot Meal",
+        "when": "2nd & Last Saturdays: 4:00 - 6:00 ",
+        "address": "2017 West 85th Street",
+        "zip": "44102",
+        "call": "216-246-0653",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74279,
+          41.47571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project SEVA - St. Colman's",
+        "kind": "Hot Meal",
+        "when": "2nd to Last Saturday: 3:00 - 5:00",
+        "address": "2021 West 65th Street",
+        "zip": "44102",
+        "call": "216-651-0550",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7301,
+          41.47601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagrada Familia Church",
+        "kind": "Pantry",
+        "when": "3rd Thursday: 9:00 - 11:00",
+        "address": "7719 Detroit Avenue",
+        "zip": "44102",
+        "call": "216-631-2888",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73805,
+          41.48152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WSEM Food Center at Community Corner Hunger Center ",
+        "kind": "Pantry",
+        "when": "Mondays - Fridays: 10:00 - 2:00",
+        "address": "8302 Detroit Avenue",
+        "zip": "44102",
+        "call": "216-631-6508",
+        "forwhom": "Within this area: Lake Erie, West 52nd Street, West 117th Street and Clark Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74165,
+          41.48117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince of Peace Outreach and Deliverance Ministries",
+        "kind": "Pantry",
+        "when": "Mondays, Wednesdays & Fridays: 1:00 - 4:00 ",
+        "address": "4800 Denison Avenue",
+        "zip": "44102",
+        "call": "216-651-6698",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72193,
+          41.45479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Boniface Church ",
+        "kind": "Hot Meal",
+        "when": "1st Friday: 4:00 - 6:00",
+        "address": "3545 West 54th Street",
+        "zip": "44102",
+        "call": "216-961-2713",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72501,
+          41.4577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Boniface Church ",
+        "kind": "Pantry",
+        "when": "2nd, 3rd & 4th Thursdays: 9:30 - 12:30",
+        "address": "3545 West 54th Street",
+        "zip": "44102",
+        "call": "216-961-2713",
+        "forwhom": "44102 and Within this area: Denison Avenue/Ridge Road, West 46th Street and the South Side of Clark Avenue "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72501,
+          41.4577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clague Road United Church of Christ",
+        "kind": "Hot Meal",
+        "when": "Last Saturday: 5:00 - 6:00",
+        "address": "3650 Clague Road",
+        "zip": "44070",
+        "call": "440-734-1040",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.88153,
+          41.43531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Knox Presbyterian Church",
+        "kind": "Hot Meal",
+        "when": "Last Tuesday: 5:30 - 7:00",
+        "address": "25200 Lorain Road",
+        "zip": "44070",
+        "call": "440-777-3744",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90254,
+          41.42335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Olmsted Food Pantry",
+        "kind": "Pantry",
+        "when": "Wednesdays: 1:00 - 4:00 & By Appointment",
+        "address": "26272 Butternut Ridge Road",
+        "zip": "44070",
+        "call": "440-716-4165",
+        "forwhom": "North Olmsted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.91327,
+          41.40948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westside Seventh Day Adventist Church",
+        "kind": "Hot Meal",
+        "when": "3rd Sunday: 1:00",
+        "address": "8809 Madison Avenue",
+        "zip": "44102",
+        "call": "216-235-0664",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74503,
+          41.47686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church Street Ministries",
+        "kind": "Pantry",
+        "when": "Mondays - Saturdays By Appointment ",
+        "address": "398 West Bagley Road",
+        "zip": "44017",
+        "call": "440-826-4603",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.87005,
+          41.37223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "People's Community Church",
+        "kind": "Pantry",
+        "when": "3rd Saturday: 10:00 - 12:00",
+        "address": "628 Wesley Drive",
+        "zip": "44017",
+        "call": "440-234-0609",
+        "forwhom": "Open to Anyone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85862,
+          41.38332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SCAN Hunger Center",
+        "kind": "Pantry",
+        "when": "2nd Friday: 10:00 - 3:00 & 4th Friday: 4:00 - 7:00 (Different in November & December)",
+        "address": "85 South Rocky River Drive",
+        "zip": "44017",
+        "call": "440-260-7226",
+        "forwhom": "Berea, Brook Park, Columbia Township, Middleburg Heights, Olmsted Falls and Strongsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85354,
+          41.36407
+        ]
+      }
+    }
+  ]
 }

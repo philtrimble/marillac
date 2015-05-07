@@ -1,0 +1,1874 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Adlai E. Stevenson Elementary School",
+                "Kind": "Hot Meal",
+                "Address": "18300 Woda Avenue",
+                "Zip": "44122",
+                "Phone": "(216) 482-2950",
+                "daterange": "6/8/15 - 7/3/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00 AM - 9:30 AM",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5507673,
+                    41.4549927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "ALLIANCE FOR FAMILY HOPE",
+                "Kind": "Hot Meal",
+                "Address": "5050 STANLEY",
+                "Zip": "44137",
+                "Phone": "(216) 581-2084",
+                "daterange": "6/22/15 - 7/25/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:30 AM - 9:30 AM",
+                "LunchTime": "11:00 AM - 12:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5715408,
+                    41.4217339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Applewood Centers",
+                "Kind": "Hot Meal",
+                "Address": "10427 Detroit Ave",
+                "Zip": "44102",
+                "Phone": "(440)554-1187",
+                "daterange": "6/8/15 - 8/21/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 10:30 AM",
+                "LunchTime": "12:30 PM - 2:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7597427,
+                    41.480217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bellefaire JCB",
+                "Kind": "Hot Meal",
+                "Address": "22001 Fairmount Blvd",
+                "Zip": "44118",
+                "Phone": "(216)320-8369",
+                "daterange": "6/8/15 - 8/21/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5245285,
+                    41.4868088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - Cleveland Heights",
+                "Kind": "Hot Meal",
+                "Address": "2065 Lee road",
+                "Zip": "44118",
+                "Phone": "(216)321-2582",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 PM - 5:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5653981,
+                    41.5033966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - Michael R. White STEM School",
+                "Kind": "Hot Meal",
+                "Address": "1000 E. 92nd Street",
+                "Zip": "44124",
+                "Phone": "(216) 496-1769",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "10:00 AM - 11:00 AM",
+                "LunchTime": "1:00 AM - 2:00 AM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6243515,
+                    41.5294418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - Mt. Pleasant",
+                "Kind": "Hot Meal",
+                "Address": "3689 E. 131st st",
+                "Zip": "44120",
+                "Phone": "(216)752-2450",
+                "daterange": "6/8/15 - 8/8/15",
+                "Days": "M-S",
+                "BreakfastTime": "None",
+                "LunchTime": "3:00 PM - 4:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5906143,
+                    41.4585533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - Broadway",
+                "Kind": "Hot Meal",
+                "Address": "6114 Broadway",
+                "Zip": "44127",
+                "Phone": "(216)883-4663",
+                "daterange": "5/26/15 - 8/21/15",
+                "Days": "M-S",
+                "BreakfastTime": "None",
+                "LunchTime": "2:30 PM - 3:30 PM (3:00-4:00pm on Saturday)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6478318,
+                    41.4641686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - East Cleveland/MLK",
+                "Kind": "Hot Meal",
+                "Address": "14801 Shaw Ave",
+                "Zip": "44112",
+                "Phone": "(216)681-2812",
+                "daterange": "6/8/15 - 8/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "1:00 PM - 1:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5776367,
+                    41.5401077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - FDR",
+                "Kind": "Hot Meal",
+                "Address": "800 Linn Dr",
+                "Zip": "44108",
+                "Phone": "(216)470-3530",
+                "daterange": "6/8/15 - 8/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "2:30 PM - 3:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6099932,
+                    41.5357567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC -Walton School",
+                "Kind": "Hot Meal",
+                "Address": "3409 Walton Ave",
+                "Zip": "44113",
+                "Phone": "(216) 774-9676",
+                "daterange": "6/1/15 - 8/7/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "2:00 PM - 3:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7070007,
+                    41.4706383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC -Westside",
+                "Kind": "Hot Meal",
+                "Address": "3340 Trowbridge ave",
+                "Zip": "44109",
+                "Phone": "(216)459-2697",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "1:00 PM - 3:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7058419,
+                    41.4617861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC-Charles Eliot ",
+                "Kind": "Hot Meal",
+                "Address": "15700 LOTUS DR.",
+                "Zip": "44128",
+                "Phone": "216-299-6285",
+                "daterange": "6/2/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00pm - 12:45PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5717621,
+                    41.4456406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chagrin Falls Park Community Center",
+                "Kind": "Hot Meal",
+                "Address": "7060 Woodland",
+                "Zip": "44023",
+                "Phone": "(440)247-6030",
+                "daterange": "6/22/15 - 8/7/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00 AM - 10:00 AM",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.388771,
+                    41.414505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Childrens Cupboard",
+                "Kind": "Hot Meal",
+                "Address": "176 Hedges Street",
+                "Zip": "44903",
+                "Phone": "(419) 512-0485",
+                "daterange": "6/22/15 - 7/16/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12noon - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5100339,
+                    40.7533684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Church of the Ascension",
+                "Kind": "Hot Meal",
+                "Address": "13216 Detroit Ave.",
+                "Zip": "44107",
+                "Phone": "(216)521-8727",
+                "daterange": "6/15/15 - 8/17/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 1:00 AM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7813683,
+                    41.4848149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cleveland Central Catholic",
+                "Kind": "Hot Meal",
+                "Address": "6550 Baxter Ave",
+                "Zip": "44105",
+                "Phone": "(216)441-4700",
+                "daterange": "6/15/15 - 8/14/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "1:15 PM - 3:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.644292,
+                    41.4593963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CMSD -Robinson G. Jones",
+                "Kind": "Hot Meal",
+                "Address": "4550 W. 150th Street",
+                "Zip": "44135",
+                "Phone": "(216)920-7143",
+                "daterange": "6/1/15 - 7/23/15",
+                "Days": "M,W,R",
+                "BreakfastTime": "9:00am - 9:30am",
+                "LunchTime": "11:30 AM - 12:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8030167,
+                    41.4290848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL -  E. 131 STREET BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "3830 EAST 131 STREET",
+                "Zip": "44120",
+                "Phone": "(216)623-6941",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5912224,
+                    41.4545602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - MARTIN L. KING, JR. BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "1962 STOKES BLVD.",
+                "Zip": "44106",
+                "Phone": "(216) 623-7018",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6138153,
+                    41.5045662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - Brooklyn Branch",
+                "Kind": "Hot Meal",
+                "Address": "3706 Pearl Road",
+                "Zip": "44109",
+                "Phone": "(216)623-6920",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7014404,
+                    41.4539098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - Carnegie West",
+                "Kind": "Hot Meal",
+                "Address": "1900 Fulton Road",
+                "Zip": "44113",
+                "Phone": "(216)623-6927",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7105211,
+                    41.4830654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - COLLINWOOD BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "856 EAST 152 STREET",
+                "Zip": "44110",
+                "Phone": "(216)623-6934",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5759964,
+                    41.5559692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - EASTMAN BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "11602 LORAIN AVENUE",
+                "Zip": "44111",
+                "Phone": "(216)623-6955",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7685165,
+                    41.4630508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - Fleet",
+                "Kind": "Hot Meal",
+                "Address": "7224 Broadway Ave",
+                "Zip": "44105",
+                "Phone": "(216) 623-6362",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6382675,
+                    41.4573555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - GARDEN VALLEY BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "7201 KINSMAN AVENUE",
+                "Zip": "44104",
+                "Phone": "(216) 623-6976",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6221237,
+                    41.4718208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - GLENVILLE BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "11900 ST. CLAIR AVENUE",
+                "Zip": "44108",
+                "Phone": "(216) 623-6983",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.602256,
+                    41.541069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - HOUGH BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "1566 CRAWFORD ROAD",
+                "Zip": "44106",
+                "Phone": "(216) 623-6997",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6229858,
+                    41.5143814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - JEFFERSON BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "850 JEFFERSON AVENUE",
+                "Zip": "44113",
+                "Phone": "(216) 623-7004",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6855545,
+                    41.4792557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - LANGSTON HUGHES BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "10200 SUPERIOR AVENUE",
+                "Zip": "44106",
+                "Phone": "(216) 623-6975",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6171648,
+                    41.5214807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - MT. PLEASANT BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "14000 KINSMAN ROAD",
+                "Zip": "44120",
+                "Phone": "(216) 623-7032",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5844574,
+                    41.464035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - RICE BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "11353 SHAKER BLVD.",
+                "Zip": "44120",
+                "Phone": "(216) 623-7046",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6060229,
+                    41.484314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - ROCKPORT BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "4421 WEST 140TH STREET",
+                "Zip": "44135",
+                "Phone": "(216) 623-7053",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7906225,
+                    41.4341345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - SOUTH BROOKLYN BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "4303 PEARL ROAD",
+                "Zip": "44109",
+                "Phone": "(216) 623-7067",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7071173,
+                    41.4386702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - STERLING BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "2200 E. 30TH STREET",
+                "Zip": "44115",
+                "Phone": "(216) 623-7074",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6667786,
+                    41.4975624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - UNION BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "3465 EAST 93RD STREET",
+                "Zip": "44104",
+                "Phone": "(216) 623-7088",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-S",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6214053,
+                    41.4643543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - WALZ BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "7910 DETROIT AVENUE",
+                "Zip": "44102",
+                "Phone": "(216) 623-7095",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.739616,
+                    41.482036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - WEST PARK BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "3805 WEST 157TH STREET",
+                "Zip": "44111",
+                "Phone": "(216) 623-7102",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8073807,
+                    41.4514275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - WOODLAND BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "5806 WOODLAND AVENUE",
+                "Zip": "44104",
+                "Phone": "(216) 623-7109",
+                "daterange": "6/9/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6489798,
+                    41.4879765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Brooklyn Branch",
+                "Kind": "Hot Meal",
+                "Address": "4480 Ridge Road",
+                "Zip": "44144",
+                "Phone": "(216)398-4600",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:45AM - 12:15PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7353597,
+                    41.4345624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Maple Heights Branch",
+                "Kind": "Hot Meal",
+                "Address": "5225 Library Lane",
+                "Zip": "44137",
+                "Phone": "(216)475-5000",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 noon - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5696564,
+                    41.4181175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Parma Snow Branch",
+                "Kind": "Hot Meal",
+                "Address": "2121 Snow Rd",
+                "Zip": "44134",
+                "Phone": "(216) 661-4240",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:15 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6972198,
+                    41.4041176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Southeast Branch",
+                "Kind": "Hot Meal",
+                "Address": "70 Columbus Road",
+                "Zip": "44146",
+                "Phone": "(440) 439-4997",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "11:45 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.534436,
+                    41.3940181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Garfield Heights Branch",
+                "Kind": "Hot Meal",
+                "Address": "5409 Turney Road",
+                "Zip": "44125",
+                "Phone": "(216) 475-8178",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 P.M. - 12:30 P.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6048454,
+                    41.4154623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CCPL - Warrensville Branch",
+                "Kind": "Hot Meal",
+                "Address": "4415 Northfield Road",
+                "Zip": "44128",
+                "Phone": "(216)464-5280",
+                "daterange": "6/15/15 - 3/6/15",
+                "Days": "M-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12:15 p.m. - 12:45 p.m."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5263271,
+                    41.4405765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "East Cleveland Public Library",
+                "Kind": "Hot Meal",
+                "Address": "14101 Euclid Ave",
+                "Zip": "44101",
+                "Phone": "(216)541-4128",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "1:00 PM - 2:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5846863,
+                    41.5284576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fairhill Partners",
+                "Kind": "Hot Meal",
+                "Address": "12200 Fairhill Road",
+                "Zip": "44105",
+                "Phone": "(216)421-1350",
+                "daterange": "7/7/15 - 7/30/15",
+                "Days": "T-R",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "12:30pm - 1:30pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5976257,
+                    41.4916992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Family for Life Foundation",
+                "Kind": "Hot Meal",
+                "Address": "7115 Woodland Avenue",
+                "Zip": "44104",
+                "Phone": "(216) 881-7005",
+                "daterange": "6/8/15 - 8/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "7:00am - 8:30am",
+                "LunchTime": "11:00am - 12:30pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6391294,
+                    41.4881596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "First English Lutheran Christian Day School",
+                "Kind": "Hot Meal",
+                "Address": "53 Park Ave West",
+                "Zip": "44902",
+                "Phone": "(419) 522-7500",
+                "daterange": "6/15/15 - 7/30/15",
+                "Days": "M-R",
+                "BreakfastTime": "8:30 AM - 9:30 AM",
+                "LunchTime": "11:15 AM - 12:15 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5184402,
+                    40.7584457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "East Cleveland Neighborhood Center - Freedom School",
+                "Kind": "Hot Meal",
+                "Address": "2490 Lee Blvd Suite 322",
+                "Zip": "44118",
+                "Phone": "(330) 324-8776",
+                "daterange": "6/15/15 - 7/24/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:00am - 8:45 AM",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5698853,
+                    41.5161514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Olivet Baptist Church - Freedom School",
+                "Kind": "Hot Meal",
+                "Address": "8712 Quincy Avenue",
+                "Zip": "44106",
+                "Phone": "(216) 376-4642",
+                "daterange": "6/15/15 - 7/24/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:00 A M - 8:30 A M",
+                "LunchTime": "12:00pm - 1:00 P M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6259389,
+                    41.4933752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Glenville Legacy Center - Camp ROC",
+                "Kind": "Hot Meal",
+                "Address": "7820 Euclid Ave",
+                "Zip": "44103",
+                "Phone": "(216) 225-6849",
+                "daterange": "6/15/15 - 7/23/15",
+                "Days": "M-R",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6342457,
+                    41.5038103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grace Church",
+                "Kind": "Hot Meal",
+                "Address": "2503 Broadview Road",
+                "Zip": "44109",
+                "Phone": "(216)661-8210",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7020111,
+                    41.4393768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holy Trinity Baptist Church",
+                "Kind": "Hot Meal",
+                "Address": "3808  East 131st. Street",
+                "Zip": "44120",
+                "Phone": "(216)561-4121",
+                "daterange": "5/15/15 - 8/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00 AM - 10:30 AM",
+                "LunchTime": "12:30 PM - 1:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5912278,
+                    41.4549659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "JUST 4 KIDS",
+                "Kind": "Hot Meal",
+                "Address": "3565 MAYFIELD ROAD",
+                "Zip": "44118",
+                "Phone": "(216)402-5025",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:00AM - 9:00AM",
+                "LunchTime": "11:00 AM - 12:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5510577,
+                    41.5205318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Karamu House",
+                "Kind": "Hot Meal",
+                "Address": "2355 East 89th Street",
+                "Zip": "44105",
+                "Phone": "(216)795-7070",
+                "daterange": "6/1/15 - 8/21/15",
+                "Days": "M-R",
+                "BreakfastTime": "6:30am - 9:30 AM",
+                "LunchTime": "12:00 PM - 2:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6240616,
+                    41.4942474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kingdom Builders of Christ Church",
+                "Kind": "Hot Meal",
+                "Address": "6612 st. clair avenue",
+                "Zip": "44108",
+                "Phone": "(216)269-2477",
+                "daterange": "6/8/15 - 8/31/15",
+                "Days": "M,S",
+                "BreakfastTime": "None",
+                "LunchTime": "5:00 PM - 5:45 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.643814,
+                    41.525588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Liberty Hill Baptist Church",
+                "Kind": "Hot Meal",
+                "Address": "8206 Euclid Avenue",
+                "Zip": "44103",
+                "Phone": "(216)245-3592",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "7:00am - 8:00am",
+                "LunchTime": "11:45 AM - 12:15 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6305986,
+                    41.5036158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Open Doors Academy",
+                "Kind": "Hot Meal",
+                "Address": "3311 Perkins Ave.",
+                "Zip": "44114",
+                "Phone": "(216)229-1900",
+                "daterange": "6/15/15 - 8/6/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6639862,
+                    41.5062256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Parma City Schools",
+                "Kind": "Hot Meal",
+                "Address": "11212 Snow Road",
+                "Zip": "44130",
+                "Phone": "(440) 842-7022",
+                "daterange": "6/9/15 - 8/21/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "12:00pm - 1:30pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7655419,
+                    41.4050668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pilgrim Congregational United Church of Christ",
+                "Kind": "Hot Meal",
+                "Address": "2592 West 14th Street",
+                "Zip": "44113",
+                "Phone": "(216) 861-7388",
+                "daterange": "6/15/15 - 7/17/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00pm - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.691864,
+                    41.4769211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Robert H. Jamison School",
+                "Kind": "Hot Meal",
+                "Address": "4092 East 146th Street",
+                "Zip": "44128",
+                "Phone": "(216) 400-7047",
+                "daterange": "6/8/15 - 7/10/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "1:00pm - 2:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5802231,
+                    41.4481506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SA - Superior",
+                "Kind": "Hot Meal",
+                "Address": "9000 Superior Avenue",
+                "Zip": "44106",
+                "Phone": "(216)229-6065",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30a - 12:30P"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6249008,
+                    41.5205078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SA - Temple",
+                "Kind": "Hot Meal",
+                "Address": "17625 Grovewwod",
+                "Zip": "44110",
+                "Phone": "(216) 357-9134",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:00am - 9:00am",
+                "LunchTime": "12:00 PM - 1:30 AM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5572128,
+                    41.5767632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SA - West Park",
+                "Kind": "Hot Meal",
+                "Address": "12645 Lorain Ave",
+                "Zip": "44111",
+                "Phone": "(216)789-6558",
+                "daterange": "6/22/15 - 8/7/15",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 10:00am",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7760689,
+                    41.4595116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SA-Ohio City",
+                "Kind": "Hot Meal",
+                "Address": "4402 Clark Ave",
+                "Zip": "44109",
+                "Phone": "(216)631-1515",
+                "daterange": "6/8/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:30am - 9:00am",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7166928,
+                    41.4697026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Scranton Road Ministries ",
+                "Kind": "Hot Meal",
+                "Address": "3095 Scranton Road",
+                "Zip": "44113",
+                "Phone": "(216)861-5323",
+                "daterange": "6/1/15 - 7/30/15",
+                "Days": "M-R",
+                "BreakfastTime": "9:30 AM - 10:00 AM",
+                "LunchTime": "12:00 PM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6965942,
+                    41.4701424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Start Right CDC",
+                "Kind": "Hot Meal",
+                "Address": "977 Caledonia Ave",
+                "Zip": "44112",
+                "Phone": "(216) 832-6508",
+                "daterange": "6/22/15 - 8/6/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "1:30 AM - 2:00 AM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5621339,
+                    41.5334976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "City of Mansfield - North Lake",
+                "Kind": "Hot Meal",
+                "Address": "445 Bowman St",
+                "Zip": "44903",
+                "Phone": "(419) 524-2626",
+                "daterange": "6/22/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5237656,
+                    40.7703285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "City of Mansfield - Ocie Hill ",
+                "Kind": "Hot Meal",
+                "Address": "445 Bowman St",
+                "Zip": "44903",
+                "Phone": "(419) 524-2626",
+                "daterange": "6/22/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:00am - 9:00am",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5237656,
+                    40.7703285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "City of Mansfield - Prospect Park",
+                "Kind": "Hot Meal",
+                "Address": "445 Bowman St",
+                "Zip": "44903",
+                "Phone": "(419) 524-2626",
+                "daterange": "6/22/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5237656,
+                    40.7703285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Teach Me Childcare",
+                "Kind": "Hot Meal",
+                "Address": "540 Pearl St.",
+                "Zip": "44902",
+                "Phone": "(419) 610-6915",
+                "daterange": "6/8/15 - 8/28/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:30 AM - 9:30 AM",
+                "LunchTime": "12:30 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5052234,
+                    40.7728386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Basheer Jones Foundation",
+                "Kind": "Hot Meal",
+                "Address": "2357 Tremont Ave.",
+                "Zip": "44113",
+                "Phone": "216-338-2885",
+                "daterange": "6/22/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "8:30 AM - 9:30 AM",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6870651,
+                    41.4798662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Church C.O.G.I.C.",
+                "Kind": "Hot Meal",
+                "Address": "7541 Kinsman Rd.",
+                "Zip": "44104",
+                "Phone": "(216) 536-3284",
+                "daterange": "6/8/15 - 8/14/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30am - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6347656,
+                    41.4784966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "True Faith Apostolic Bibleway Church",
+                "Kind": "Hot Meal",
+                "Address": "911 Maud Avenue",
+                "Zip": "44103",
+                "Phone": "(216)543-5585",
+                "daterange": "6/9/15 - 8/31/15",
+                "Days": "S",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6329529,
+                    41.529363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "City of Warrensville (Granada Gardens)",
+                "Kind": "Hot Meal",
+                "Address": "4301 Warrensville Ctr Rd",
+                "Zip": "44128",
+                "Phone": "(216) 662-5286",
+                "daterange": "6/10/15 - 8/13/15",
+                "Days": "W-R",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00pm - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.536034,
+                    41.4426117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Urban Squash Cleveland",
+                "Kind": "Hot Meal",
+                "Address": "7100 Euclid Ave",
+                "Zip": "44103",
+                "Phone": "(216) 269-6034",
+                "daterange": "7/6/15 - 7/31/15",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00PM - 1:00PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6387024,
+                    41.5030441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bethany Christian Church (Disciples of Christ)",
+                "Kind": "Hot Meal",
+                "Address": "3940 MLK Dr",
+                "Zip": "44105",
+                "Phone": "(216)548-3879",
+                "daterange": " 6/22/15 - 7/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "8:30 AM - 9:00 AM",
+                "LunchTime": "12:30 PM - 1:00 AM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.60273518,
+                    41.45148712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC - St. Luke's",
+                "Kind": "Hot Meal",
+                "Address": "2705 MLK Dr.",
+                "Zip": "44104",
+                "Phone": "(216) 400-8212",
+                "daterange": " 6/1/15 - 8/14/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "2:00pm - 3:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.60325423,
+                    41.48574249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BGC- King Kennedy",
+                "Kind": "Hot Meal",
+                "Address": "2561 E. 59th Street",
+                "Zip": "44104",
+                "Phone": "(216)881-4636",
+                "daterange": " 6/8/15 - 8/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "2:30 PM - 3:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.64888459,
+                    41.48868649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - Addison Branch",
+                "Kind": "Hot Meal",
+                "Address": "6901 Superior Avenue",
+                "Zip": "44103",
+                "Phone": "(216)623-6902",
+                "daterange": " 6/8/15 - 7/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.64224812,
+                    41.51925244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - FULTON BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "3545 FULTON ROAD",
+                "Zip": "44109",
+                "Phone": "(216) 623-6969",
+                "daterange": " 6/9/15 - 7/31/15 ",
+                "Days": "M-S",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.71290163,
+                    41.4579881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - HARVARD LEE BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "16918 HARVARD AVENUE",
+                "Zip": "44128",
+                "Phone": "(216) 623-6990",
+                "daterange": " 6/9/15 - 7/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5616168,
+                    41.44967735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - LORAIN BRANCH",
+                "Kind": "Hot Meal",
+                "Address": "8216 LORAIN BLVD",
+                "Zip": "44102",
+                "Phone": "(216) 623-7011",
+                "daterange": " 6/9/15 - 7/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.74163692,
+                    41.47074168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "CPL - MAIN LIBRARY",
+                "Kind": "Hot Meal",
+                "Address": "325 SUPERIOR AVENUE",
+                "Zip": "44114",
+                "Phone": "(216) 623-2834",
+                "daterange": " 6/9/15 - 7/31/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "11:30 AM - 12:30 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.69178213,
+                    41.50076773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FIFTH CHRISTIAN CHURCH",
+                "Kind": "Hot Meal",
+                "Address": "14109 BENWOOD AVENUE",
+                "Zip": "44128",
+                "Phone": "(216)751-3996",
+                "daterange": " 6/22/15 - 8/14/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "9:00am - 9:45am",
+                "LunchTime": "12noon - 1:00pm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.58390163,
+                    41.45092053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Peace in Hood",
+                "Kind": "Hot Meal",
+                "Address": "13512 Kinsman Rd",
+                "Zip": "44120",
+                "Phone": "(216)618-8806",
+                "daterange": " 6/15/15 - 8/6/15 ",
+                "Days": "M-R",
+                "BreakfastTime": "8:00 AM - 9:00 AM",
+                "LunchTime": "11:30 AM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.58832341,
+                    41.46524453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taskforce of Greater Cleveland (Carey West Apts.)",
+                "Kind": "Hot Meal",
+                "Address": "8901 Detroit Ave.",
+                "Zip": "44102",
+                "Phone": "(216) 502-8791",
+                "daterange": " 6/15/15 - 8/21/15 ",
+                "Days": "M-F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 noon - 1:00 P.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7452729,
+                    41.48027907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Three Crosses Methodist Church",
+                "Kind": "Hot Meal",
+                "Address": "12 Clevewland St.",
+                "Zip": "44822",
+                "Phone": "(419)883-2269",
+                "daterange": " 6/8/15 - 7/31/15 ",
+                "Days": "M,W,F",
+                "BreakfastTime": "None",
+                "LunchTime": "12:00 PM - 1:00 PM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.42462098,
+                    40.58692585
+                ]
+            }
+        }
+    ]
+}
