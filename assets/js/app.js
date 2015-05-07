@@ -1,4 +1,4 @@
-var map, featureList, hotmealSearch = [], pantrySearch = [], summerfeedingSearch = [];
+var map, featureList, hotmealSearch = [], pantrySearch = [];
 
 $(window).resize(function() {
   sizeLayerControl();
@@ -88,14 +88,6 @@ function syncSidebar() {
     if (map.hasLayer(hotmealLayer)) {
       if (map.getBounds().contains(layer.getLatLng())) {
         $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/hotmeal.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
-      }
-    }
-  });
-  /* Loop through summerfeeding layer and add only features which are in the map bounds */
-  summerfeeding.eachLayer(function (layer) {
-    if (map.hasLayer(summerfeedingLayer)) {
-      if (map.getBounds().contains(layer.getLatLng())) {
-        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/summerfeeding.png"></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       }
     }
   });
@@ -245,6 +237,7 @@ $.getJSON("places.geojson", function (data) {
   map.addLayer(pantryLayer);
 });
 
+<<<<<<< HEAD
 /* Empty layer placeholder to add to layer control for listening when to add/remove summerfeedings to markerClusters layer */
 var summerfeedingLayer = L.geoJson(null);
 var summerfeeding = L.geoJson(null, {
@@ -291,6 +284,8 @@ $.getJSON("places.geojson", function (data) {
   map.addLayer(summerfeedingLayer);
 });
 
+=======
+>>>>>>> parent of 422c487... Initial add of summer feeding later
 map = L.map("map", {
   zoom: 11,
   center: [41.501860,-81.635799],
@@ -298,6 +293,10 @@ map = L.map("map", {
   zoomControl: false,
   attributionControl: false
 });
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 422c487... Initial add of summer feeding later
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
   if (e.layer === hotmealLayer) {
@@ -306,10 +305,6 @@ map.on("overlayadd", function(e) {
   }
   if (e.layer === pantryLayer) {
     markerClusters.addLayer(pantries);
-    syncSidebar();
-  }
-  if (e.layer === summerfeedingLayer) {
-    markerClusters.addLayer(summerfeeding);
     syncSidebar();
   }
 });
@@ -321,10 +316,6 @@ map.on("overlayremove", function(e) {
   }
   if (e.layer === pantryLayer) {
     markerClusters.removeLayer(pantries);
-    syncSidebar();
-  }
-  if (e.layer === summerfeedingLayer) {
-    markerClusters.removeLayer(summerfeeding);
     syncSidebar();
   }
 });
@@ -413,7 +404,6 @@ var groupedOverlays = {
   "Points of Interest": {
     "<img src='assets/img/hotmeal.png' width='32' height='32'>&nbsp;Hot Meals": hotmealLayer,
     "<img src='assets/img/pantry.png' width='32' height='32'>&nbsp;Pantries": pantryLayer
-    "<img src='assets/img/summerfeeding.png' width='32' height='32'>&nbsp;Summer Feeding": summerfeedingLayer
   }
 };
 
@@ -461,16 +451,6 @@ $(document).one("ajaxStop", function () {
     },
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     local: pantrySearch,
-    limit: 10
-  });
-
-    var summerfeedingBH = new Bloodhound({
-    name: "Summer Feeding",
-    datumTokenizer: function (d) {
-      return Bloodhound.tokenizers.whitespace(d.name);
-    },
-    queryTokenizer: Bloodhound.tokenizers.whitespace,
-    local: summerfeedingSearch,
     limit: 10
   });
 
@@ -537,15 +517,6 @@ $(document).one("ajaxStop", function () {
     if (datum.source === "Pantries") {
       if (!map.hasLayer(pantryLayer)) {
         map.addLayer(pantryLayer);
-      }
-      map.setView([datum.lat, datum.lng], 17);
-      if (map._layers[datum.id]) {
-        map._layers[datum.id].fire("click");
-      }
-    }
-    if (datum.source === "Summer Feeding") {
-      if (!map.hasLayer(summerfeedingLayer)) {
-        map.addLayer(summerfeedingLayer);
       }
       map.setView([datum.lat, datum.lng], 17);
       if (map._layers[datum.id]) {
