@@ -502,8 +502,8 @@ if (!L.Browser.touch) {
 
 
 // jQuery.LiveAddress("3548360835023561920");
-// var htmlKey = "3548360835619230092";  // github    // Put your HTML key here
-var htmlKey = "2656237163095450162";  // local
+var htmlKey = "2656237163316668885";  // github    // Put your HTML key here
+
 
 // var testRunnerVersion = "1.1.6";  // The version of this test runner page
 
