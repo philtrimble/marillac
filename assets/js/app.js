@@ -403,41 +403,8 @@ $(document).one("ajaxStop", function () {
     limit: 10
   });
 
-
-
- /* var geonamesBH = new Bloodhound({
-    name: "GeoNames",
-    datumTokenizer: function (d) {
-      return Bloodhound.tokenizers.whitespace(d.name);
-    },
-    queryTokenizer: Bloodhound.tokenizers.whitespace,
-    remote: {
-      url: "http://api.geonames.org/searchJSON?username=bootleaf&featureClass=P&maxRows=5&countryCode=US&name_startsWith=%QUERY",
-      filter: function (data) {
-        return $.map(data.geonames, function (result) {
-          return {
-            name: result.name + ", " + result.adminCode1,
-            lat: result.lat,
-            lng: result.lng,
-            source: "GeoNames"
-          };
-        });
-      },
-      ajax: {
-        beforeSend: function (jqXhr, settings) {
-          settings.url += "&east=" + map.getBounds().getEast() + "&west=" + map.getBounds().getWest() + "&north=" + map.getBounds().getNorth() + "&south=" + map.getBounds().getSouth();
-          $("#searchicon").removeClass("fa-search").addClass("fa-refresh fa-spin");
-        },
-        complete: function (jqXHR, status) {
-          $('#searchicon').removeClass("fa-refresh fa-spin").addClass("fa-search");
-        }
-      }
-    },
-    limit: 10
-  }); */
   hotmealsBH.initialize();
   pantriesBH.initialize();
- // geonamesBH.initialize();
 
   /* instantiate the typeahead UI */
   $("#searchbox").typeahead({
@@ -471,9 +438,6 @@ $(document).one("ajaxStop", function () {
         map._layers[datum.id].fire("click");
       }
     }
-    if (datum.source === "GeoNames") {
-      map.setView([datum.lat, datum.lng], 14);
-    }
     if ($(".navbar-collapse").height() > 50) {
       $(".navbar-collapse").collapse("hide");
     }
@@ -500,12 +464,17 @@ if (!L.Browser.touch) {
 
 // smartystreets configuration
 
+<<<<<<< HEAD
 
 // jQuery.LiveAddress("3548360835023561920");
 var htmlKey = "2656237163316668885";  // github    // Put your HTML key here
 
 
 // var testRunnerVersion = "1.1.6";  // The version of this test runner page
+=======
+var htmlKey = "3548360835619230092";  // github    
+// var htmlKey = "3548360835023561920";  // local
+>>>>>>> skorasaurus/gh-pages
 
     $(function()
     {
@@ -520,6 +489,7 @@ var htmlKey = "2656237163316668885";  // github    // Put your HTML key here
       cityStatePreference: "Cleveland, OH", // prefer Cle cities
       stateFilter: "OH", // only autcomplete ohio
       autoMap: false,
+      geolocate: false, // we'll leave false for now, but toggle this and cityStatePreference as we do further testing
       addresses: [{ street: '#dangerzone' }]
     });
 
